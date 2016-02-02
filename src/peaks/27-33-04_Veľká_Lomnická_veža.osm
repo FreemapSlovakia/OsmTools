@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.2023962894' lat='49.1612838766'/>
+<node id='-20000001' lon='20.2019627031' lat='49.1882563306'/>
+<node id='-20000002' lon='20.2021584868' lat='49.1885756204'/>
+<node id='-20000003' lon='20.2026413805' lat='49.1887106497'/>
+<node id='-20000004' lon='20.2369339977' lat='49.188942367'/>
+<node id='-20000005' lon='20.2712270452' lat='49.1891639027'/>
+<node id='-20000006' lon='20.2717139981' lat='49.1890352829'/>
+<node id='-20000007' lon='20.2719195653' lat='49.1887186461'/>
+<node id='-20000008' lon='20.2721174391' lat='49.1752322169'/>
+<node id='-20000009' lon='20.272315165' lat='49.1617457555'/>
+<node id='-20000010' lon='20.2721190337' lat='49.1614265828'/>
+<node id='-20000011' lon='20.2716362142' lat='49.1612918441'/>
+<node id='-20000012' lon='20.2030890394' lat='49.1608390258'/>
+<node id='-20000013' lon='20.202602183' lat='49.1609673591'/>
+<node id='-20000014' lon='20.2023962894' lat='49.1612838766'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.20958' lat='49.18381'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000001' lon='20.22330' lat='49.18391'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000002' lon='20.23702' lat='49.18400'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000003' lon='20.25073' lat='49.18409'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000004' lon='20.26445' lat='49.18418'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000005' lon='20.20973' lat='49.17482'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000006' lon='20.22344' lat='49.17491'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000007' lon='20.23715' lat='49.17501'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000008' lon='20.25087' lat='49.17510'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000009' lon='20.26458' lat='49.17518'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000010' lon='20.20987' lat='49.16583'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000011' lon='20.22358' lat='49.16592'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000012' lon='20.23729' lat='49.16602'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000013' lon='20.25100' lat='49.16611'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+<node id='-10000014' lon='20.26471' lat='49.16619'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Lomnická veža'/><tag k='ele' v='2211'/></node>
+</osm>

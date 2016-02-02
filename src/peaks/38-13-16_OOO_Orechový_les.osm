@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.3373624685' lat='48.7139430429'/>
+<node id='-20000001' lon='21.3375428926' lat='48.7409197505'/>
+<node id='-20000002' lon='21.3377441472' lat='48.7412371216'/>
+<node id='-20000003' lon='21.3382257643' lat='48.7413674132'/>
+<node id='-20000004' lon='21.3722154002' lat='48.7412626828'/>
+<node id='-20000005' lon='21.406204831' lat='48.7411479274'/>
+<node id='-20000006' lon='21.4066844994' lat='48.7410145321'/>
+<node id='-20000007' lon='21.4068810586' lat='48.7406958768'/>
+<node id='-20000008' lon='21.4066635613' lat='48.7137193801'/>
+<node id='-20000009' lon='21.4064619836' lat='48.7134021271'/>
+<node id='-20000010' lon='21.405980457' lat='48.7132721191'/>
+<node id='-20000011' lon='21.3380389514' lat='48.7134913937'/>
+<node id='-20000012' lon='21.3375593615' lat='48.7136245036'/>
+<node id='-20000013' lon='21.3373624685' lat='48.7139430429'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.34499' lat='48.73640'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000001' lon='21.35859' lat='48.73636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000002' lon='21.37218' lat='48.73632'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000003' lon='21.38577' lat='48.73627'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000004' lon='21.39937' lat='48.73622'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000005' lon='21.34493' lat='48.72741'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000006' lon='21.35852' lat='48.72737'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000007' lon='21.37211' lat='48.72732'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000008' lon='21.38571' lat='48.72728'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000009' lon='21.39930' lat='48.72723'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000010' lon='21.34487' lat='48.71842'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000011' lon='21.35846' lat='48.71837'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000012' lon='21.37205' lat='48.71833'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000013' lon='21.38564' lat='48.71829'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+<node id='-10000014' lon='21.39923' lat='48.71824'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Orechový les'/><tag k='ele' v='343'/></node>
+</osm>

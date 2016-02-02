@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.9997464224' lat='49.2226559909'/>
+<node id='-20000001' lon='22.0004725575' lat='49.2586168605'/>
+<node id='-20000002' lon='22.0006801462' lat='49.2589329854'/>
+<node id='-20000003' lon='22.0011684618' lat='49.259060443'/>
+<node id='-20000004' lon='22.0286396355' lat='49.2588191424'/>
+<node id='-20000005' lon='22.0561104366' lat='49.2585713111'/>
+<node id='-20000006' lon='22.0565932695' lat='49.2584352078'/>
+<node id='-20000007' lon='22.0567876426' lat='49.2581155048'/>
+<node id='-20000008' lon='22.0565957537' lat='49.2491254671'/>
+<node id='-20000009' lon='22.0563878498' lat='49.2488094416'/>
+<node id='-20000010' lon='22.0558994932' lat='49.2486822163'/>
+<node id='-20000011' lon='22.0428535541' lat='49.2488007104'/>
+<node id='-20000012' lon='22.0422954009' lat='49.2222799217'/>
+<node id='-20000013' lon='22.0420877019' lat='49.2219638659'/>
+<node id='-20000014' lon='22.041599644' lat='49.2218365768'/>
+<node id='-20000015' lon='22.0004236683' lat='49.2222005102'/>
+<node id='-20000016' lon='21.9999410275' lat='49.222336379'/>
+<node id='-20000017' lon='21.9997464224' lat='49.2226559909'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='22.00794' lat='49.25406'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000001' lon='22.02168' lat='49.25394'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000002' lon='22.03541' lat='49.25382'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000003' lon='22.04915' lat='49.25369'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000004' lon='22.00776' lat='49.24507'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000005' lon='22.02149' lat='49.24495'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000006' lon='22.03522' lat='49.24483'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000007' lon='22.00758' lat='49.23608'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000008' lon='22.02131' lat='49.23596'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000009' lon='22.03504' lat='49.23584'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000010' lon='22.00739' lat='49.22709'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000011' lon='22.02112' lat='49.22697'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+<node id='-10000012' lon='22.03485' lat='49.22684'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Megelov grúň'/><tag k='ele' v='752'/></node>
+</osm>

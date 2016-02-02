@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.8963872817' lat='48.1156060214'/>
+<node id='-20000001' lon='19.8960018783' lat='48.1335893543'/>
+<node id='-20000002' lon='19.8961918059' lat='48.133909197'/>
+<node id='-20000003' lon='19.8966639685' lat='48.1340454591'/>
+<node id='-20000004' lon='19.923529228' lat='48.1343002794'/>
+<node id='-20000005' lon='19.9240069714' lat='48.1341730272'/>
+<node id='-20000006' lon='19.9242103619' lat='48.133856915'/>
+<node id='-20000007' lon='19.924304286' lat='48.1293610453'/>
+<node id='-20000008' lon='19.9243981872' lat='48.1248651721'/>
+<node id='-20000009' lon='19.9242081169' lat='48.1245453759'/>
+<node id='-20000010' lon='19.9237359684' lat='48.1244092275'/>
+<node id='-20000011' lon='19.9109774758' lat='48.1242890117'/>
+<node id='-20000012' lon='19.9111580443' lat='48.1157469481'/>
+<node id='-20000013' lon='19.9109680892' lat='48.1154271303'/>
+<node id='-20000014' lon='19.9104960596' lat='48.1152909281'/>
+<node id='-20000015' lon='19.8970683973' lat='48.115162816'/>
+<node id='-20000016' lon='19.8965907659' lat='48.1152899575'/>
+<node id='-20000017' lon='19.8963872817' lat='48.1156060214'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='19.90349' lat='48.12916'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Cerina'/><tag k='ele' v='489'/></node>
+<node id='-10000001' lon='19.91692' lat='48.12929'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Cerina'/><tag k='ele' v='489'/></node>
+<node id='-10000002' lon='19.90368' lat='48.12017'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Cerina'/><tag k='ele' v='489'/></node>
+</osm>

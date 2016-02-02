@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.4081515842' lat='49.1535302586'/>
+<node id='-20000001' lon='20.4077225812' lat='49.1894951199'/>
+<node id='-20000002' lon='20.407919692' lat='49.1898140578'/>
+<node id='-20000003' lon='20.4084031532' lat='49.1899482255'/>
+<node id='-20000004' lon='20.4358390551' lat='49.1900855396'/>
+<node id='-20000005' lon='20.4632751608' lat='49.1902163365'/>
+<node id='-20000006' lon='20.463761622' lat='49.1900869081'/>
+<node id='-20000007' lon='20.4639659662' lat='49.1897699322'/>
+<node id='-20000008' lon='20.4641602072' lat='49.1717873569'/>
+<node id='-20000009' lon='20.4643542547' lat='49.1538047248'/>
+<node id='-20000010' lon='20.4641569216' lat='49.1534858801'/>
+<node id='-20000011' lon='20.4636736615' lat='49.1533519454'/>
+<node id='-20000012' lon='20.4088423776' lat='49.1530841757'/>
+<node id='-20000013' lon='20.4083561326' lat='49.153213376'/>
+<node id='-20000014' lon='20.4081515842' lat='49.1535302586'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='20.4627665777' lat='49.1711967161'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Zlatá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='716'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='20.4488087436' lat='49.1610360398'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Zlatá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='716'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='20.4442278482' lat='49.1579003184'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Zlatá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='716'/><tag k='source' v='kapor2'/></node>
+</osm>

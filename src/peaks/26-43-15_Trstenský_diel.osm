@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.6010422497' lat='49.0926178684'/>
+<node id='-20000001' lon='19.6000306072' lat='49.12857429'/>
+<node id='-20000002' lon='19.6002222932' lat='49.1288945993'/>
+<node id='-20000003' lon='19.6007029707' lat='49.129032141'/>
+<node id='-20000004' lon='19.6349476714' lat='49.1294422111'/>
+<node id='-20000005' lon='19.6691931392' lat='49.1298421265'/>
+<node id='-20000006' lon='19.6696810636' lat='49.12971604'/>
+<node id='-20000007' lon='19.6698902143' lat='49.1294004716'/>
+<node id='-20000008' lon='19.6703710582' lat='49.1114217707'/>
+<node id='-20000009' lon='19.670851424' lat='49.0934430101'/>
+<node id='-20000010' lon='19.6706594149' lat='49.0931228163'/>
+<node id='-20000011' lon='19.6701788874' lat='49.0929855675'/>
+<node id='-20000012' lon='19.6017394057' lat='49.0921766149'/>
+<node id='-20000013' lon='19.6012516763' lat='49.0923024191'/>
+<node id='-20000014' lon='19.6010422497' lat='49.0926178684'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.60769' lat='49.12417'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000001' lon='19.62139' lat='49.12433'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000002' lon='19.63509' lat='49.12450'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000003' lon='19.64879' lat='49.12466'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000004' lon='19.66248' lat='49.12482'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000005' lon='19.60795' lat='49.11518'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000006' lon='19.62164' lat='49.11534'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000007' lon='19.63534' lat='49.11551'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000008' lon='19.64903' lat='49.11567'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000009' lon='19.66272' lat='49.11583'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000010' lon='19.60820' lat='49.10619'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000011' lon='19.62189' lat='49.10636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000012' lon='19.63558' lat='49.10652'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000013' lon='19.64927' lat='49.10668'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000014' lon='19.66296' lat='49.10684'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000015' lon='19.60845' lat='49.09720'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000016' lon='19.62214' lat='49.09737'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000017' lon='19.63583' lat='49.09753'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000018' lon='19.64952' lat='49.09769'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+<node id='-10000019' lon='19.66321' lat='49.09785'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstenský diel'/><tag k='ele' v='760'/></node>
+</osm>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.8055967967' lat='49.4309405815'/>
+<node id='-20000001' lon='18.8039911891' lat='49.4668792013'/>
+<node id='-20000002' lon='18.8041789367' lat='49.4672008036'/>
+<node id='-20000003' lon='18.8046606231' lat='49.4673416865'/>
+<node id='-20000004' lon='18.8391257076' lat='49.4679910324'/>
+<node id='-20000005' lon='18.8735920273' lat='49.4686301148'/>
+<node id='-20000006' lon='18.8740853228' lat='49.468507456'/>
+<node id='-20000007' lon='18.8743010481' lat='49.4681933961'/>
+<node id='-20000008' lon='18.8754670713' lat='49.4412382135'/>
+<node id='-20000009' lon='18.8752789507' lat='49.4409167261'/>
+<node id='-20000010' lon='18.8747973173' lat='49.4407761397'/>
+<node id='-20000011' lon='18.8617076147' lat='49.4405347343'/>
+<node id='-20000012' lon='18.8620788631' lat='49.4319991236'/>
+<node id='-20000013' lon='18.861890863' lat='49.4316776137'/>
+<node id='-20000014' lon='18.8614093565' lat='49.4315369722'/>
+<node id='-20000015' lon='18.8063058741' lat='49.4305042656'/>
+<node id='-20000016' lon='18.8058127891' lat='49.4306266423'/>
+<node id='-20000017' lon='18.8055967967' lat='49.4309405815'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='18.81178' lat='49.46253'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000001' lon='18.82556' lat='49.46279'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000002' lon='18.83935' lat='49.46305'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000003' lon='18.85313' lat='49.46330'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000004' lon='18.86692' lat='49.46356'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000005' lon='18.81218' lat='49.45354'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000006' lon='18.82596' lat='49.45380'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000007' lon='18.83974' lat='49.45406'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000008' lon='18.85353' lat='49.45432'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000009' lon='18.86731' lat='49.45457'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000010' lon='18.81258' lat='49.44456'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000011' lon='18.82636' lat='49.44482'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000012' lon='18.84014' lat='49.44508'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000013' lon='18.85392' lat='49.44533'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000014' lon='18.86770' lat='49.44559'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000015' lon='18.81298' lat='49.43557'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000016' lon='18.82676' lat='49.43583'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000017' lon='18.84053' lat='49.43609'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+<node id='-10000018' lon='18.85431' lat='49.43635'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horelická Kykula'/><tag k='ele' v='753'/></node>
+</osm>

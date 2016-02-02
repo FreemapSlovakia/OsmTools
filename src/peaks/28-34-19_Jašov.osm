@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.8732068177' lat='49.0528357123'/>
+<node id='-20000001' lon='21.873837255' lat='49.0887989449'/>
+<node id='-20000002' lon='21.8740433234' lat='49.0891153244'/>
+<node id='-20000003' lon='21.8745296618' lat='49.0892433362'/>
+<node id='-20000004' lon='21.9087525847' lat='49.0889790158'/>
+<node id='-20000005' lon='21.9429749978' lat='49.0887045506'/>
+<node id='-20000006' lon='21.9434565191' lat='49.0885689203'/>
+<node id='-20000007' lon='21.9436509807' lat='49.0882493883'/>
+<node id='-20000008' lon='21.9429701956' lat='49.0522868473'/>
+<node id='-20000009' lon='21.9427638439' lat='49.051970586'/>
+<node id='-20000010' lon='21.9422776923' lat='49.0518428579'/>
+<node id='-20000011' lon='21.8738829614' lat='49.0523809545'/>
+<node id='-20000012' lon='21.8734015949' lat='49.0525162947'/>
+<node id='-20000013' lon='21.8732068177' lat='49.0528357123'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.88129' lat='49.08425'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000001' lon='21.89498' lat='49.08414'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000002' lon='21.90867' lat='49.08404'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000003' lon='21.92235' lat='49.08393'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000004' lon='21.93604' lat='49.08382'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000005' lon='21.88113' lat='49.07526'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000006' lon='21.89482' lat='49.07515'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000007' lon='21.90850' lat='49.07505'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000008' lon='21.92219' lat='49.07494'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000009' lon='21.93587' lat='49.07483'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000010' lon='21.88097' lat='49.06627'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000011' lon='21.89466' lat='49.06616'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000012' lon='21.90834' lat='49.06605'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000013' lon='21.92202' lat='49.06595'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000014' lon='21.93570' lat='49.06584'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000015' lon='21.88081' lat='49.05727'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000016' lon='21.89449' lat='49.05717'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000017' lon='21.90817' lat='49.05706'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000018' lon='21.92186' lat='49.05696'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+<node id='-10000019' lon='21.93554' lat='49.05685'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašov'/><tag k='ele' v='418'/></node>
+</osm>

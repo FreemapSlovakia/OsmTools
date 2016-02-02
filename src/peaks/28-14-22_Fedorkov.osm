@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.7409635912' lat='49.3594799017'/>
+<node id='-20000001' lon='21.7415043563' lat='49.3954423875'/>
+<node id='-20000002' lon='21.7417108641' lat='49.3957589551'/>
+<node id='-20000003' lon='21.7421998508' lat='49.3958874929'/>
+<node id='-20000004' lon='21.75597456' lat='49.3957982641'/>
+<node id='-20000005' lon='21.7697492001' lat='49.3957073945'/>
+<node id='-20000006' lon='21.7702341419' lat='49.39557249'/>
+<node id='-20000007' lon='21.7704308925' lat='49.3952532865'/>
+<node id='-20000008' lon='21.7700164237' lat='49.3687311497'/>
+<node id='-20000009' lon='21.7824067582' lat='49.368647969'/>
+<node id='-20000010' lon='21.7826850754' lat='49.3861795137'/>
+<node id='-20000011' lon='21.7828918086' lat='49.3864960089'/>
+<node id='-20000012' lon='21.7833808112' lat='49.3866243733'/>
+<node id='-20000013' lon='21.7971527969' lat='49.3865302516'/>
+<node id='-20000014' lon='21.8109247097' lat='49.3864344896'/>
+<node id='-20000015' lon='21.8114094485' lat='49.3862994125'/>
+<node id='-20000016' lon='21.8116058963' lat='49.385980138'/>
+<node id='-20000017' lon='21.8111620235' lat='49.3590086981'/>
+<node id='-20000018' lon='21.8109552248' lat='49.358692249'/>
+<node id='-20000019' lon='21.8104664246' lat='49.3585639981'/>
+<node id='-20000020' lon='21.7416450594' lat='49.3590259574'/>
+<node id='-20000021' lon='21.741160392' lat='49.3591607429'/>
+<node id='-20000022' lon='21.7409635912' lat='49.3594799017'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+<nd ref='-20000019' />
+<nd ref='-20000020' />
+<nd ref='-20000021' />
+<nd ref='-20000022' />
+</way>
+<node id='-10000000' lon='21.74902' lat='49.39090'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000001' lon='21.76280' lat='49.39081'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000002' lon='21.74889' lat='49.38191'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000003' lon='21.76266' lat='49.38182'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000004' lon='21.79020' lat='49.38164'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000005' lon='21.80397' lat='49.38154'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000006' lon='21.74875' lat='49.37292'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000007' lon='21.76252' lat='49.37283'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000008' lon='21.79005' lat='49.37264'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000009' lon='21.80382' lat='49.37255'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000010' lon='21.74861' lat='49.36393'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000011' lon='21.76238' lat='49.36384'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000012' lon='21.77614' lat='49.36375'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000013' lon='21.78991' lat='49.36366'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+<node id='-10000014' lon='21.80367' lat='49.36356'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Fedorkov'/><tag k='ele' v='766'/></node>
+</osm>

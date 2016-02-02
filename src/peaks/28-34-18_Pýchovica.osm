@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.8048094988' lat='49.0533328797'/>
+<node id='-20000001' lon='21.8053905601' lat='49.089296739'/>
+<node id='-20000002' lon='21.8055961959' lat='49.089613241'/>
+<node id='-20000003' lon='21.8060823636' lat='49.0897415412'/>
+<node id='-20000004' lon='21.8403062483' lat='49.0894975114'/>
+<node id='-20000005' lon='21.8745296617' lat='49.0892433362'/>
+<node id='-20000006' lon='21.875011375' lat='49.0891079913'/>
+<node id='-20000007' lon='21.8752062781' lat='49.0887885743'/>
+<node id='-20000008' lon='21.8745748637' lat='49.0528253546'/>
+<node id='-20000009' lon='21.8743689435' lat='49.0525089707'/>
+<node id='-20000010' lon='21.8738829615' lat='49.0523809545'/>
+<node id='-20000011' lon='21.8054862736' lat='49.0528785223'/>
+<node id='-20000012' lon='21.8050047163' lat='49.0530135773'/>
+<node id='-20000013' lon='21.8048094988' lat='49.0533328797'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.81285' lat='49.08475'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000001' lon='21.82654' lat='49.08465'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000002' lon='21.84023' lat='49.08455'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000003' lon='21.85392' lat='49.08445'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000004' lon='21.86760' lat='49.08435'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000005' lon='21.81270' lat='49.07576'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000006' lon='21.82639' lat='49.07566'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000007' lon='21.84008' lat='49.07556'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000008' lon='21.85376' lat='49.07546'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000009' lon='21.86745' lat='49.07536'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000010' lon='21.81256' lat='49.06677'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000011' lon='21.82624' lat='49.06667'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000012' lon='21.83992' lat='49.06657'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000013' lon='21.85361' lat='49.06647'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000014' lon='21.86729' lat='49.06637'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000015' lon='21.81241' lat='49.05778'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000016' lon='21.82609' lat='49.05768'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000017' lon='21.83977' lat='49.05758'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000018' lon='21.85345' lat='49.05748'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+<node id='-10000019' lon='21.86713' lat='49.05738'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pýchovica'/><tag k='ele' v='322'/></node>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.1355323587' lat='48.2705409634'/>
+<node id='-20000001' lon='20.1349249557' lat='48.3065091812'/>
+<node id='-20000002' lon='20.1351170019' lat='48.3068286287'/>
+<node id='-20000003' lon='20.1355913937' lat='48.306963917'/>
+<node id='-20000004' lon='20.2029863898' lat='48.3074507995'/>
+<node id='-20000005' lon='20.2034650669' lat='48.3073223964'/>
+<node id='-20000006' lon='20.2036674397' lat='48.307005798'/>
+<node id='-20000007' lon='20.2039471538' lat='48.2890214065'/>
+<node id='-20000008' lon='20.2042265933' lat='48.2710369572'/>
+<node id='-20000009' lon='20.204034248' lat='48.2707176245'/>
+<node id='-20000010' lon='20.2035600109' lat='48.2705826198'/>
+<node id='-20000011' lon='20.1362134971' lat='48.2700963575'/>
+<node id='-20000012' lon='20.1357350023' lat='48.270224483'/>
+<node id='-20000013' lon='20.1355323587' lat='48.2705409634'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='20.14241' lat='48.30206'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000001' lon='20.15589' lat='48.30217'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000002' lon='20.16937' lat='48.30226'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000003' lon='20.18285' lat='48.30236'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000004' lon='20.19633' lat='48.30246'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000005' lon='20.14257' lat='48.29307'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000006' lon='20.15604' lat='48.29317'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000007' lon='20.16952' lat='48.29327'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000008' lon='20.18299' lat='48.29337'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000009' lon='20.19647' lat='48.29346'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000010' lon='20.14272' lat='48.28408'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000011' lon='20.15619' lat='48.28418'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000012' lon='20.16966' lat='48.28428'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000013' lon='20.18314' lat='48.28437'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000014' lon='20.19661' lat='48.28447'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000015' lon='20.14287' lat='48.27509'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000016' lon='20.15634' lat='48.27519'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000017' lon='20.16981' lat='48.27529'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000018' lon='20.18328' lat='48.27538'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+<node id='-10000019' lon='20.19675' lat='48.27548'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinohrady'/><tag k='ele' v='285'/></node>
+</osm>

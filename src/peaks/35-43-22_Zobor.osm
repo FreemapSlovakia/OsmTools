@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.0701367548' lat='48.3443792687'/>
+<node id='-20000001' lon='18.0685899683' lat='48.3713228482'/>
+<node id='-20000002' lon='18.0687692468' lat='48.3716456218'/>
+<node id='-20000003' lon='18.0692385739' lat='48.371789393'/>
+<node id='-20000004' lon='18.1366406003' lat='48.3734882'/>
+<node id='-20000005' lon='18.137124906' lat='48.3733684639'/>
+<node id='-20000006' lon='18.1373402798' lat='48.3730556364'/>
+<node id='-20000007' lon='18.138095872' lat='48.3595830522'/>
+<node id='-20000008' lon='18.138850908' lat='48.3461104278'/>
+<node id='-20000009' lon='18.1386712692' lat='48.3457877644'/>
+<node id='-20000010' lon='18.1382019831' lat='48.345644281'/>
+<node id='-20000011' lon='18.0708365837' lat='48.3439471031'/>
+<node id='-20000012' lon='18.0703524077' lat='48.344066565'/>
+<node id='-20000013' lon='18.0701367548' lat='48.3443792687'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='18.1087861459' lat='48.3462406729'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Zobor'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='587'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='18.104070444' lat='48.3471001557'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Zobor'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='587'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='18.0954755848' lat='48.3483129933'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Zobor'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='587'/><tag k='source' v='kapor2'/></node>
+</osm>

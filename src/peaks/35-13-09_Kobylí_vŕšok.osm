@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.5271376119' lat='48.7879802504'/>
+<node id='-20000001' lon='17.5252757023' lat='48.814907442'/>
+<node id='-20000002' lon='17.5254529382' lat='48.8152310782'/>
+<node id='-20000003' lon='17.525924783' lat='48.8153771558'/>
+<node id='-20000004' lon='17.5938839695' lat='48.8174076899'/>
+<node id='-20000005' lon='17.5943738812' lat='48.8172903481'/>
+<node id='-20000006' lon='17.5945946544' lat='48.8169786035'/>
+<node id='-20000007' lon='17.5955074633' lat='48.8035140549'/>
+<node id='-20000008' lon='17.5964195959' lat='48.7900494622'/>
+<node id='-20000009' lon='17.5962419834' lat='48.789725936'/>
+<node id='-20000010' lon='17.5957701712' lat='48.7895801514'/>
+<node id='-20000011' lon='17.527848436' lat='48.7875515662'/>
+<node id='-20000012' lon='17.5273586637' lat='48.7876686315'/>
+<node id='-20000013' lon='17.5271376119' lat='48.7879802504'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='17.53306' lat='48.81064'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000001' lon='17.54665' lat='48.81105'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000002' lon='17.56024' lat='48.81145'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000003' lon='17.57383' lat='48.81186'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000004' lon='17.58742' lat='48.81226'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000005' lon='17.53368' lat='48.80166'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000006' lon='17.54727' lat='48.80207'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000007' lon='17.56086' lat='48.80248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000008' lon='17.57444' lat='48.80288'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000009' lon='17.58803' lat='48.80329'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000010' lon='17.53430' lat='48.79269'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000011' lon='17.54788' lat='48.79310'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000012' lon='17.56147' lat='48.79350'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000013' lon='17.57506' lat='48.79391'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+<node id='-10000014' lon='17.58864' lat='48.79431'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylí vŕšok'/><tag k='ele' v='629'/></node>
+</osm>

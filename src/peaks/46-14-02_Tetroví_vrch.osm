@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.063081081' lat='48.1315605578'/>
+<node id='-20000001' lon='19.0617270928' lat='48.1675131537'/>
+<node id='-20000002' lon='19.0619119393' lat='48.1678343517'/>
+<node id='-20000003' lon='19.0623821665' lat='48.1679740355'/>
+<node id='-20000004' lon='19.1295651755' lat='48.169087333'/>
+<node id='-20000005' lon='19.1300451764' lat='48.1689633953'/>
+<node id='-20000006' lon='19.1302535752' lat='48.1686487131'/>
+<node id='-20000007' lon='19.130906987' lat='48.150671735'/>
+<node id='-20000008' lon='19.1315597589' lat='48.1326946939'/>
+<node id='-20000009' lon='19.1313745982' lat='48.1323736088'/>
+<node id='-20000010' lon='19.130904508' lat='48.1322342113'/>
+<node id='-20000011' lon='19.0637695305' lat='48.1311223304'/>
+<node id='-20000012' lon='19.0632897295' lat='48.1312459956'/>
+<node id='-20000013' lon='19.063081081' lat='48.1315605578'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.06929' lat='48.16314'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000001' lon='19.08273' lat='48.16336'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000002' lon='19.09616' lat='48.16359'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000003' lon='19.10960' lat='48.16381'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000004' lon='19.12303' lat='48.16403'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000005' lon='19.06963' lat='48.15415'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000006' lon='19.08306' lat='48.15438'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000007' lon='19.09649' lat='48.15460'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000008' lon='19.10993' lat='48.15482'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000009' lon='19.12336' lat='48.15504'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000010' lon='19.06997' lat='48.14516'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000011' lon='19.08340' lat='48.14539'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000012' lon='19.09683' lat='48.14561'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000013' lon='19.11026' lat='48.14583'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000014' lon='19.12369' lat='48.14605'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000015' lon='19.07030' lat='48.13618'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000016' lon='19.08373' lat='48.13640'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000017' lon='19.09716' lat='48.13662'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000018' lon='19.11059' lat='48.13685'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000019' lon='19.12402' lat='48.13706'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tetroví vrch'/><tag k='ele' v='460'/></node>
+</osm>

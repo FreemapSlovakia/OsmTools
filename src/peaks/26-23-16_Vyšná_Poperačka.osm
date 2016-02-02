@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3304230353' lat='49.4037446892'/>
+<node id='-20000001' lon='19.3295078293' lat='49.4307071515'/>
+<node id='-20000002' lon='19.3296988768' lat='49.4310278892'/>
+<node id='-20000003' lon='19.3301817004' lat='49.4311665746'/>
+<node id='-20000004' lon='19.3646319577' lat='49.4316590495'/>
+<node id='-20000005' lon='19.3990831484' lat='49.4321412652'/>
+<node id='-20000006' lon='19.3995747461' lat='49.4320163644'/>
+<node id='-20000007' lon='19.3997869397' lat='49.4317013319'/>
+<node id='-20000008' lon='19.4003715887' lat='49.4137257458'/>
+<node id='-20000009' lon='19.4009556538' lat='49.3957500983'/>
+<node id='-20000010' lon='19.4007642727' lat='49.3954294763'/>
+<node id='-20000011' lon='19.4002815961' lat='49.3952910875'/>
+<node id='-20000012' lon='19.3452013529' lat='49.3945156091'/>
+<node id='-20000013' lon='19.3447099892' lat='49.3946402846'/>
+<node id='-20000014' lon='19.3444976066' lat='49.3949552226'/>
+<node id='-20000015' lon='19.3442104728' lat='49.4034933298'/>
+<node id='-20000016' lon='19.3311270339' lat='49.4033051641'/>
+<node id='-20000017' lon='19.330635547' lat='49.4034297784'/>
+<node id='-20000018' lon='19.3304230353' lat='49.4037446892'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.33724' lat='49.42632'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000001' lon='19.35102' lat='49.42652'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000002' lon='19.36480' lat='49.42671'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000003' lon='19.37858' lat='49.42691'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000004' lon='19.39236' lat='49.42710'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000005' lon='19.33755' lat='49.41733'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000006' lon='19.35132' lat='49.41753'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000007' lon='19.36510' lat='49.41773'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000008' lon='19.37888' lat='49.41792'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000009' lon='19.39265' lat='49.41811'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000010' lon='19.33785' lat='49.40835'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000011' lon='19.35163' lat='49.40854'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000012' lon='19.36540' lat='49.40874'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000013' lon='19.37917' lat='49.40893'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000014' lon='19.39295' lat='49.40913'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000015' lon='19.35193' lat='49.39956'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000016' lon='19.36570' lat='49.39975'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000017' lon='19.37947' lat='49.39995'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+<node id='-10000018' lon='19.39324' lat='49.40014'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Poperačka'/><tag k='ele' v='1043'/></node>
+</osm>

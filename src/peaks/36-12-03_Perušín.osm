@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.1394331446' lat='48.9871800108'/>
+<node id='-20000001' lon='19.138092816' lat='49.0231288334'/>
+<node id='-20000002' lon='19.1382811456' lat='49.0234499115'/>
+<node id='-20000003' lon='19.1387595403' lat='49.0235893676'/>
+<node id='-20000004' lon='19.1660911138' lat='49.0240271492'/>
+<node id='-20000005' lon='19.1934233433' lat='49.0244584601'/>
+<node id='-20000006' lon='19.1939114344' lat='49.0243343701'/>
+<node id='-20000007' lon='19.1941231394' lat='49.0240196524'/>
+<node id='-20000008' lon='19.1947734897' lat='49.0060447121'/>
+<node id='-20000009' lon='19.1954231948' lat='48.9880697094'/>
+<node id='-20000010' lon='19.1952346247' lat='48.9877487235'/>
+<node id='-20000011' lon='19.1947564118' lat='48.9876095045'/>
+<node id='-20000012' lon='19.1401328862' lat='48.9867415201'/>
+<node id='-20000013' lon='19.1396450298' lat='48.9868653881'/>
+<node id='-20000014' lon='19.1394331446' lat='48.9871800108'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.14578' lat='49.01875'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000001' lon='19.15944' lat='49.01897'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000002' lon='19.17311' lat='49.01919'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000003' lon='19.18677' lat='49.01940'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000004' lon='19.14611' lat='49.00977'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000005' lon='19.15977' lat='49.00999'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000006' lon='19.17344' lat='49.01020'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000007' lon='19.18710' lat='49.01042'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000008' lon='19.14645' lat='49.00078'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000009' lon='19.16011' lat='49.00100'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000010' lon='19.17377' lat='49.00122'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000011' lon='19.18743' lat='49.00143'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000012' lon='19.14678' lat='48.99179'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000013' lon='19.16044' lat='48.99201'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000014' lon='19.17410' lat='48.99223'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+<node id='-10000015' lon='19.18775' lat='48.99244'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Perušín'/><tag k='ele' v='1281'/></node>
+</osm>

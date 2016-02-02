@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.3385096924' lat='48.884793374'/>
+<node id='-20000001' lon='21.3386918221' lat='48.9117692752'/>
+<node id='-20000002' lon='21.3388937707' lat='48.9120866268'/>
+<node id='-20000003' lon='21.3393770233' lat='48.9122169034'/>
+<node id='-20000004' lon='21.3734823983' lat='48.9121115451'/>
+<node id='-20000005' lon='21.4075875656' lat='48.9119961017'/>
+<node id='-20000006' lon='21.4080688509' lat='48.911862703'/>
+<node id='-20000007' lon='21.4082660597' lat='48.9115440596'/>
+<node id='-20000008' lon='21.4080465085' lat='48.8845683708'/>
+<node id='-20000009' lon='21.4078442336' lat='48.8842511377'/>
+<node id='-20000010' lon='21.4073610719' lat='48.8841211463'/>
+<node id='-20000011' lon='21.3391884455' lat='48.8843417349'/>
+<node id='-20000012' lon='21.3387072386' lat='48.8844748468'/>
+<node id='-20000013' lon='21.3385096924' lat='48.884793374'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.34617' lat='48.90725'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000001' lon='21.35981' lat='48.90721'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000002' lon='21.37345' lat='48.90717'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000003' lon='21.38709' lat='48.90712'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000004' lon='21.40073' lat='48.90707'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000005' lon='21.34610' lat='48.89826'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000006' lon='21.35974' lat='48.89822'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000007' lon='21.37338' lat='48.89817'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000008' lon='21.38702' lat='48.89813'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000009' lon='21.40066' lat='48.89808'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000010' lon='21.34604' lat='48.88927'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000011' lon='21.35968' lat='48.88923'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000012' lon='21.37331' lat='48.88918'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000013' lon='21.38695' lat='48.88914'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+<node id='-10000014' lon='21.40059' lat='48.88909'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Zabitým'/><tag k='ele' v='555'/></node>
+</osm>

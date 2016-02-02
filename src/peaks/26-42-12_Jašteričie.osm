@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7335736787' lat='49.2649963656'/>
+<node id='-20000001' lon='19.7328827942' lat='49.2919643498'/>
+<node id='-20000002' lon='19.7330759454' lat='49.2922844242'/>
+<node id='-20000003' lon='19.7335585542' lat='49.2924214175'/>
+<node id='-20000004' lon='19.767918115' lat='49.2927929675'/>
+<node id='-20000005' lon='19.8022783742' lat='49.2931543031'/>
+<node id='-20000006' lon='19.8027675612' lat='49.2930276742'/>
+<node id='-20000007' lon='19.8029765664' lat='49.2927118893'/>
+<node id='-20000008' lon='19.8033030388' lat='49.2792275606'/>
+<node id='-20000009' lon='19.8036292671' lat='49.2657431988'/>
+<node id='-20000010' lon='19.8034357596' lat='49.2654232407'/>
+<node id='-20000011' lon='19.802953218' lat='49.2652865403'/>
+<node id='-20000012' lon='19.7342720882' lat='49.2645543586'/>
+<node id='-20000013' lon='19.7337830053' lat='49.2646807013'/>
+<node id='-20000014' lon='19.7335736787' lat='49.2649963656'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.74056' lat='49.28755'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000001' lon='19.75430' lat='49.28770'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000002' lon='19.76805' lat='49.28785'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000003' lon='19.78179' lat='49.28799'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000004' lon='19.79553' lat='49.28814'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000005' lon='19.74079' lat='49.27856'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000006' lon='19.75453' lat='49.27871'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000007' lon='19.76827' lat='49.27886'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000008' lon='19.78201' lat='49.27900'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000009' lon='19.79575' lat='49.27915'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000010' lon='19.74102' lat='49.26957'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000011' lon='19.75476' lat='49.26972'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000012' lon='19.76850' lat='49.26987'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000013' lon='19.78223' lat='49.27001'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+<node id='-10000014' lon='19.79597' lat='49.27016'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jašteričie'/><tag k='ele' v='878'/></node>
+</osm>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.8742408718' lat='49.1549791376'/>
+<node id='-20000001' lon='20.8741496276' lat='49.1909458268'/>
+<node id='-20000002' lon='20.8743497362' lat='49.1912639584'/>
+<node id='-20000003' lon='20.8748344575' lat='49.1913961694'/>
+<node id='-20000004' lon='20.9022724757' lat='49.1914226804'/>
+<node id='-20000005' lon='20.9297105292' lat='49.1914426731'/>
+<node id='-20000006' lon='20.9301957702' lat='49.1913112843'/>
+<node id='-20000007' lon='20.9303971332' lat='49.1909934933'/>
+<node id='-20000008' lon='20.9304224058' lat='49.1730101468'/>
+<node id='-20000009' lon='20.9304476532' lat='49.1550267441'/>
+<node id='-20000010' lon='20.93024733' lat='49.1547087058'/>
+<node id='-20000011' lon='20.9297628163' lat='49.1545767258'/>
+<node id='-20000012' lon='20.8749274788' lat='49.1545302803'/>
+<node id='-20000013' lon='20.8744424469' lat='49.1546614393'/>
+<node id='-20000014' lon='20.8742408718' lat='49.1549791376'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.88171' lat='49.18646'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000001' lon='20.89543' lat='49.18647'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000002' lon='20.90915' lat='49.18648'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000003' lon='20.92287' lat='49.18649'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000004' lon='20.88173' lat='49.17747'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000005' lon='20.89545' lat='49.17748'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000006' lon='20.90916' lat='49.17749'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000007' lon='20.92288' lat='49.17750'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000008' lon='20.88175' lat='49.16848'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000009' lon='20.89547' lat='49.16849'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000010' lon='20.90918' lat='49.16850'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000011' lon='20.92289' lat='49.16851'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000012' lon='20.88178' lat='49.15948'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000013' lon='20.89549' lat='49.15950'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000014' lon='20.90920' lat='49.15951'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+<node id='-10000015' lon='20.92291' lat='49.15952'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Gerginovec'/><tag k='ele' v='494'/></node>
+</osm>

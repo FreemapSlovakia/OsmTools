@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7956548183' lat='48.4023815231'/>
+<node id='-20000001' lon='19.7948047533' lat='48.4383450521'/>
+<node id='-20000002' lon='19.7949951512' lat='48.438665063'/>
+<node id='-20000003' lon='19.7954698593' lat='48.4388017608'/>
+<node id='-20000004' lon='19.8630321832' lat='48.4394892714'/>
+<node id='-20000005' lon='19.8635129584' lat='48.4393622965'/>
+<node id='-20000006' lon='19.8637179769' lat='48.4390463092'/>
+<node id='-20000007' lon='19.8641189179' lat='48.4210641341'/>
+<node id='-20000008' lon='19.8645194645' lat='48.4030819'/>
+<node id='-20000009' lon='19.8643287594' lat='48.4027620038'/>
+<node id='-20000010' lon='19.8638542014' lat='48.4026255921'/>
+<node id='-20000011' lon='19.7963406904' lat='48.401938957'/>
+<node id='-20000012' lon='19.7958601039' lat='48.4020656545'/>
+<node id='-20000013' lon='19.7956548183' lat='48.4023815231'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.80234' lat='48.43392'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000001' lon='19.81586' lat='48.43406'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000002' lon='19.82937' lat='48.43420'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000003' lon='19.84288' lat='48.43434'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000004' lon='19.85639' lat='48.43447'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000005' lon='19.80256' lat='48.42493'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000006' lon='19.81606' lat='48.42507'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000007' lon='19.82957' lat='48.42521'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000008' lon='19.84308' lat='48.42535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000009' lon='19.85659' lat='48.42548'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000010' lon='19.80277' lat='48.41594'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000011' lon='19.81627' lat='48.41608'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000012' lon='19.82978' lat='48.41622'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000013' lon='19.84329' lat='48.41636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000014' lon='19.85679' lat='48.41649'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000015' lon='19.80298' lat='48.40695'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000016' lon='19.81648' lat='48.40709'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000017' lon='19.82999' lat='48.40723'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000018' lon='19.84349' lat='48.40736'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+<node id='-10000019' lon='19.85699' lat='48.40750'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vinica'/><tag k='ele' v='277'/></node>
+</osm>

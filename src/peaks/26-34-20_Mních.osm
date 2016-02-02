@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.2735113104' lat='49.0612050692'/>
+<node id='-20000001' lon='19.2725762748' lat='49.088168342'/>
+<node id='-20000002' lon='19.2727657041' lat='49.0884891964'/>
+<node id='-20000003' lon='19.2732450902' lat='49.0886280988'/>
+<node id='-20000004' lon='19.3006143364' lat='49.0890344173'/>
+<node id='-20000005' lon='19.3279841926' lat='49.089434249'/>
+<node id='-20000006' lon='19.3284725841' lat='49.0893095993'/>
+<node id='-20000007' lon='19.3286837235' lat='49.0889946445'/>
+<node id='-20000008' lon='19.3291362455' lat='49.0755126355'/>
+<node id='-20000009' lon='19.3295884303' lat='49.0620305919'/>
+<node id='-20000010' lon='19.3293987311' lat='49.0617098299'/>
+<node id='-20000011' lon='19.3289194447' lat='49.0615711625'/>
+<node id='-20000012' lon='19.2742109221' lat='49.0607657869'/>
+<node id='-20000013' lon='19.2737226745' lat='49.060890211'/>
+<node id='-20000014' lon='19.2735113104' lat='49.0612050692'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.28026' lat='49.08378'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000001' lon='19.29395' lat='49.08399'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000002' lon='19.30763' lat='49.08419'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000003' lon='19.32131' lat='49.08439'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000004' lon='19.28057' lat='49.07480'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000005' lon='19.29425' lat='49.07500'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000006' lon='19.30793' lat='49.07520'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000007' lon='19.32162' lat='49.07540'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000008' lon='19.28088' lat='49.06581'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000009' lon='19.29456' lat='49.06601'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000010' lon='19.30824' lat='49.06621'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+<node id='-10000011' lon='19.32192' lat='49.06641'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mních'/><tag k='ele' v='657'/></node>
+</osm>

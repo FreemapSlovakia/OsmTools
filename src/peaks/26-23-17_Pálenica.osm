@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3995783319' lat='49.3957310351'/>
+<node id='-20000001' lon='19.3984086227' lat='49.4316822451'/>
+<node id='-20000002' lon='19.3986001226' lat='49.4320028678'/>
+<node id='-20000003' lon='19.3990831485' lat='49.4321412652'/>
+<node id='-20000004' lon='19.4335352532' lat='49.4326132209'/>
+<node id='-20000005' lon='19.467988252' lat='49.4330749162'/>
+<node id='-20000006' lon='19.4684796825' lat='49.4329497229'/>
+<node id='-20000007' lon='19.4686914382' lat='49.432634565'/>
+<node id='-20000008' lon='19.4692509395' lat='49.4146583902'/>
+<node id='-20000009' lon='19.4698098819' lat='49.3966821547'/>
+<node id='-20000010' lon='19.4696180496' lat='49.3963616477'/>
+<node id='-20000011' lon='19.4691351719' lat='49.3962235468'/>
+<node id='-20000012' lon='19.400281596' lat='49.3952910875'/>
+<node id='-20000013' lon='19.3997903652' lat='49.3954159967'/>
+<node id='-20000014' lon='19.3995783319' lat='49.3957310351'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.40614' lat='49.42729'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000001' lon='19.41992' lat='49.42748'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000002' lon='19.43370' lat='49.42767'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000003' lon='19.44748' lat='49.42785'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000004' lon='19.46126' lat='49.42804'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000005' lon='19.40643' lat='49.41830'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000006' lon='19.42021' lat='49.41849'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000007' lon='19.43398' lat='49.41868'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000008' lon='19.44776' lat='49.41887'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000009' lon='19.46154' lat='49.41905'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000010' lon='19.40672' lat='49.40932'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000011' lon='19.42050' lat='49.40951'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000012' lon='19.43427' lat='49.40969'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000013' lon='19.44805' lat='49.40988'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000014' lon='19.46182' lat='49.41006'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000015' lon='19.40701' lat='49.40033'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000016' lon='19.42078' lat='49.40052'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000017' lon='19.43456' lat='49.40070'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000018' lon='19.44833' lat='49.40089'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+<node id='-10000019' lon='19.46210' lat='49.40107'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='860'/></node>
+</osm>

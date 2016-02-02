@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.4621326745' lat='48.9832775594'/>
+<node id='-20000001' lon='21.462465469' lat='49.0192442394'/>
+<node id='-20000002' lon='21.4626686383' lat='49.0195613604'/>
+<node id='-20000003' lon='21.4631532447' lat='49.01969111'/>
+<node id='-20000004' lon='21.4973314391' lat='49.0195489098'/>
+<node id='-20000005' lon='21.5315093555' lat='49.019396587'/>
+<node id='-20000006' lon='21.5319913322' lat='49.019262673'/>
+<node id='-20000007' lon='21.5321881655' lat='49.018943829'/>
+<node id='-20000008' lon='21.5318051966' lat='48.9829775268'/>
+<node id='-20000009' lon='21.5316017381' lat='48.9826605236'/>
+<node id='-20000010' lon='21.5311173115' lat='48.9825310587'/>
+<node id='-20000011' lon='21.4628116297' lat='48.9828252047'/>
+<node id='-20000012' lon='21.4623298149' lat='48.9829588306'/>
+<node id='-20000013' lon='21.4621326745' lat='48.9832775594'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.46995' lat='49.01472'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000001' lon='21.48362' lat='49.01466'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000002' lon='21.49729' lat='49.01460'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000003' lon='21.51096' lat='49.01454'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000004' lon='21.52463' lat='49.01448'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000005' lon='21.46986' lat='49.00573'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000006' lon='21.48353' lat='49.00567'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000007' lon='21.49720' lat='49.00561'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000008' lon='21.51086' lat='49.00555'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000009' lon='21.52453' lat='49.00549'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000010' lon='21.46978' lat='48.99674'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000011' lon='21.48344' lat='48.99668'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000012' lon='21.49711' lat='48.99662'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000013' lon='21.51077' lat='48.99656'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000014' lon='21.52444' lat='48.99650'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000015' lon='21.46969' lat='48.98774'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000016' lon='21.48335' lat='48.98769'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000017' lon='21.49702' lat='48.98763'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000018' lon='21.51068' lat='48.98757'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+<node id='-10000019' lon='21.52434' lat='48.98751'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Barvienky'/><tag k='ele' v='364'/></node>
+</osm>

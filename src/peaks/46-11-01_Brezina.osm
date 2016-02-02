@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.6656213926' lat='48.3040516005'/>
+<node id='-20000001' lon='18.6639798217' lat='48.3399937944'/>
+<node id='-20000002' lon='18.6641627583' lat='48.3403156333'/>
+<node id='-20000003' lon='18.6646334687' lat='48.3404569668'/>
+<node id='-20000004' lon='18.7320257776' lat='48.3418062196'/>
+<node id='-20000005' lon='18.7325083749' lat='48.3416839719'/>
+<node id='-20000006' lon='18.7327199561' lat='48.341370031'/>
+<node id='-20000007' lon='18.7335170296' lat='48.3233981045'/>
+<node id='-20000008' lon='18.7343133208' lat='48.3054261115'/>
+<node id='-20000009' lon='18.7341300603' lat='48.3051043852'/>
+<node id='-20000010' lon='18.733659481' lat='48.3049633409'/>
+<node id='-20000011' lon='18.6663156092' lat='48.3036158051'/>
+<node id='-20000012' lon='18.6658332193' lat='48.3037377805'/>
+<node id='-20000013' lon='18.6656213926' lat='48.3040516005'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.69856' lat='48.33619'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000001' lon='18.67160' lat='48.33565'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000002' lon='18.68508' lat='48.33592'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000003' lon='18.71203' lat='48.33646'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000004' lon='18.72551' lat='48.33673'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000005' lon='18.67201' lat='48.32666'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000006' lon='18.68549' lat='48.32693'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000007' lon='18.69896' lat='48.32720'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000008' lon='18.71243' lat='48.32747'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000009' lon='18.72591' lat='48.32774'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000010' lon='18.67242' lat='48.31768'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000011' lon='18.68589' lat='48.31795'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000012' lon='18.69937' lat='48.31822'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000013' lon='18.71284' lat='48.31849'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000014' lon='18.72631' lat='48.31876'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000015' lon='18.67283' lat='48.30869'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000016' lon='18.68630' lat='48.30896'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000017' lon='18.69977' lat='48.30923'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000018' lon='18.71324' lat='48.30950'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+<node id='-10000019' lon='18.72671' lat='48.30977'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brezina'/><tag k='ele' v='551'/></node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.4691963742' lat='48.4794392181'/>
+<node id='-20000001' lon='19.4683840696' lat='48.5064078484'/>
+<node id='-20000002' lon='19.4685726572' lat='48.5067283956'/>
+<node id='-20000003' lon='19.4690471151' lat='48.5068664441'/>
+<node id='-20000004' lon='19.5366910069' lat='48.5077464727'/>
+<node id='-20000005' lon='19.5371732418' lat='48.5076208705'/>
+<node id='-20000006' lon='19.5373805705' lat='48.5073054737'/>
+<node id='-20000007' lon='19.5377685868' lat='48.493820753'/>
+<node id='-20000008' lon='19.5381563166' lat='48.4803359983'/>
+<node id='-20000009' lon='19.5379673846' lat='48.4800155649'/>
+<node id='-20000010' lon='19.5374929889' lat='48.4798778025'/>
+<node id='-20000011' lon='19.4698861322' lat='48.4789986186'/>
+<node id='-20000012' lon='19.4694040053' lat='48.4791239419'/>
+<node id='-20000013' lon='19.4691963742' lat='48.4794392181'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.47596' lat='48.50201'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000001' lon='19.48949' lat='48.50219'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000002' lon='19.50302' lat='48.50236'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000003' lon='19.51655' lat='48.50254'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000004' lon='19.53007' lat='48.50271'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000005' lon='19.47623' lat='48.49302'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000006' lon='19.48976' lat='48.49320'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000007' lon='19.50328' lat='48.49337'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000008' lon='19.51681' lat='48.49355'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000009' lon='19.53033' lat='48.49372'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000010' lon='19.47650' lat='48.48403'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000011' lon='19.49002' lat='48.48421'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000012' lon='19.50355' lat='48.48438'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000013' lon='19.51707' lat='48.48456'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+<node id='-10000014' lon='19.53059' lat='48.48473'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Halačov vŕšok'/><tag k='ele' v='597'/></node>
+</osm>

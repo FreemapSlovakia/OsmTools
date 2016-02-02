@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.1320234315' lat='48.4773550511'/>
+<node id='-20000001' lon='20.1315628118' lat='48.5043302372'/>
+<node id='-20000002' lon='20.1317555683' lat='48.5046496869'/>
+<node id='-20000003' lon='20.1322317921' lat='48.5047849967'/>
+<node id='-20000004' lon='20.1998886094' lat='48.5052752545'/>
+<node id='-20000005' lon='20.200369165' lat='48.5051468777'/>
+<node id='-20000006' lon='20.2005723605' lat='48.5048302971'/>
+<node id='-20000007' lon='20.200784455' lat='48.4913424848'/>
+<node id='-20000008' lon='20.2009963928' lat='48.4778546401'/>
+<node id='-20000009' lon='20.200803301' lat='48.4775353056'/>
+<node id='-20000010' lon='20.2003271493' lat='48.4774002804'/>
+<node id='-20000011' lon='20.1327073971' lat='48.4769104932'/>
+<node id='-20000012' lon='20.132226939' lat='48.4770385894'/>
+<node id='-20000013' lon='20.1320234315' lat='48.4773550511'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='20.13908' lat='48.49989'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000001' lon='20.15261' lat='48.49999'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000002' lon='20.16614' lat='48.50009'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000003' lon='20.17967' lat='48.50018'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000004' lon='20.19320' lat='48.50028'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000005' lon='20.13923' lat='48.49090'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000006' lon='20.15276' lat='48.49100'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000007' lon='20.16629' lat='48.49110'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000008' lon='20.17982' lat='48.49119'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000009' lon='20.19335' lat='48.49129'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000010' lon='20.13939' lat='48.48190'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000011' lon='20.15291' lat='48.48200'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000012' lon='20.16644' lat='48.48210'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000013' lon='20.17996' lat='48.48220'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+<node id='-10000014' lon='20.19349' lat='48.48230'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipy'/><tag k='ele' v='456'/></node>
+</osm>

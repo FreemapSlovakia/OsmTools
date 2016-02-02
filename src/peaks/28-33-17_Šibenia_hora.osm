@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.4080743306' lat='49.0554170908'/>
+<node id='-20000001' lon='21.4082952271' lat='49.0823919768'/>
+<node id='-20000002' lon='21.4084983095' lat='49.0827091854'/>
+<node id='-20000003' lon='21.4089833846' lat='49.0828391579'/>
+<node id='-20000004' lon='21.4363608198' lat='49.0827389443'/>
+<node id='-20000005' lon='21.4637380983' lat='49.0826322377'/>
+<node id='-20000006' lon='21.4642208621' lat='49.0824986078'/>
+<node id='-20000007' lon='21.4644183736' lat='49.0821798858'/>
+<node id='-20000008' lon='21.4641671124' lat='49.0552051999'/>
+<node id='-20000009' lon='21.4639637883' lat='49.0548880862'/>
+<node id='-20000010' lon='21.4634788404' lat='49.0547583427'/>
+<node id='-20000011' lon='21.4087547453' lat='49.0549650628'/>
+<node id='-20000012' lon='21.408272096' lat='49.0550984616'/>
+<node id='-20000013' lon='21.4080743306' lat='49.0554170908'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.41579' lat='49.07787'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000001' lon='21.42948' lat='49.07782'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000002' lon='21.44317' lat='49.07777'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000003' lon='21.45685' lat='49.07771'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000004' lon='21.41572' lat='49.06888'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000005' lon='21.42940' lat='49.06883'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000006' lon='21.44309' lat='49.06878'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000007' lon='21.45677' lat='49.06872'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000008' lon='21.41564' lat='49.05989'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000009' lon='21.42932' lat='49.05984'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000010' lon='21.44301' lat='49.05978'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+<node id='-10000011' lon='21.45669' lat='49.05973'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šibenia hora'/><tag k='ele' v='371'/></node>
+</osm>

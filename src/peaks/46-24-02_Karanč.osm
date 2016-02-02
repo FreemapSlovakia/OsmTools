@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7744719561' lat='48.1593380113'/>
+<node id='-20000001' lon='19.7742576969' lat='48.1683292269'/>
+<node id='-20000002' lon='19.7744469921' lat='48.1686492702'/>
+<node id='-20000003' lon='19.7749191498' lat='48.1687860346'/>
+<node id='-20000004' lon='19.8018014073' lat='48.1690694614'/>
+<node id='-20000005' lon='19.8022797766' lat='48.1689427186'/>
+<node id='-20000006' lon='19.8024840566' lat='48.1686268246'/>
+<node id='-20000007' lon='19.8026933837' lat='48.1596355158'/>
+<node id='-20000008' lon='19.8029026083' lat='48.1506441922'/>
+<node id='-20000009' lon='19.8027132006' lat='48.1503241958'/>
+<node id='-20000010' lon='19.8022411383' lat='48.1501875468'/>
+<node id='-20000011' lon='19.7955229998' lat='48.1501173247'/>
+<node id='-20000012' lon='19.7888048872' lat='48.1500467101'/>
+<node id='-20000013' lon='19.7883266625' lat='48.1501733983'/>
+<node id='-20000014' lon='19.7881223713' lat='48.1504892679'/>
+<node id='-20000015' lon='19.7879211584' lat='48.1590309011'/>
+<node id='-20000016' lon='19.7751547088' lat='48.1588955359'/>
+<node id='-20000017' lon='19.7746763674' lat='48.1590221665'/>
+<node id='-20000018' lon='19.7744719561' lat='48.1593380113'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.78176' lat='48.16391'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Karanč'/><tag k='ele' v='725'/></node>
+<node id='-10000001' lon='19.79520' lat='48.16405'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Karanč'/><tag k='ele' v='725'/></node>
+<node id='-10000002' lon='19.79541' lat='48.15506'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Karanč'/><tag k='ele' v='725'/></node>
+</osm>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.8992143201' lat='49.2307263661'/>
+<node id='-20000001' lon='19.8990144803' lat='49.2397163005'/>
+<node id='-20000002' lon='19.8992085083' lat='49.2400360995'/>
+<node id='-20000003' lon='19.8996910714' lat='49.2401723967'/>
+<node id='-20000004' lon='19.9408815167' lat='49.2405574612'/>
+<node id='-20000005' lon='19.9413698292' lat='49.2404302402'/>
+<node id='-20000006' lon='19.9415777233' lat='49.2401141989'/>
+<node id='-20000007' lon='19.9419618697' lat='49.2221340651'/>
+<node id='-20000008' lon='19.9417676337' lat='49.2218143367'/>
+<node id='-20000009' lon='19.9412851319' lat='49.2216782156'/>
+<node id='-20000010' lon='19.9138351954' lat='49.2214233021'/>
+<node id='-20000011' lon='19.9133469983' lat='49.2215504089'/>
+<node id='-20000012' lon='19.9131390031' lat='49.2218664022'/>
+<node id='-20000013' lon='19.9129516182' lat='49.2304068362'/>
+<node id='-20000014' lon='19.8999107619' lat='49.2302833521'/>
+<node id='-20000015' lon='19.899422442' lat='49.230410399'/>
+<node id='-20000016' lon='19.8992143201' lat='49.2307263661'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+</way>
+<node id='-10000000' lon='19.90667' lat='49.23529'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kondratova kopa'/><tag k='ele' v='2004'/></node>
+<node id='-10000001' lon='19.92040' lat='49.23542'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kondratova kopa'/><tag k='ele' v='2004'/></node>
+<node id='-10000002' lon='19.93413' lat='49.23555'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kondratova kopa'/><tag k='ele' v='2004'/></node>
+<node id='-10000003' lon='19.92060' lat='49.22643'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kondratova kopa'/><tag k='ele' v='2004'/></node>
+<node id='-10000004' lon='19.93432' lat='49.22656'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kondratova kopa'/><tag k='ele' v='2004'/></node>
+</osm>

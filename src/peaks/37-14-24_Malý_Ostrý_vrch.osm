@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.5359608596' lat='48.6775315544'/>
+<node id='-20000001' lon='20.5356300607' lat='48.7135001387'/>
+<node id='-20000002' lon='20.5358261519' lat='48.7138188969'/>
+<node id='-20000003' lon='20.536305414' lat='48.7139525337'/>
+<node id='-20000004' lon='20.5702762763' lat='48.7140842813'/>
+<node id='-20000005' lon='20.6042473754' lat='48.7142060135'/>
+<node id='-20000006' lon='20.6047288861' lat='48.7140759612'/>
+<node id='-20000007' lon='20.6049303968' lat='48.7137586866'/>
+<node id='-20000008' lon='20.6050711932' lat='48.6957742603'/>
+<node id='-20000009' lon='20.6052118504' lat='48.6777897773'/>
+<node id='-20000010' lon='20.6050154595' lat='48.6774711353'/>
+<node id='-20000011' lon='20.6045363607' lat='48.6773377841'/>
+<node id='-20000012' lon='20.5366439891' lat='48.6770846271'/>
+<node id='-20000013' lon='20.5361626554' lat='48.6772143971'/>
+<node id='-20000014' lon='20.5359608596' lat='48.6775315544'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.54315' lat='48.70903'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000001' lon='20.55673' lat='48.70909'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000002' lon='20.57032' lat='48.70914'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000003' lon='20.58391' lat='48.70919'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000004' lon='20.59749' lat='48.70923'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000005' lon='20.54323' lat='48.70004'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000006' lon='20.55681' lat='48.70009'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000007' lon='20.57040' lat='48.70014'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000008' lon='20.58398' lat='48.70019'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000009' lon='20.59757' lat='48.70024'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000010' lon='20.54331' lat='48.69105'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000011' lon='20.55689' lat='48.69110'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000012' lon='20.57047' lat='48.69115'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000013' lon='20.58405' lat='48.69120'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000014' lon='20.59764' lat='48.69125'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000015' lon='20.54339' lat='48.68205'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000016' lon='20.55697' lat='48.68211'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000017' lon='20.57055' lat='48.68216'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000018' lon='20.58413' lat='48.68221'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+<node id='-10000019' lon='20.59771' lat='48.68226'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Ostrý vrch'/><tag k='ele' v='808'/></node>
+</osm>

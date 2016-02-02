@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.0640948334' lat='48.1045959439'/>
+<node id='-20000001' lon='19.063081081' lat='48.1315605579'/>
+<node id='-20000002' lon='19.0632658126' lat='48.1318817521'/>
+<node id='-20000003' lon='19.0637357153' lat='48.132021426'/>
+<node id='-20000004' lon='19.1308718641' lat='48.133133328'/>
+<node id='-20000005' lon='19.1313515214' lat='48.1330093804'/>
+<node id='-20000006' lon='19.1315597589' lat='48.1326946938'/>
+<node id='-20000007' lon='19.1320489185' lat='48.1192118714'/>
+<node id='-20000008' lon='19.132537719' lat='48.1057290136'/>
+<node id='-20000009' lon='19.132352645' lat='48.1054079314'/>
+<node id='-20000010' lon='19.1318827981' lat='48.1052685411'/>
+<node id='-20000011' lon='19.064782904' lat='48.1041577055'/>
+<node id='-20000012' lon='19.0643033606' lat='48.1042813784'/>
+<node id='-20000013' lon='19.0640948334' lat='48.1045959439'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.07064' lat='48.12719'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000001' lon='19.08407' lat='48.12741'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000002' lon='19.09749' lat='48.12763'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000003' lon='19.11092' lat='48.12786'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000004' lon='19.12434' lat='48.12808'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000005' lon='19.07098' lat='48.11820'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000006' lon='19.08440' lat='48.11842'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000007' lon='19.09782' lat='48.11865'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000008' lon='19.11125' lat='48.11887'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000009' lon='19.12467' lat='48.11909'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000010' lon='19.07131' lat='48.10921'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000011' lon='19.08473' lat='48.10943'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000012' lon='19.09816' lat='48.10966'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000013' lon='19.11158' lat='48.10988'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+<node id='-10000014' lon='19.12500' lat='48.11010'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Stráž'/><tag k='ele' v='396'/></node>
+</osm>

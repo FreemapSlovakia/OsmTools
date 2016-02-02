@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.7320504248' lat='49.2316857606'/>
+<node id='-20000001' lon='18.7308149049' lat='49.2586393329'/>
+<node id='-20000002' lon='18.7310014368' lat='49.2589610656'/>
+<node id='-20000003' lon='18.7314809216' lat='49.2591022343'/>
+<node id='-20000004' lon='18.7657990774' lat='49.2597713403'/>
+<node id='-20000005' lon='18.8001184967' lat='49.2604302591'/>
+<node id='-20000006' lon='18.8006098976' lat='49.2603078757'/>
+<node id='-20000007' lon='18.8008251462' lat='49.2599939173'/>
+<node id='-20000008' lon='18.8016236677' lat='49.2420240328'/>
+<node id='-20000009' lon='18.8024213941' lat='49.2240540824'/>
+<node id='-20000010' lon='18.8022345219' lat='49.2237324641'/>
+<node id='-20000011' lon='18.8017551732' lat='49.2235915927'/>
+<node id='-20000012' lon='18.7880374476' lat='49.2233295825'/>
+<node id='-20000013' lon='18.787546383' lat='49.2234519188'/>
+<node id='-20000014' lon='18.7873312154' lat='49.2237658582'/>
+<node id='-20000015' lon='18.7869498079' lat='49.232301328'/>
+<node id='-20000016' lon='18.7327572592' lat='49.2312498253'/>
+<node id='-20000017' lon='18.7322659789' lat='49.2313719252'/>
+<node id='-20000018' lon='18.7320504248' lat='49.2316857606'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='18.73857' lat='49.25429'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000001' lon='18.75230' lat='49.25456'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000002' lon='18.76603' lat='49.25483'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000003' lon='18.77975' lat='49.25509'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000004' lon='18.79348' lat='49.25535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000005' lon='18.73898' lat='49.24531'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000006' lon='18.75271' lat='49.24558'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000007' lon='18.76643' lat='49.24584'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000008' lon='18.78016' lat='49.24611'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000009' lon='18.79388' lat='49.24637'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000010' lon='18.73939' lat='49.23632'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000011' lon='18.75312' lat='49.23659'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000012' lon='18.76684' lat='49.23686'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000013' lon='18.78056' lat='49.23712'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000014' lon='18.79428' lat='49.23738'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+<node id='-10000015' lon='18.79468' lat='49.22840'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brodenec'/><tag k='ele' v='621'/></node>
+</osm>

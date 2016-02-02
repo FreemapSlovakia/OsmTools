@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.6617584293' lat='49.2662542255'/>
+<node id='-20000001' lon='18.6604830867' lat='49.2932063035'/>
+<node id='-20000002' lon='18.6606692826' lat='49.2935281489'/>
+<node id='-20000003' lon='18.6611488967' lat='49.2936696133'/>
+<node id='-20000004' lon='18.6954893662' lat='49.2943599606'/>
+<node id='-20000005' lon='18.7298311411' lat='49.2950401096'/>
+<node id='-20000006' lon='18.7303230612' lat='49.2949180315'/>
+<node id='-20000007' lon='18.7305389138' lat='49.2946042093'/>
+<node id='-20000008' lon='18.7313639469' lat='49.2766352936'/>
+<node id='-20000009' lon='18.7321881582' lat='49.2586663117'/>
+<node id='-20000010' lon='18.7320016199' lat='49.2583445807'/>
+<node id='-20000011' lon='18.7315221409' lat='49.2582034141'/>
+<node id='-20000012' lon='18.6766167638' lat='49.2571116755'/>
+<node id='-20000013' lon='18.6761250872' lat='49.2572335318'/>
+<node id='-20000014' lon='18.6759090591' lat='49.2575472586'/>
+<node id='-20000015' lon='18.6755079802' lat='49.2660820059'/>
+<node id='-20000016' lon='18.6624663853' lat='49.265818732'/>
+<node id='-20000017' lon='18.661974587' lat='49.2659405265'/>
+<node id='-20000018' lon='18.6617584293' lat='49.2662542255'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='18.66825' lat='49.28886'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000001' lon='18.68199' lat='49.28914'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000002' lon='18.69572' lat='49.28941'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000003' lon='18.70946' lat='49.28969'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000004' lon='18.72319' lat='49.28996'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000005' lon='18.66868' lat='49.27988'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000006' lon='18.68241' lat='49.28016'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000007' lon='18.69614' lat='49.28043'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000008' lon='18.70988' lat='49.28070'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000009' lon='18.72361' lat='49.28097'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000010' lon='18.66910' lat='49.27090'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000011' lon='18.68283' lat='49.27117'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000012' lon='18.69656' lat='49.27145'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000013' lon='18.71029' lat='49.27172'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000014' lon='18.72402' lat='49.27199'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000015' lon='18.68325' lat='49.26219'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000016' lon='18.69698' lat='49.26246'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000017' lon='18.71071' lat='49.26273'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+<node id='-10000018' lon='18.72443' lat='49.26301'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lopatov vŕšok'/><tag k='ele' v='523'/></node>
+</osm>

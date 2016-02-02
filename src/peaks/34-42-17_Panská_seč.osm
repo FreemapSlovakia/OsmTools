@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.0694095854' lat='48.5483785208'/>
+<node id='-20000001' lon='17.0666232047' lat='48.5842643108'/>
+<node id='-20000002' lon='17.0667967681' lat='48.5845886279'/>
+<node id='-20000003' lon='17.0672651484' lat='48.5847365276'/>
+<node id='-20000004' lon='17.0807874249' lat='48.5851982838'/>
+<node id='-20000005' lon='17.0812762217' lat='48.5850830694'/>
+<node id='-20000006' lon='17.0814990556' lat='48.584772288'/>
+<node id='-20000007' lon='17.0821587891' lat='48.5762497812'/>
+<node id='-20000008' lon='17.1355650348' lat='48.5780573198'/>
+<node id='-20000009' lon='17.1360536374' lat='48.5779418704'/>
+<node id='-20000010' lon='17.1362761009' lat='48.5776309814'/>
+<node id='-20000011' lon='17.1373029087' lat='48.5641727189'/>
+<node id='-20000012' lon='17.138328959' lat='48.5507144088'/>
+<node id='-20000013' lon='17.1381550411' lat='48.5503902017'/>
+<node id='-20000014' lon='17.1376867662' lat='48.5502425985'/>
+<node id='-20000015' lon='17.0701207727' lat='48.5479525821'/>
+<node id='-20000016' lon='17.0696323163' lat='48.5480677583'/>
+<node id='-20000017' lon='17.0694095854' lat='48.5483785208'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='17.07441' lat='48.58003'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000001' lon='17.07510' lat='48.57106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000002' lon='17.08862' lat='48.57152'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000003' lon='17.10214' lat='48.57198'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000004' lon='17.11566' lat='48.57243'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000005' lon='17.12918' lat='48.57289'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000006' lon='17.07580' lat='48.56208'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000007' lon='17.08931' lat='48.56254'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000008' lon='17.10283' lat='48.56300'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000009' lon='17.11635' lat='48.56346'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000010' lon='17.12987' lat='48.56392'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000011' lon='17.07649' lat='48.55311'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000012' lon='17.09001' lat='48.55357'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000013' lon='17.10352' lat='48.55403'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000014' lon='17.11704' lat='48.55449'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+<node id='-10000015' lon='17.13055' lat='48.55494'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Panská seč'/><tag k='ele' v='182'/></node>
+</osm>

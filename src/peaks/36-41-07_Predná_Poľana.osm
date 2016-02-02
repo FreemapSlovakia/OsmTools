@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3973390205' lat='48.6133573697'/>
+<node id='-20000001' lon='19.3961994976' lat='48.6493134368'/>
+<node id='-20000002' lon='19.3963881392' lat='48.6496341013'/>
+<node id='-20000003' lon='19.3968637317' lat='48.6497724589'/>
+<node id='-20000004' lon='19.4646963015' lat='48.650696857'/>
+<node id='-20000005' lon='19.4651800863' lat='48.6505715734'/>
+<node id='-20000006' lon='19.4653884702' lat='48.6502563194'/>
+<node id='-20000007' lon='19.4659339468' lat='48.6322777242'/>
+<node id='-20000008' lon='19.4664788852' lat='48.614299068'/>
+<node id='-20000009' lon='19.466289926' lat='48.6139785179'/>
+<node id='-20000010' lon='19.465814478' lat='48.6138404496'/>
+<node id='-20000011' lon='19.3980312566' lat='48.6129172292'/>
+<node id='-20000012' lon='19.3975476682' lat='48.6130422352'/>
+<node id='-20000013' lon='19.3973390205' lat='48.6133573697'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.40381' lat='48.64492'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000001' lon='19.41737' lat='48.64511'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000002' lon='19.43094' lat='48.64529'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000003' lon='19.44450' lat='48.64548'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000004' lon='19.45807' lat='48.64566'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000005' lon='19.40409' lat='48.63593'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000006' lon='19.41765' lat='48.63612'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000007' lon='19.43122' lat='48.63630'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000008' lon='19.44478' lat='48.63649'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000009' lon='19.45834' lat='48.63667'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000010' lon='19.40437' lat='48.62694'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000011' lon='19.41793' lat='48.62713'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000012' lon='19.43149' lat='48.62731'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000013' lon='19.44505' lat='48.62750'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000014' lon='19.45861' lat='48.62768'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000015' lon='19.40466' lat='48.61795'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000016' lon='19.41821' lat='48.61814'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000017' lon='19.43177' lat='48.61832'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000018' lon='19.44533' lat='48.61851'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+<node id='-10000019' lon='19.45889' lat='48.61869'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predná Poľana'/><tag k='ele' v='1367'/></node>
+</osm>

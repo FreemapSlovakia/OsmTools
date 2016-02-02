@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.272635377' lat='49.0958410131'/>
+<node id='-20000001' lon='18.2711568611' lat='49.1227857787'/>
+<node id='-20000002' lon='18.2713399375' lat='49.123108254'/>
+<node id='-20000003' lon='18.2718168204' lat='49.1232513127'/>
+<node id='-20000004' lon='18.299186657' lat='49.1238953266'/>
+<node id='-20000005' lon='18.3265574639' lat='49.1245328581'/>
+<node id='-20000006' lon='18.3270486777' lat='49.1244124639'/>
+<node id='-20000007' lon='18.327266302' lat='49.1240993697'/>
+<node id='-20000008' lon='18.3279906759' lat='49.1106263869'/>
+<node id='-20000009' lon='18.3287145102' lat='49.0971533649'/>
+<node id='-20000010' lon='18.3285311505' lat='49.0968309805'/>
+<node id='-20000011' lon='18.3280543542' lat='49.0966881598'/>
+<node id='-20000012' lon='18.273344268' lat='49.0954078459'/>
+<node id='-20000013' lon='18.2728532123' lat='49.0955280172'/>
+<node id='-20000014' lon='18.272635377' lat='49.0958410131'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='18.27893' lat='49.11847'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000001' lon='18.29262' lat='49.11879'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000002' lon='18.30630' lat='49.11911'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000003' lon='18.31998' lat='49.11943'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000004' lon='18.27942' lat='49.10949'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000005' lon='18.29310' lat='49.10981'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000006' lon='18.30679' lat='49.11013'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000007' lon='18.32047' lat='49.11045'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000008' lon='18.27991' lat='49.10050'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000009' lon='18.29359' lat='49.10083'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000010' lon='18.30727' lat='49.10115'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+<node id='-10000011' lon='18.32095' lat='49.10146'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hladový vŕšok'/><tag k='ele' v='419'/></node>
+</osm>

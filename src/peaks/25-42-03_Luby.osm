@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.4658989352' lat='49.3340642313'/>
+<node id='-20000001' lon='18.4640512682' lat='49.3699946417'/>
+<node id='-20000002' lon='18.4642364514' lat='49.3703168014'/>
+<node id='-20000003' lon='18.464716236' lat='49.3704590907'/>
+<node id='-20000004' lon='18.4715939133' lat='49.3706098208'/>
+<node id='-20000005' lon='18.478471648' lat='49.370760142'/>
+<node id='-20000006' lon='18.4789649478' lat='49.3706391497'/>
+<node id='-20000007' lon='18.4791827473' lat='49.3703258097'/>
+<node id='-20000008' lon='18.4796192792' lat='49.3617924793'/>
+<node id='-20000009' lon='18.533945222' lat='49.3629649441'/>
+<node id='-20000010' lon='18.5344383065' lat='49.3628437136'/>
+<node id='-20000011' lon='18.5346557167' lat='49.3625302683'/>
+<node id='-20000012' lon='18.5353295597' lat='49.3490556535'/>
+<node id='-20000013' lon='18.5360028986' lat='49.3355810005'/>
+<node id='-20000014' lon='18.5358173682' lat='49.3352589551'/>
+<node id='-20000015' lon='18.5353377156' lat='49.335116965'/>
+<node id='-20000016' lon='18.4666096082' lat='49.333629963'/>
+<node id='-20000017' lon='18.4661166488' lat='49.3337509098'/>
+<node id='-20000018' lon='18.4658989352' lat='49.3340642313'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-30000000' lon='18.532289713' lat='49.3548549973'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Luby'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='909'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='18.5313659323' lat='49.3397458355'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Luby'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='909'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='18.5226470767' lat='49.3504520335'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Luby'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='909'/><tag k='source' v='kapor2'/></node>
+</osm>

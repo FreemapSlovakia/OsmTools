@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.2644006736' lat='48.6761172364'/>
+<node id='-20000001' lon='20.2638763834' lat='48.7120840407'/>
+<node id='-20000002' lon='20.2640707516' lat='48.7124032599'/>
+<node id='-20000003' lon='20.2645492784' lat='48.7125380266'/>
+<node id='-20000004' lon='20.2985175744' lat='48.712749889'/>
+<node id='-20000005' lon='20.3324862566' lat='48.712951738'/>
+<node id='-20000006' lon='20.3329684537' lat='48.7128228218'/>
+<node id='-20000007' lon='20.3331716672' lat='48.7125060238'/>
+<node id='-20000008' lon='20.3334092632' lat='48.6945223852'/>
+<node id='-20000009' lon='20.3336466244' lat='48.6765386893'/>
+<node id='-20000010' lon='20.333451952' lat='48.6762195858'/>
+<node id='-20000011' lon='20.3329735841' lat='48.6760851059'/>
+<node id='-20000012' lon='20.2650861828' lat='48.6756719214'/>
+<node id='-20000013' lon='20.2646041674' lat='48.6758005562'/>
+<node id='-20000014' lon='20.2644006736' lat='48.6761172364'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='20.2735880605' lat='48.6758863362'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Magura'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='883'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='20.2796426729' lat='48.6876697709'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Magura'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='883'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='20.2763350388' lat='48.6868257636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Magura'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='883'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='20.2682698309' lat='48.6805842158'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Magura'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='883'/><tag k='source' v='kapor2'/></node>
+</osm>

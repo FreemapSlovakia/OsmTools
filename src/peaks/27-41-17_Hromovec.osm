@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.7367706865' lat='49.2266808559'/>
+<node id='-20000001' lon='20.7365793319' lat='49.2626468026'/>
+<node id='-20000002' lon='20.7367788422' lat='49.2629651648'/>
+<node id='-20000003' lon='20.7372638908' lat='49.2630979508'/>
+<node id='-20000004' lon='20.7716108445' lat='49.263170994'/>
+<node id='-20000005' lon='20.8059579275' lat='49.2632338268'/>
+<node id='-20000006' lon='20.806444194' lat='49.2631029623'/>
+<node id='-20000007' lon='20.8066466412' lat='49.2627853959'/>
+<node id='-20000008' lon='20.8067169241' lat='49.2448023633'/>
+<node id='-20000009' lon='20.806787137' lat='49.2268192745'/>
+<node id='-20000010' lon='20.8065873204' lat='49.2265010296'/>
+<node id='-20000011' lon='20.8061024413' lat='49.2263685333'/>
+<node id='-20000012' lon='20.7374595238' lat='49.2262328292'/>
+<node id='-20000013' lon='20.7369734327' lat='49.2263634062'/>
+<node id='-20000014' lon='20.7367706865' lat='49.2266808559'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.74417' lat='49.25817'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000001' lon='20.75790' lat='49.25820'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000002' lon='20.77164' lat='49.25823'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000003' lon='20.78538' lat='49.25825'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000004' lon='20.79912' lat='49.25828'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000005' lon='20.74421' lat='49.24918'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000006' lon='20.75795' lat='49.24921'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000007' lon='20.77168' lat='49.24923'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000008' lon='20.78542' lat='49.24926'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000009' lon='20.79915' lat='49.24929'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000010' lon='20.74426' lat='49.24019'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000011' lon='20.75799' lat='49.24022'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000012' lon='20.77172' lat='49.24024'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000013' lon='20.78546' lat='49.24027'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000014' lon='20.79919' lat='49.24030'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000015' lon='20.74431' lat='49.23119'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000016' lon='20.75803' lat='49.23122'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000017' lon='20.77176' lat='49.23125'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000018' lon='20.78550' lat='49.23128'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+<node id='-10000019' lon='20.79922' lat='49.23130'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hromovec'/><tag k='ele' v='895'/></node>
+</osm>

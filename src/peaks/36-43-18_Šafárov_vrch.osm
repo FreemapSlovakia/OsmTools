@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.4589411009' lat='48.371383324'/>
+<node id='-20000001' lon='19.4578546357' lat='48.4073419724'/>
+<node id='-20000002' lon='19.4580428041' lat='48.4076625365'/>
+<node id='-20000003' lon='19.4585163147' lat='48.4078006202'/>
+<node id='-20000004' lon='19.5260283981' lat='48.4086855342'/>
+<node id='-20000005' lon='19.5265097135' lat='48.4085599658'/>
+<node id='-20000006' lon='19.5267166901' lat='48.4082445807'/>
+<node id='-20000007' lon='19.5272359429' lat='48.3902647205'/>
+<node id='-20000008' lon='19.5277546854' lat='48.3722847998'/>
+<node id='-20000009' lon='19.5275662049' lat='48.3719643496'/>
+<node id='-20000010' lon='19.5270928387' lat='48.371826553'/>
+<node id='-20000011' lon='19.4596294593' lat='48.3709427657'/>
+<node id='-20000012' lon='19.4591483381' lat='48.3710680582'/>
+<node id='-20000013' lon='19.4589411009' lat='48.371383324'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.46542' lat='48.40294'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000001' lon='19.47892' lat='48.40312'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000002' lon='19.49242' lat='48.40330'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000003' lon='19.50592' lat='48.40348'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000004' lon='19.51942' lat='48.40365'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000005' lon='19.46569' lat='48.39395'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000006' lon='19.47919' lat='48.39413'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000007' lon='19.49269' lat='48.39431'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000008' lon='19.50619' lat='48.39449'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000009' lon='19.51968' lat='48.39466'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000010' lon='19.46596' lat='48.38496'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000011' lon='19.47946' lat='48.38514'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000012' lon='19.49295' lat='48.38532'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000013' lon='19.50645' lat='48.38550'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000014' lon='19.51994' lat='48.38567'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000015' lon='19.46623' lat='48.37597'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000016' lon='19.47972' lat='48.37615'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000017' lon='19.49322' lat='48.37633'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000018' lon='19.50671' lat='48.37651'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+<node id='-10000019' lon='19.52021' lat='48.37668'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šafárov vrch'/><tag k='ele' v='648'/></node>
+</osm>

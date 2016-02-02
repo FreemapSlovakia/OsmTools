@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.9976161409' lat='49.2629474052'/>
+<node id='-20000001' lon='20.9976147634' lat='49.289922002'/>
+<node id='-20000002' lon='20.9978160599' lat='49.2902399054'/>
+<node id='-20000003' lon='20.9983020669' lat='49.2903715922'/>
+<node id='-20000004' lon='21.0326682527' lat='49.2903670311'/>
+<node id='-20000005' lon='21.0670344199' lat='49.2903522497'/>
+<node id='-20000006' lon='21.0675202523' lat='49.2902202896'/>
+<node id='-20000007' lon='21.06772113' lat='49.2899022737'/>
+<node id='-20000008' lon='21.0676965678' lat='49.2719192357'/>
+<node id='-20000009' lon='21.0676720299' lat='49.2539361415'/>
+<node id='-20000010' lon='21.0674704313' lat='49.2536183556'/>
+<node id='-20000011' lon='21.0669845981' lat='49.2534869577'/>
+<node id='-20000012' lon='21.0120396787' lat='49.2535056768'/>
+<node id='-20000013' lon='21.0115540538' lat='49.2536374059'/>
+<node id='-20000014' lon='21.0113529603' lat='49.2539553295'/>
+<node id='-20000015' lon='21.0113548953' lat='49.2624973073'/>
+<node id='-20000016' lon='20.9983031077' lat='49.2624978358'/>
+<node id='-20000017' lon='20.9978173588' lat='49.2626295067'/>
+<node id='-20000018' lon='20.9976161409' lat='49.2629474052'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='21.00518' lat='49.28543'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000001' lon='21.01893' lat='49.28543'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000002' lon='21.03267' lat='49.28542'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000003' lon='21.04642' lat='49.28542'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000004' lon='21.06016' lat='49.28541'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000005' lon='21.00518' lat='49.27644'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000006' lon='21.01892' lat='49.27643'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000007' lon='21.03267' lat='49.27643'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000008' lon='21.04641' lat='49.27643'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000009' lon='21.06015' lat='49.27642'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000010' lon='21.00518' lat='49.26744'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000011' lon='21.01892' lat='49.26744'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000012' lon='21.03266' lat='49.26744'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000013' lon='21.04640' lat='49.26743'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000014' lon='21.06014' lat='49.26743'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000015' lon='21.01892' lat='49.25845'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000016' lon='21.03265' lat='49.25845'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000017' lon='21.04639' lat='49.25844'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+<node id='-10000018' lon='21.06013' lat='49.25844'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='ele' v='995'/></node>
+</osm>

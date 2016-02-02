@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.738240848' lat='48.9479371182'/>
+<node id='-20000001' lon='20.7380524192' lat='48.983904814'/>
+<node id='-20000002' lon='20.7382508413' lat='48.9842232038'/>
+<node id='-20000003' lon='20.738733211' lat='48.9843559925'/>
+<node id='-20000004' lon='20.7728881969' lat='48.9844283257'/>
+<node id='-20000005' lon='20.8070433096' lat='48.9844905477'/>
+<node id='-20000006' lon='20.807526879' lat='48.9843596619'/>
+<node id='-20000007' lon='20.8077281934' lat='48.9840420598'/>
+<node id='-20000008' lon='20.8077973996' lat='48.9660581538'/>
+<node id='-20000009' lon='20.8078665372' lat='48.9480741913'/>
+<node id='-20000010' lon='20.807667814' lat='48.9477559182'/>
+<node id='-20000011' lon='20.8071856122' lat='48.9476234168'/>
+<node id='-20000012' lon='20.738925851' lat='48.9474890323'/>
+<node id='-20000013' lon='20.738442456' lat='48.9476196329'/>
+<node id='-20000014' lon='20.738240848' lat='48.9479371182'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='20.7739915828' lat='48.9811921159'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Dreveník'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='609'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='20.7626864203' lat='48.9790278269'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Dreveník'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='609'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='20.7648548524' lat='48.9788498764'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Dreveník'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='609'/><tag k='source' v='kapor2'/></node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.9976530491' lat='48.5255927029'/>
+<node id='-20000001' lon='20.9976521656' lat='48.5435780915'/>
+<node id='-20000002' lon='20.9978505058' lat='48.5438960683'/>
+<node id='-20000003' lon='20.9983293744' lat='48.5440277855'/>
+<node id='-20000004' lon='21.0660453157' lat='48.5440089412'/>
+<node id='-20000005' lon='21.0665240176' lat='48.5438769576'/>
+<node id='-20000006' lon='21.0667219562' lat='48.5435588706'/>
+<node id='-20000007' lon='21.0666866015' lat='48.5165807846'/>
+<node id='-20000008' lon='21.0664879372' lat='48.5162629248'/>
+<node id='-20000009' lon='21.0660091536' lat='48.5161314904'/>
+<node id='-20000010' lon='21.03893765' lat='48.5161437955'/>
+<node id='-20000011' lon='21.0384591375' lat='48.516275665'/>
+<node id='-20000012' lon='21.038261128' lat='48.5165937051'/>
+<node id='-20000013' lon='21.0382675377' lat='48.5251367358'/>
+<node id='-20000014' lon='20.9983300504' lat='48.5251430327'/>
+<node id='-20000015' lon='20.9978513478' lat='48.5252747332'/>
+<node id='-20000016' lon='20.9976530491' lat='48.5255927029'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+</way>
+<node id='-10000000' lon='21.00510' lat='48.53908'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000001' lon='21.01864' lat='48.53908'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000002' lon='21.03218' lat='48.53907'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000003' lon='21.04573' lat='48.53907'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000004' lon='21.05927' lat='48.53906'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000005' lon='21.00510' lat='48.53009'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000006' lon='21.01864' lat='48.53008'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000007' lon='21.03218' lat='48.53008'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000008' lon='21.04572' lat='48.53008'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000009' lon='21.05926' lat='48.53007'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000010' lon='21.04571' lat='48.52108'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+<node id='-10000011' lon='21.05925' lat='48.52108'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Sedereš'/><tag k='ele' v='293'/></node>
+</osm>

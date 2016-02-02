@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='22.1920556913' lat='48.6543149336'/>
+<node id='-20000001' lon='22.1924798135' lat='48.6722960211'/>
+<node id='-20000002' lon='22.1926861495' lat='48.6726118848'/>
+<node id='-20000003' lon='22.1931692852' lat='48.6727386016'/>
+<node id='-20000004' lon='22.2610414897' lat='48.6720156139'/>
+<node id='-20000005' lon='22.2615182155' lat='48.6718786726'/>
+<node id='-20000006' lon='22.261709105' lat='48.6715585777'/>
+<node id='-20000007' lon='22.2608120883' lat='48.6355972697'/>
+<node id='-20000008' lon='22.2606054816' lat='48.635281524'/>
+<node id='-20000009' lon='22.2601225353' lat='48.635155086'/>
+<node id='-20000010' lon='22.2058645349' lat='48.6357359334'/>
+<node id='-20000011' lon='22.2053879956' lat='48.635872643'/>
+<node id='-20000012' lon='22.2051968795' lat='48.6361926466'/>
+<node id='-20000013' lon='22.2056146838' lat='48.6537240938'/>
+<node id='-20000014' lon='22.1927237007' lat='48.6538582968'/>
+<node id='-20000015' lon='22.1922469567' lat='48.6539949528'/>
+<node id='-20000016' lon='22.1920556913' lat='48.6543149336'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+</way>
+<node id='-30000000' lon='22.2554959245' lat='48.6638858239'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čonkáš'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='149'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='22.2479783038' lat='48.6602918755'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čonkáš'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='149'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='22.2488571566' lat='48.6683975154'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čonkáš'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='149'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='22.2474624422' lat='48.6557371735'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čonkáš'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='149'/><tag k='source' v='kapor2'/></node>
+</osm>

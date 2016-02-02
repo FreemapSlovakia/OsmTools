@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.6644331165' lat='48.0342048767'/>
+<node id='-20000001' lon='18.6628061822' lat='48.0701487343'/>
+<node id='-20000002' lon='18.6629882061' lat='48.0704705599'/>
+<node id='-20000003' lon='18.6634564529' lat='48.0706118583'/>
+<node id='-20000004' lon='18.6768638912' lat='48.0708838724'/>
+<node id='-20000005' lon='18.6773440354' lat='48.0707618151'/>
+<node id='-20000006' lon='18.6775547711' lat='48.0704479576'/>
+<node id='-20000007' lon='18.6779390112' lat='48.0619114044'/>
+<node id='-20000008' lon='18.7308908862' lat='48.0629699308'/>
+<node id='-20000009' lon='18.7313708284' lat='48.0628476463'/>
+<node id='-20000010' lon='18.7315812014' lat='48.0625336886'/>
+<node id='-20000011' lon='18.7321735595' lat='48.049054104'/>
+<node id='-20000012' lon='18.7327654833' lat='48.0355744823'/>
+<node id='-20000013' lon='18.7325831404' lat='48.0352527688'/>
+<node id='-20000014' lon='18.7321150238' lat='48.0351117572'/>
+<node id='-20000015' lon='18.6651235943' lat='48.0337690298'/>
+<node id='-20000016' lon='18.664643772' lat='48.0338910411'/>
+<node id='-20000017' lon='18.6644331165' lat='48.0342048767'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='18.67039' lat='48.06580'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000001' lon='18.67080' lat='48.05682'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000002' lon='18.68420' lat='48.05709'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000003' lon='18.69760' lat='48.05736'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000004' lon='18.71101' lat='48.05763'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000005' lon='18.72441' lat='48.05789'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000006' lon='18.67120' lat='48.04783'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000007' lon='18.68460' lat='48.04810'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000008' lon='18.69800' lat='48.04837'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000009' lon='18.71141' lat='48.04864'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000010' lon='18.72481' lat='48.04890'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000011' lon='18.67161' lat='48.03885'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000012' lon='18.68501' lat='48.03912'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000013' lon='18.69841' lat='48.03939'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000014' lon='18.71181' lat='48.03965'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+<node id='-10000015' lon='18.72521' lat='48.03992'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Maďaloš'/><tag k='ele' v='226'/></node>
+</osm>

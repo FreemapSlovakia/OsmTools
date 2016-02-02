@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.1280086707' lat='48.7111356686'/>
+<node id='-20000001' lon='20.1273864294' lat='48.7471010494'/>
+<node id='-20000002' lon='20.127580065' lat='48.7474204969'/>
+<node id='-20000003' lon='20.128058557' lat='48.7475558313'/>
+<node id='-20000004' lon='20.1620493486' lat='48.7478080618'/>
+<node id='-20000005' lon='20.1960406024' lat='48.7480502674'/>
+<node id='-20000006' lon='20.196523484' lat='48.7479219252'/>
+<node id='-20000007' lon='20.1967276985' lat='48.7476053714'/>
+<node id='-20000008' lon='20.19701425' lat='48.7296223929'/>
+<node id='-20000009' lon='20.1973005182' lat='48.7116393568'/>
+<node id='-20000010' lon='20.1971065754' lat='48.7113200248'/>
+<node id='-20000011' lon='20.1966282402' lat='48.711184978'/>
+<node id='-20000012' lon='20.1286958611' lat='48.7106911718'/>
+<node id='-20000013' lon='20.1282131637' lat='48.7108192328'/>
+<node id='-20000014' lon='20.1280086707' lat='48.7111356686'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.13494' lat='48.74266'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000001' lon='20.14854' lat='48.74276'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000002' lon='20.16213' lat='48.74286'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000003' lon='20.17573' lat='48.74296'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000004' lon='20.18932' lat='48.74305'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000005' lon='20.13510' lat='48.73367'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000006' lon='20.14869' lat='48.73377'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000007' lon='20.16228' lat='48.73387'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000008' lon='20.17588' lat='48.73397'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000009' lon='20.18947' lat='48.73406'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000010' lon='20.13525' lat='48.72468'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000011' lon='20.14884' lat='48.72478'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000012' lon='20.16243' lat='48.72488'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000013' lon='20.17602' lat='48.72498'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000014' lon='20.18961' lat='48.72507'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000015' lon='20.13541' lat='48.71569'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000016' lon='20.14899' lat='48.71579'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000017' lon='20.16258' lat='48.71589'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000018' lon='20.17617' lat='48.71598'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+<node id='-10000019' lon='20.18976' lat='48.71608'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Faltenov vrch'/><tag k='ele' v='1338'/></node>
+</osm>

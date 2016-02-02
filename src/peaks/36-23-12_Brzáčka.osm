@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3930541821' lat='48.7481913551'/>
+<node id='-20000001' lon='19.3921933978' lat='48.775157738'/>
+<node id='-20000002' lon='19.392382465' lat='48.7754784068'/>
+<node id='-20000003' lon='19.3928592252' lat='48.7756167907'/>
+<node id='-20000004' lon='19.405779118' lat='48.7757962846'/>
+<node id='-20000005' lon='19.4055085726' lat='48.7843355432'/>
+<node id='-20000006' lon='19.4056977577' lat='48.78465619'/>
+<node id='-20000007' lon='19.4061746406' lat='48.7847945194'/>
+<node id='-20000008' lon='19.4333800884' lat='48.7851676311'/>
+<node id='-20000009' lon='19.46058609' lat='48.7855343235'/>
+<node id='-20000010' lon='19.461071187' lat='48.7854090736'/>
+<node id='-20000011' lon='19.4612801738' lat='48.7850938407'/>
+<node id='-20000012' lon='19.4618297082' lat='48.7671157027'/>
+<node id='-20000013' lon='19.4623786993' lat='48.7491375037'/>
+<node id='-20000014' lon='19.4621892814' lat='48.7488169493'/>
+<node id='-20000015' lon='19.4617125826' lat='48.7486788541'/>
+<node id='-20000016' lon='19.3937483348' lat='48.7477512705'/>
+<node id='-20000017' lon='19.3932634349' lat='48.7478762417'/>
+<node id='-20000018' lon='19.3930541821' lat='48.7481913551'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.41314' lat='48.77994'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000001' lon='19.42674' lat='48.78013'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000002' lon='19.44034' lat='48.78031'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000003' lon='19.45394' lat='48.78050'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000004' lon='19.39982' lat='48.77076'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000005' lon='19.41342' lat='48.77095'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000006' lon='19.42702' lat='48.77114'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000007' lon='19.44062' lat='48.77132'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000008' lon='19.45422' lat='48.77151'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000009' lon='19.40010' lat='48.76178'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000010' lon='19.41370' lat='48.76196'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000011' lon='19.42730' lat='48.76215'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000012' lon='19.44090' lat='48.76234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000013' lon='19.45449' lat='48.76252'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000014' lon='19.40039' lat='48.75279'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000015' lon='19.41398' lat='48.75297'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000016' lon='19.42758' lat='48.75316'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000017' lon='19.44117' lat='48.75335'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+<node id='-10000018' lon='19.45477' lat='48.75353'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Brzáčka'/><tag k='ele' v='1005'/></node>
+</osm>

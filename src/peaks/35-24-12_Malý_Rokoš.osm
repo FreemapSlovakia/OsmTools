@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.4003212318' lat='48.7480490636'/>
+<node id='-20000001' lon='18.3984644973' lat='48.7839812903'/>
+<node id='-20000002' lon='18.3986472456' lat='48.7843035629'/>
+<node id='-20000003' lon='18.3991213145' lat='48.7844460491'/>
+<node id='-20000004' lon='18.4670927827' lat='48.7859608811'/>
+<node id='-20000005' lon='18.4675803166' lat='48.7858398254'/>
+<node id='-20000006' lon='18.4677955135' lat='48.7855264213'/>
+<node id='-20000007' lon='18.4686996524' lat='48.767559372'/>
+<node id='-20000008' lon='18.4696028981' lat='48.7495922541'/>
+<node id='-20000009' lon='18.469419813' lat='48.7492700944'/>
+<node id='-20000010' lon='18.4689458728' lat='48.7491279023'/>
+<node id='-20000011' lon='18.4010239962' lat='48.7476150002'/>
+<node id='-20000012' lon='18.4005366766' lat='48.747735781'/>
+<node id='-20000013' lon='18.4003212318' lat='48.7480490636'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.40618' lat='48.77965'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000001' lon='18.41977' lat='48.77996'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000002' lon='18.43336' lat='48.78026'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000003' lon='18.44695' lat='48.78057'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000004' lon='18.46055' lat='48.78086'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000005' lon='18.40664' lat='48.77067'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000006' lon='18.42023' lat='48.77098'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000007' lon='18.43382' lat='48.77128'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000008' lon='18.44741' lat='48.77158'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000009' lon='18.46100' lat='48.77188'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000010' lon='18.40710' lat='48.76169'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000011' lon='18.42069' lat='48.76199'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000012' lon='18.43428' lat='48.76230'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000013' lon='18.44787' lat='48.76260'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000014' lon='18.46145' lat='48.76290'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000015' lon='18.40756' lat='48.75270'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000016' lon='18.42115' lat='48.75301'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000017' lon='18.43473' lat='48.75331'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000018' lon='18.44832' lat='48.75362'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+<node id='-10000019' lon='18.46191' lat='48.75391'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rokoš'/><tag k='ele' v='953'/></node>
+</osm>

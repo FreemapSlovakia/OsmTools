@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.5340987916' lat='49.3246545799'/>
+<node id='-20000001' lon='21.5344880819' lat='49.3606187306'/>
+<node id='-20000002' lon='21.5346931151' lat='49.3609356745'/>
+<node id='-20000003' lon='21.5351812223' lat='49.3610650915'/>
+<node id='-20000004' lon='21.5695949899' lat='49.3609006892'/>
+<node id='-20000005' lon='21.6040084335' lat='49.3607260428'/>
+<node id='-20000006' lon='21.6044934922' lat='49.3605918322'/>
+<node id='-20000007' lon='21.6046911812' lat='49.3602729051'/>
+<node id='-20000008' lon='21.604250767' lat='49.3243091902'/>
+<node id='-20000009' lon='21.6040454399' lat='49.3239923645'/>
+<node id='-20000010' lon='21.6035575156' lat='49.323863235'/>
+<node id='-20000011' lon='21.534781693' lat='49.3242018484'/>
+<node id='-20000012' lon='21.5342967957' lat='49.3243357678'/>
+<node id='-20000013' lon='21.5340987916' lat='49.3246545799'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='21.5644228272' lat='49.3464394238'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Rohuľa'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='595'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='21.5644228272' lat='49.3464394238'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Rohuľa'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='595'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='21.5646027425' lat='49.3496578509'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Rohuľa'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='595'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='21.5597298961' lat='49.348708232'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Rohuľa'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='595'/><tag k='source' v='kapor2'/></node>
+<node id='-30000004' lon='21.5526162285' lat='49.3598236609'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Rohuľa'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='595'/><tag k='source' v='kapor2'/></node>
+</osm>

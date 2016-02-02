@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.661313168' lat='48.6120618167'/>
+<node id='-20000001' lon='17.6589405502' lat='48.6479708136'/>
+<node id='-20000002' lon='17.6591181116' lat='48.648294236'/>
+<node id='-20000003' lon='17.6595888031' lat='48.6484397331'/>
+<node id='-20000004' lon='17.7273326341' lat='48.650386599'/>
+<node id='-20000005' lon='17.7278205893' lat='48.6502686518'/>
+<node id='-20000006' lon='17.728039752' lat='48.6499566301'/>
+<node id='-20000007' lon='17.7292022049' lat='48.6320009248'/>
+<node id='-20000008' lon='17.7303635125' lat='48.6140451423'/>
+<node id='-20000009' lon='17.730185605' lat='48.6137218312'/>
+<node id='-20000010' lon='17.7297150291' lat='48.6135766294'/>
+<node id='-20000011' lon='17.6620202917' lat='48.6116322416'/>
+<node id='-20000012' lon='17.6615325629' lat='48.6117499179'/>
+<node id='-20000013' lon='17.661313168' lat='48.6120618167'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='17.6848744573' lat='48.6374027696'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Tlstá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='426'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='17.6842673906' lat='48.6410515412'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Tlstá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='426'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='17.6776335431' lat='48.6417051861'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Tlstá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='426'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='17.6733937484' lat='48.6356744303'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Tlstá hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='426'/><tag k='source' v='kapor2'/></node>
+</osm>

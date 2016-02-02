@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.6027918738' lat='48.8126673323'/>
+<node id='-20000001' lon='20.6025073527' lat='48.8486353854'/>
+<node id='-20000002' lon='20.6027043871' lat='48.8489540199'/>
+<node id='-20000003' lon='20.6031851074' lat='48.8490873774'/>
+<node id='-20000004' lon='20.63724757' lat='48.8491996225'/>
+<node id='-20000005' lon='20.6713102338' lat='48.8493018047'/>
+<node id='-20000006' lon='20.6717928612' lat='48.8491714795'/>
+<node id='-20000007' lon='20.6719944925' lat='48.8488541001'/>
+<node id='-20000008' lon='20.6721119548' lat='48.8308699643'/>
+<node id='-20000009' lon='20.6722293007' lat='48.8128857719'/>
+<node id='-20000010' lon='20.6720319652' lat='48.8125672538'/>
+<node id='-20000011' lon='20.67155141' lat='48.812434183'/>
+<node id='-20000012' lon='20.6034762449' lat='48.8122200285'/>
+<node id='-20000013' lon='20.6029937938' lat='48.8123500699'/>
+<node id='-20000014' lon='20.6027918738' lat='48.8126673323'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.61004' lat='48.84416'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000001' lon='20.62366' lat='48.84421'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000002' lon='20.63729' lat='48.84425'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000003' lon='20.65091' lat='48.84430'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000004' lon='20.66453' lat='48.84434'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000005' lon='20.61011' lat='48.83517'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000006' lon='20.62373' lat='48.83522'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000007' lon='20.63735' lat='48.83526'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000008' lon='20.65097' lat='48.83530'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000009' lon='20.66459' lat='48.83534'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000010' lon='20.61018' lat='48.82618'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000011' lon='20.62380' lat='48.82623'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000012' lon='20.63742' lat='48.82627'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000013' lon='20.65103' lat='48.82631'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000014' lon='20.66465' lat='48.82635'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000015' lon='20.61025' lat='48.81719'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000016' lon='20.62386' lat='48.81723'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000017' lon='20.63748' lat='48.81728'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000018' lon='20.65110' lat='48.81732'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+<node id='-10000019' lon='20.66471' lat='48.81736'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strelecký vrch'/><tag k='ele' v='765'/></node>
+</osm>

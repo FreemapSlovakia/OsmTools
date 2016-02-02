@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.6648655013' lat='48.2390582331'/>
+<node id='-20000001' lon='19.6639285341' lat='48.2750209641'/>
+<node id='-20000002' lon='19.664117523' lat='48.2753411899'/>
+<node id='-20000003' lon='19.6645903675' lat='48.2754784155'/>
+<node id='-20000004' lon='19.6780588297' lat='48.2756340691'/>
+<node id='-20000005' lon='19.6785385084' lat='48.2755078517'/>
+<node id='-20000006' lon='19.6787439898' lat='48.2751921845'/>
+<node id='-20000007' lon='19.6789642151' lat='48.2666510983'/>
+<node id='-20000008' lon='19.7321563004' lat='48.2672500114'/>
+<node id='-20000009' lon='19.7326357667' lat='48.2671235674'/>
+<node id='-20000010' lon='19.7328408803' lat='48.2668078029'/>
+<node id='-20000011' lon='19.7331742318' lat='48.2533214185'/>
+<node id='-20000012' lon='19.7335073379' lat='48.2398350007'/>
+<node id='-20000013' lon='19.7333180427' lat='48.239514889'/>
+<node id='-20000014' lon='19.7328453453' lat='48.2393779486'/>
+<node id='-20000015' lon='19.6655502773' lat='48.2386164219'/>
+<node id='-20000016' lon='19.6650709156' lat='48.2387425884'/>
+<node id='-20000017' lon='19.6648655013' lat='48.2390582331'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='19.67146' lat='48.27061'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000001' lon='19.67169' lat='48.26162'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000002' lon='19.68515' lat='48.26177'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000003' lon='19.69862' lat='48.26192'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000004' lon='19.71208' lat='48.26208'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000005' lon='19.72555' lat='48.26223'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000006' lon='19.67192' lat='48.25263'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000007' lon='19.68539' lat='48.25278'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000008' lon='19.69885' lat='48.25293'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000009' lon='19.71231' lat='48.25309'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000010' lon='19.72577' lat='48.25324'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000011' lon='19.67216' lat='48.24364'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000012' lon='19.68561' lat='48.24379'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000013' lon='19.69908' lat='48.24394'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000014' lon='19.71254' lat='48.24410'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+<node id='-10000015' lon='19.72600' lat='48.24424'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Blatný vrch'/><tag k='ele' v='358'/></node>
+</osm>

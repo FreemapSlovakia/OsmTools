@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.4102982124' lat='49.3251602208'/>
+<node id='-20000001' lon='21.4105972512' lat='49.3611250097'/>
+<node id='-20000002' lon='21.4108014907' lat='49.3614421741'/>
+<node id='-20000003' lon='21.4112892789' lat='49.3615721145'/>
+<node id='-20000004' lon='21.4388211158' lat='49.3614709169'/>
+<node id='-20000005' lon='21.4663527932' lat='49.3613631626'/>
+<node id='-20000006' lon='21.4668382339' lat='49.3612295293'/>
+<node id='-20000007' lon='21.4670368162' lat='49.3609108368'/>
+<node id='-20000008' lon='21.4666966759' lat='49.3249463178'/>
+<node id='-20000009' lon='21.4664922282' lat='49.3246292471'/>
+<node id='-20000010' lon='21.4660046564' lat='49.3244995366'/>
+<node id='-20000011' lon='21.4109822574' lat='49.3247082198'/>
+<node id='-20000012' lon='21.4104970183' lat='49.3248416201'/>
+<node id='-20000013' lon='21.4102982124' lat='49.3251602208'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.41814' lat='49.35661'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000001' lon='21.43190' lat='49.35655'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000002' lon='21.44567' lat='49.35650'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000003' lon='21.45943' lat='49.35645'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000004' lon='21.41806' lat='49.34761'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000005' lon='21.43182' lat='49.34756'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000006' lon='21.44559' lat='49.34751'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000007' lon='21.45935' lat='49.34746'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000008' lon='21.41799' lat='49.33862'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000009' lon='21.43175' lat='49.33857'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000010' lon='21.44551' lat='49.33852'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000011' lon='21.45926' lat='49.33847'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000012' lon='21.41791' lat='49.32963'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000013' lon='21.43167' lat='49.32958'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000014' lon='21.44543' lat='49.32953'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+<node id='-10000015' lon='21.45918' lat='49.32948'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšná Zemrovka'/><tag k='ele' v='531'/></node>
+</osm>

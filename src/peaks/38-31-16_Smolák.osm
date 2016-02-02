@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.3362855216' lat='48.5520801211'/>
+<node id='-20000001' lon='21.3364047103' lat='48.5700651168'/>
+<node id='-20000002' lon='21.3366052756' lat='48.5703825045'/>
+<node id='-20000003' lon='21.3370852684' lat='48.57051281'/>
+<node id='-20000004' lon='21.4048350236' lat='48.5702946311'/>
+<node id='-20000005' lon='21.405313086' lat='48.5701612404'/>
+<node id='-20000006' lon='21.4055089998' lat='48.5698425759'/>
+<node id='-20000007' lon='21.4054371418' lat='48.560850155'/>
+<node id='-20000008' lon='21.4052361839' lat='48.5605328866'/>
+<node id='-20000009' lon='21.4047561108' lat='48.5604028648'/>
+<node id='-20000010' lon='21.3918863077' lat='48.5604473711'/>
+<node id='-20000011' lon='21.3918203579' lat='48.5519045945'/>
+<node id='-20000012' lon='21.3916195209' lat='48.5515873016'/>
+<node id='-20000013' lon='21.3911395673' lat='48.5514572226'/>
+<node id='-20000014' lon='21.3369598678' lat='48.551628466'/>
+<node id='-20000015' lon='21.3364817998' lat='48.551761573'/>
+<node id='-20000016' lon='21.3362855216' lat='48.5520801211'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+</way>
+<node id='-10000000' lon='21.35731' lat='48.55651'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000001' lon='21.37086' lat='48.55647'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000002' lon='21.38440' lat='48.55642'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000003' lon='21.34383' lat='48.56555'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000004' lon='21.35737' lat='48.56550'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000005' lon='21.37092' lat='48.56546'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000006' lon='21.38447' lat='48.56542'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000007' lon='21.39802' lat='48.56537'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+<node id='-10000008' lon='21.34377' lat='48.55655'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smolák'/><tag k='ele' v='644'/></node>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='22.1933293158' lat='48.7082580189'/>
+<node id='-20000001' lon='22.1941804989' lat='48.7442197799'/>
+<node id='-20000002' lon='22.1943871465' lat='48.7445356318'/>
+<node id='-20000003' lon='22.194870975' lat='48.7446623333'/>
+<node id='-20000004' lon='22.2288557908' lat='48.7443049392'/>
+<node id='-20000005' lon='22.2628399294' lat='48.7439375251'/>
+<node id='-20000006' lon='22.2633173226' lat='48.7438005733'/>
+<node id='-20000007' lon='22.2635084626' lat='48.7434804797'/>
+<node id='-20000008' lon='22.262607895' lat='48.7075196476'/>
+<node id='-20000009' lon='22.2624009756' lat='48.7072039138'/>
+<node id='-20000010' lon='22.2619173369' lat='48.7070774916'/>
+<node id='-20000011' lon='22.1939980148' lat='48.7078013757'/>
+<node id='-20000012' lon='22.1935207702' lat='48.7079380391'/>
+<node id='-20000013' lon='22.1933293158' lat='48.7082580189'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='22.20155' lat='48.73965'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000001' lon='22.21514' lat='48.73950'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000002' lon='22.22873' lat='48.73936'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000003' lon='22.24233' lat='48.73921'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000004' lon='22.25592' lat='48.73907'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000005' lon='22.20133' lat='48.73066'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000006' lon='22.21493' lat='48.73051'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000007' lon='22.22852' lat='48.73037'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000008' lon='22.24210' lat='48.73022'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000009' lon='22.25569' lat='48.73008'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000010' lon='22.20112' lat='48.72167'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000011' lon='22.21471' lat='48.72152'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000012' lon='22.22829' lat='48.72138'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000013' lon='22.24188' lat='48.72123'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000014' lon='22.25547' lat='48.72109'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000015' lon='22.20091' lat='48.71267'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000016' lon='22.21449' lat='48.71253'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000017' lon='22.22808' lat='48.71239'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000018' lon='22.24166' lat='48.71224'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+<node id='-10000019' lon='22.25525' lat='48.71209'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Porostovský grúň'/><tag k='ele' v='113'/></node>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='22.1973874779' lat='48.8790742771'/>
+<node id='-20000001' lon='22.1982467032' lat='48.9150349144'/>
+<node id='-20000002' lon='22.1984540944' lat='48.915350736'/>
+<node id='-20000003' lon='22.1989395764' lat='48.9154774004'/>
+<node id='-20000004' lon='22.2330400564' lat='48.9151178641'/>
+<node id='-20000005' lon='22.267139851' lat='48.9147482476'/>
+<node id='-20000006' lon='22.2676188368' lat='48.9146112719'/>
+<node id='-20000007' lon='22.2678105742' lat='48.9142911833'/>
+<node id='-20000008' lon='22.2669015008' lat='48.8783314811'/>
+<node id='-20000009' lon='22.2666938349' lat='48.8780157777'/>
+<node id='-20000010' lon='22.2662085438' lat='48.8778893942'/>
+<node id='-20000011' lon='22.1980583701' lat='48.8786176163'/>
+<node id='-20000012' lon='22.1975795331' lat='48.8787543022'/>
+<node id='-20000013' lon='22.1973874779' lat='48.8790742771'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='22.20564' lat='48.91046'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000001' lon='22.21928' lat='48.91032'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000002' lon='22.23292' lat='48.91017'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000003' lon='22.24656' lat='48.91003'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000004' lon='22.26020' lat='48.90988'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000005' lon='22.20543' lat='48.90147'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000006' lon='22.21906' lat='48.90133'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000007' lon='22.23270' lat='48.90118'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000008' lon='22.24633' lat='48.90104'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000009' lon='22.25997' lat='48.90089'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000010' lon='22.20521' lat='48.89248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000011' lon='22.21884' lat='48.89234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000012' lon='22.23248' lat='48.89219'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000013' lon='22.24611' lat='48.89205'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000014' lon='22.25974' lat='48.89190'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000015' lon='22.20499' lat='48.88349'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000016' lon='22.21862' lat='48.88335'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000017' lon='22.23226' lat='48.88320'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000018' lon='22.24589' lat='48.88306'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+<node id='-10000019' lon='22.25952' lat='48.88291'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strihovská poľana'/><tag k='ele' v='982'/></node>
+</osm>

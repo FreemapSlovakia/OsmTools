@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.194009275' lat='48.6103472325'/>
+<node id='-20000001' lon='19.1927253748' lat='48.646299514'/>
+<node id='-20000002' lon='19.1929127143' lat='48.6466205105'/>
+<node id='-20000003' lon='19.1933877199' lat='48.6467597077'/>
+<node id='-20000004' lon='19.2612092925' lat='48.647803879'/>
+<node id='-20000005' lon='19.2616935518' lat='48.6476794504'/>
+<node id='-20000006' lon='19.2619031913' lat='48.6473645656'/>
+<node id='-20000007' lon='19.262520906' lat='48.6293877872'/>
+<node id='-20000008' lon='19.2631380114' lat='48.6114109467'/>
+<node id='-20000009' lon='19.2629503509' lat='48.6110900642'/>
+<node id='-20000010' lon='19.2624754865' lat='48.610951157'/>
+<node id='-20000011' lon='19.1947032339' lat='48.6099083159'/>
+<node id='-20000012' lon='19.1942191746' lat='48.6100324676'/>
+<node id='-20000013' lon='19.194009275' lat='48.6103472325'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.20035' lat='48.64192'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000001' lon='19.21391' lat='48.64213'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000002' lon='19.22747' lat='48.64234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000003' lon='19.24104' lat='48.64255'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000004' lon='19.25460' lat='48.64275'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000005' lon='19.20067' lat='48.63293'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000006' lon='19.21423' lat='48.63314'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000007' lon='19.22779' lat='48.63335'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000008' lon='19.24135' lat='48.63356'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000009' lon='19.25491' lat='48.63376'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000010' lon='19.20099' lat='48.62394'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000011' lon='19.21455' lat='48.62415'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000012' lon='19.22810' lat='48.62436'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000013' lon='19.24166' lat='48.62457'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000014' lon='19.25522' lat='48.62478'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000015' lon='19.20131' lat='48.61495'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000016' lon='19.21486' lat='48.61516'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000017' lon='19.22842' lat='48.61538'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000018' lon='19.24198' lat='48.61558'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+<node id='-10000019' lon='19.25553' lat='48.61579'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Samporský vrch'/><tag k='ele' v='480'/></node>
+</osm>

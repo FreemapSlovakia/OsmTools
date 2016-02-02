@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.1267629564' lat='48.7830661985'/>
+<node id='-20000001' lon='20.1261382486' lat='48.8190311164'/>
+<node id='-20000002' lon='20.1263321463' lat='48.8193505623'/>
+<node id='-20000003' lon='20.1268113145' lat='48.8194859035'/>
+<node id='-20000004' lon='20.1608507048' lat='48.8197387695'/>
+<node id='-20000005' lon='20.1948905595' lat='48.8199815853'/>
+<node id='-20000006' lon='20.1953741347' lat='48.8198532539'/>
+<node id='-20000007' lon='20.1955786532' lat='48.819536709'/>
+<node id='-20000008' lon='20.1958663412' lat='48.8015539611'/>
+<node id='-20000009' lon='20.1961537445' lat='48.7835711555'/>
+<node id='-20000010' lon='20.1959595383' lat='48.7832518254'/>
+<node id='-20000011' lon='20.1954805272' lat='48.7831167723'/>
+<node id='-20000012' lon='20.1274511453' lat='48.782621722'/>
+<node id='-20000013' lon='20.1269677546' lat='48.7827497717'/>
+<node id='-20000014' lon='20.1267629564' lat='48.7830661985'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.13371' lat='48.81459'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000001' lon='20.14732' lat='48.81469'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000002' lon='20.16094' lat='48.81479'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000003' lon='20.17455' lat='48.81489'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000004' lon='20.18817' lat='48.81499'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000005' lon='20.13386' lat='48.80560'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000006' lon='20.14747' lat='48.80570'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000007' lon='20.16109' lat='48.80580'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000008' lon='20.17470' lat='48.80590'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000009' lon='20.18831' lat='48.80600'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000010' lon='20.13402' lat='48.79661'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000011' lon='20.14763' lat='48.79671'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000012' lon='20.16124' lat='48.79681'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000013' lon='20.17485' lat='48.79691'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000014' lon='20.18846' lat='48.79700'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000015' lon='20.13417' lat='48.78762'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000016' lon='20.14778' lat='48.78772'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000017' lon='20.16139' lat='48.78782'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000018' lon='20.17499' lat='48.78792'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+<node id='-10000019' lon='20.18860' lat='48.78801'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kyprov'/><tag k='ele' v='1391'/></node>
+</osm>

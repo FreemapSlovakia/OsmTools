@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.5931194941' lat='49.2648438771'/>
+<node id='-20000001' lon='18.5926821484' lat='49.2738274756'/>
+<node id='-20000002' lon='18.592867835' lat='49.2741494315'/>
+<node id='-20000003' lon='18.593347071' lat='49.2742911757'/>
+<node id='-20000004' lon='18.6063902347' lat='49.274562281'/>
+<node id='-20000005' lon='18.6055416283' lat='49.2920802206'/>
+<node id='-20000006' lon='18.6057274625' lat='49.292402155'/>
+<node id='-20000007' lon='18.6062069091' lat='49.2925438477'/>
+<node id='-20000008' lon='18.6336774739' lat='49.2931099934'/>
+<node id='-20000009' lon='18.6611488966' lat='49.2936696133'/>
+<node id='-20000010' lon='18.6616409735' lat='49.2935478274'/>
+<node id='-20000011' lon='18.6618572564' lat='49.2932341328'/>
+<node id='-20000012' lon='18.6624947946' lat='49.2797580997'/>
+<node id='-20000013' lon='18.6631318565' lat='49.266282029'/>
+<node id='-20000014' lon='18.6629457405' lat='49.2659601864'/>
+<node id='-20000015' lon='18.6624663854' lat='49.265818732'/>
+<node id='-20000016' lon='18.593828035' lat='49.2644088035'/>
+<node id='-20000017' lon='18.593336081' lat='49.264530306'/>
+<node id='-20000018' lon='18.5931194941' lat='49.2648438771'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='18.61332' lat='49.28774'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000001' lon='18.62705' lat='49.28802'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000002' lon='18.64079' lat='49.28831'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000003' lon='18.65452' lat='49.28858'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000004' lon='18.61375' lat='49.27876'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000005' lon='18.62748' lat='49.27904'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000006' lon='18.64121' lat='49.27932'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000007' lon='18.65495' lat='49.27960'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000008' lon='18.62791' lat='49.27006'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000009' lon='18.60046' lat='49.26949'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000010' lon='18.61418' lat='49.26977'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000011' lon='18.64164' lat='49.27034'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+<node id='-10000012' lon='18.65537' lat='49.27062'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trojka'/><tag k='ele' v='652'/></node>
+</osm>

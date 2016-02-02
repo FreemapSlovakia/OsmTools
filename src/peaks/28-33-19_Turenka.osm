@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.5312037267' lat='49.0549162072'/>
+<node id='-20000001' lon='21.5314912916' lat='49.0818906198'/>
+<node id='-20000002' lon='21.5316951557' lat='49.0822076105'/>
+<node id='-20000003' lon='21.5321805456' lat='49.0823370648'/>
+<node id='-20000004' lon='21.5664013312' lat='49.0821742611'/>
+<node id='-20000005' lon='21.6006217991' lat='49.0820013128'/>
+<node id='-20000006' lon='21.6011041873' lat='49.081867111'/>
+<node id='-20000007' lon='21.6013008195' lat='49.0815481561'/>
+<node id='-20000008' lon='21.6009754866' lat='49.0545740667'/>
+<node id='-20000009' lon='21.6007712957' lat='49.0542571953'/>
+<node id='-20000010' lon='21.6002859999' lat='49.0541280272'/>
+<node id='-20000011' lon='21.5318830156' lat='49.054463455'/>
+<node id='-20000012' lon='21.5314007025' lat='49.0545973682'/>
+<node id='-20000013' lon='21.5312037267' lat='49.0549162072'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.53898' lat='49.07736'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000001' lon='21.55266' lat='49.07730'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000002' lon='21.56635' lat='49.07723'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000003' lon='21.58004' lat='49.07716'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000004' lon='21.59372' lat='49.07709'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000005' lon='21.53888' lat='49.06837'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000006' lon='21.55256' lat='49.06831'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000007' lon='21.56625' lat='49.06824'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000008' lon='21.57993' lat='49.06817'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000009' lon='21.59362' lat='49.06810'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000010' lon='21.53878' lat='49.05938'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000011' lon='21.55246' lat='49.05931'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000012' lon='21.56614' lat='49.05925'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000013' lon='21.57983' lat='49.05918'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+<node id='-10000014' lon='21.59351' lat='49.05911'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Turenka'/><tag k='ele' v='387'/></node>
+</osm>

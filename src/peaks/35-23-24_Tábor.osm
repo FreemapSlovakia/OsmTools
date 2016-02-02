@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.2000824932' lat='48.6803976164'/>
+<node id='-20000001' lon='18.1980876127' lat='48.7163243333'/>
+<node id='-20000002' lon='18.1982688505' lat='48.7166469207'/>
+<node id='-20000003' lon='18.1987417209' lat='48.7167902206'/>
+<node id='-20000004' lon='18.2666109941' lat='48.7184215707'/>
+<node id='-20000005' lon='18.2670983468' lat='48.7183013512'/>
+<node id='-20000006' lon='18.2673144842' lat='48.7179883151'/>
+<node id='-20000007' lon='18.2682878366' lat='48.7000239477'/>
+<node id='-20000008' lon='18.2692602285' lat='48.6820595094'/>
+<node id='-20000009' lon='18.2690786519' lat='48.6817370344'/>
+<node id='-20000010' lon='18.2686059064' lat='48.6815940287'/>
+<node id='-20000011' lon='18.2007860091' lat='48.6799647562'/>
+<node id='-20000012' lon='18.2002988738' lat='48.6800847021'/>
+<node id='-20000013' lon='18.2000824932' lat='48.6803976164'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.20580' lat='48.71201'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000001' lon='18.21938' lat='48.71234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000002' lon='18.23295' lat='48.71267'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000003' lon='18.24652' lat='48.71299'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000004' lon='18.26009' lat='48.71332'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000005' lon='18.20630' lat='48.70303'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000006' lon='18.21987' lat='48.70336'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000007' lon='18.23344' lat='48.70368'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000008' lon='18.24701' lat='48.70401'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000009' lon='18.26058' lat='48.70433'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000010' lon='18.20680' lat='48.69405'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000011' lon='18.22037' lat='48.69438'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000012' lon='18.23393' lat='48.69470'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000013' lon='18.24750' lat='48.69503'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000014' lon='18.26107' lat='48.69535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000015' lon='18.20730' lat='48.68507'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000016' lon='18.22086' lat='48.68539'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000017' lon='18.23443' lat='48.68572'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000018' lon='18.24799' lat='48.68605'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+<node id='-10000019' lon='18.26156' lat='48.68637'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tábor'/><tag k='ele' v='257'/></node>
+</osm>

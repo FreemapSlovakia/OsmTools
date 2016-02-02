@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.9350278302' lat='48.3092068965'/>
+<node id='-20000001' lon='18.933938736' lat='48.3361684213'/>
+<node id='-20000002' lon='18.9341233599' lat='48.3364898304'/>
+<node id='-20000003' lon='18.9345947818' lat='48.3366300579'/>
+<node id='-20000004' lon='19.0019939733' lat='48.3378210649'/>
+<node id='-20000005' lon='19.0024758863' lat='48.3376976834'/>
+<node id='-20000006' lon='19.0026857915' lat='48.3373832455'/>
+<node id='-20000007' lon='19.0032124419' lat='48.3239019297'/>
+<node id='-20000008' lon='19.0037387046' lat='48.310420578'/>
+<node id='-20000009' lon='19.0035537325' lat='48.3100992811'/>
+<node id='-20000010' lon='19.0030823646' lat='48.3099593392'/>
+<node id='-20000011' lon='18.9357198236' lat='48.3087694749'/>
+<node id='-20000012' lon='18.9352380267' lat='48.3088925802'/>
+<node id='-20000013' lon='18.9350278302' lat='48.3092068965'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.94154' lat='48.33180'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000001' lon='18.95502' lat='48.33204'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000002' lon='18.96849' lat='48.33228'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000003' lon='18.98197' lat='48.33252'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000004' lon='18.99545' lat='48.33276'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000005' lon='18.94190' lat='48.32282'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000006' lon='18.95538' lat='48.32306'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000007' lon='18.96885' lat='48.32330'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000008' lon='18.98233' lat='48.32353'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000009' lon='18.99580' lat='48.32377'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000010' lon='18.94226' lat='48.31383'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000011' lon='18.95574' lat='48.31407'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000012' lon='18.96921' lat='48.31431'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000013' lon='18.98268' lat='48.31455'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+<node id='-10000014' lon='18.99616' lat='48.31478'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tonhol'/><tag k='ele' v='519'/></node>
+</osm>

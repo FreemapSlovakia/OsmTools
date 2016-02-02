@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.9270868609' lat='48.9252642397'/>
+<node id='-20000001' lon='17.9254311726' lat='48.9522015583'/>
+<node id='-20000002' lon='17.9256114383' lat='48.9525245786'/>
+<node id='-20000003' lon='17.9260857224' lat='48.952669038'/>
+<node id='-20000004' lon='17.9942580288' lat='48.9544672685'/>
+<node id='-20000005' lon='17.9947483541' lat='48.9543482533'/>
+<node id='-20000006' lon='17.9949672761' lat='48.9540357625'/>
+<node id='-20000007' lon='17.9957767682' lat='48.9405662596'/>
+<node id='-20000008' lon='17.996585659' lat='48.9270967154'/>
+<node id='-20000009' lon='17.9964050192' lat='48.9267738065'/>
+<node id='-20000010' lon='17.9959307739' lat='48.9266296406'/>
+<node id='-20000011' lon='17.9277962622' lat='48.9248331372'/>
+<node id='-20000012' lon='17.9273060702' lat='48.9249518737'/>
+<node id='-20000013' lon='17.9270868609' lat='48.9252642397'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='17.93321' lat='48.94791'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000001' lon='17.94684' lat='48.94827'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000002' lon='17.96047' lat='48.94863'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000003' lon='17.97411' lat='48.94899'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000004' lon='17.98774' lat='48.94935'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000005' lon='17.93376' lat='48.93893'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000006' lon='17.94739' lat='48.93929'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000007' lon='17.96102' lat='48.93965'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000008' lon='17.97465' lat='48.94001'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000009' lon='17.98828' lat='48.94036'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000010' lon='17.93431' lat='48.92995'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000011' lon='17.94794' lat='48.93031'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000012' lon='17.96156' lat='48.93067'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000013' lon='17.97519' lat='48.93103'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+<node id='-10000014' lon='17.98882' lat='48.93138'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Zlatovská Chotárna'/><tag k='ele' v='409'/></node>
+</osm>

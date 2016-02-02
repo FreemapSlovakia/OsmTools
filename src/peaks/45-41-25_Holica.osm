@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.2596669539' lat='47.8273737488'/>
+<node id='-20000001' lon='18.2577720644' lat='47.863307628'/>
+<node id='-20000002' lon='18.2579508863' lat='47.8636300672'/>
+<node id='-20000003' lon='18.2584161483' lat='47.8637729749'/>
+<node id='-20000004' lon='18.3251676259' lat='47.8653486935'/>
+<node id='-20000005' lon='18.3256466419' lat='47.8652280757'/>
+<node id='-20000006' lon='18.325858607' lat='47.86491486'/>
+<node id='-20000007' lon='18.3267830418' lat='47.8469469496'/>
+<node id='-20000008' lon='18.327706576' lat='47.8289789695'/>
+<node id='-20000009' lon='18.3275274326' lat='47.8286566413'/>
+<node id='-20000010' lon='18.3270622934' lat='47.82851402'/>
+<node id='-20000011' lon='18.2603579542' lat='47.8269403038'/>
+<node id='-20000012' lon='18.2598791498' lat='47.8270606547'/>
+<node id='-20000013' lon='18.2596669539' lat='47.8273737488'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='18.2670959755' lat='47.8513205161'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Holica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='182'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='18.2674282552' lat='47.8555687465'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Holica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='182'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='18.2589195297' lat='47.8518021407'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Holica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='182'/><tag k='source' v='kapor2'/></node>
+</osm>

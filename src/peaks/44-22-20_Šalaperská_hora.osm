@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.2707877392' lat='48.2042755476'/>
+<node id='-20000001' lon='17.2681756474' lat='48.2401719539'/>
+<node id='-20000002' lon='17.2683494424' lat='48.2404959364'/>
+<node id='-20000003' lon='17.2688152872' lat='48.2406429339'/>
+<node id='-20000004' lon='17.3225552066' lat='48.2423766866'/>
+<node id='-20000005' lon='17.3230401084' lat='48.2422603614'/>
+<node id='-20000006' lon='17.3232598423' lat='48.2419490738'/>
+<node id='-20000007' lon='17.3238715321' lat='48.2334235929'/>
+<node id='-20000008' lon='17.3366326796' lat='48.2338314527'/>
+<node id='-20000009' lon='17.3371174669' lat='48.233715066'/>
+<node id='-20000010' lon='17.3373370755' lat='48.2334037505'/>
+<node id='-20000011' lon='17.3382988378' lat='48.2199415698'/>
+<node id='-20000012' lon='17.3392598941' lat='48.2064793434'/>
+<node id='-20000013' lon='17.3390857547' lat='48.2061554706'/>
+<node id='-20000014' lon='17.3386200176' lat='48.2060087658'/>
+<node id='-20000015' lon='17.2714922578' lat='48.2038482417'/>
+<node id='-20000016' lon='17.2710076124' lat='48.2039643576'/>
+<node id='-20000017' lon='17.2707877392' lat='48.2042755476'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='17.27589' lat='48.23592'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000001' lon='17.28933' lat='48.23636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000002' lon='17.30276' lat='48.23679'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000003' lon='17.31620' lat='48.23722'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000004' lon='17.27655' lat='48.22695'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000005' lon='17.28998' lat='48.22738'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000006' lon='17.30341' lat='48.22781'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000007' lon='17.31684' lat='48.22825'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000008' lon='17.33027' lat='48.22868'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000009' lon='17.27720' lat='48.21797'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000010' lon='17.29063' lat='48.21841'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000011' lon='17.30406' lat='48.21884'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000012' lon='17.31749' lat='48.21927'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000013' lon='17.33092' lat='48.21970'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000014' lon='17.27785' lat='48.20900'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000015' lon='17.29128' lat='48.20943'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000016' lon='17.30470' lat='48.20987'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000017' lon='17.31813' lat='48.21030'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+<node id='-10000018' lon='17.33156' lat='48.21073'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šalaperská hora'/><tag k='ele' v='174'/></node>
+</osm>

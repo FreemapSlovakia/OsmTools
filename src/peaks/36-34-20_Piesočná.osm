@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.2697556029' lat='48.3776860581'/>
+<node id='-20000001' lon='19.2688407814' lat='48.4046524899'/>
+<node id='-20000002' lon='19.269027751' lat='48.4049733615'/>
+<node id='-20000003' lon='19.2695007221' lat='48.4051122222'/>
+<node id='-20000004' lon='19.3370030825' lat='48.4061079945'/>
+<node id='-20000005' lon='19.3374848362' lat='48.4059832174'/>
+<node id='-20000006' lon='19.3376929698' lat='48.4056681739'/>
+<node id='-20000007' lon='19.3381323711' lat='48.3921844974'/>
+<node id='-20000008' lon='19.3385714484' lat='48.3787007863'/>
+<node id='-20000009' lon='19.3383841338' lat='48.3783800278'/>
+<node id='-20000010' lon='19.3379112217' lat='48.3782414527'/>
+<node id='-20000011' lon='19.2704456769' lat='48.377246636'/>
+<node id='-20000012' lon='19.2699640341' lat='48.3773711356'/>
+<node id='-20000013' lon='19.2697556029' lat='48.3776860581'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.27642' lat='48.40027'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000001' lon='19.28992' lat='48.40047'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000002' lon='19.30342' lat='48.40067'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000003' lon='19.31692' lat='48.40087'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000004' lon='19.33042' lat='48.40106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000005' lon='19.27672' lat='48.39128'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000006' lon='19.29022' lat='48.39148'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000007' lon='19.30372' lat='48.39168'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000008' lon='19.31722' lat='48.39188'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000009' lon='19.33071' lat='48.39207'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000010' lon='19.27703' lat='48.38229'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000011' lon='19.29052' lat='48.38249'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000012' lon='19.30402' lat='48.38269'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000013' lon='19.31751' lat='48.38289'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+<node id='-10000014' lon='19.33101' lat='48.38308'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Piesočná'/><tag k='ele' v='605'/></node>
+</osm>

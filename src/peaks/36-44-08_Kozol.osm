@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7948047533' lat='48.438345052'/>
+<node id='-20000001' lon='19.7939530138' lat='48.474308344'/>
+<node id='-20000002' lon='19.794143537' lat='48.474628356'/>
+<node id='-20000003' lon='19.7946185772' lat='48.4747650594'/>
+<node id='-20000004' lon='19.8622286181' lat='48.4754534343'/>
+<node id='-20000005' lon='19.8627097373' lat='48.475326466'/>
+<node id='-20000006' lon='19.8629149099' lat='48.4750104826'/>
+<node id='-20000007' lon='19.8633166411' lat='48.4570284254'/>
+<node id='-20000008' lon='19.8637179769' lat='48.4390463093'/>
+<node id='-20000009' lon='19.8635271459' lat='48.438726412'/>
+<node id='-20000010' lon='19.8630522559' lat='48.4385899949'/>
+<node id='-20000011' lon='19.7954911241' lat='48.4379024968'/>
+<node id='-20000012' lon='19.7950101937' lat='48.4380291874'/>
+<node id='-20000013' lon='19.7948047533' lat='48.438345052'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.80150' lat='48.46989'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000001' lon='19.81502' lat='48.47003'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000002' lon='19.82854' lat='48.47017'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000003' lon='19.84206' lat='48.47030'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000004' lon='19.85558' lat='48.47044'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000005' lon='19.80171' lat='48.46090'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000006' lon='19.81523' lat='48.46104'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000007' lon='19.82875' lat='48.46117'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000008' lon='19.84227' lat='48.46131'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000009' lon='19.85578' lat='48.46145'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000010' lon='19.80192' lat='48.45190'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000011' lon='19.81544' lat='48.45204'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000012' lon='19.82895' lat='48.45218'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000013' lon='19.84247' lat='48.45232'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000014' lon='19.85599' lat='48.45246'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000015' lon='19.80213' lat='48.44291'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000016' lon='19.81565' lat='48.44305'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000017' lon='19.82916' lat='48.44319'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000018' lon='19.84267' lat='48.44333'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+<node id='-10000019' lon='19.85619' lat='48.44347'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kozol'/><tag k='ele' v='390'/></node>
+</osm>

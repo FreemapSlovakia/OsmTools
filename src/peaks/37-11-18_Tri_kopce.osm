@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.138674676' lat='48.8820718235'/>
+<node id='-20000001' lon='20.1380563384' lat='48.9180362344'/>
+<node id='-20000002' lon='20.1382506849' lat='48.9183556542'/>
+<node id='-20000003' lon='20.138730824' lat='48.9184909478'/>
+<node id='-20000004' lon='20.1728375417' lat='48.9187406565'/>
+<node id='-20000005' lon='20.2069447196' lat='48.9189802802'/>
+<node id='-20000006' lon='20.2074292177' lat='48.9188519065'/>
+<node id='-20000007' lon='20.2076340696' lat='48.9185353507'/>
+<node id='-20000008' lon='20.2080605133' lat='48.8915615933'/>
+<node id='-20000009' lon='20.2078658235' lat='48.8912422898'/>
+<node id='-20000010' lon='20.2073857574' lat='48.8911072845'/>
+<node id='-20000011' lon='20.1944322724' lat='48.8910175024'/>
+<node id='-20000012' lon='20.1945694982' lat='48.8824758732'/>
+<node id='-20000013' lon='20.1943749286' lat='48.8821565463'/>
+<node id='-20000014' lon='20.193894985' lat='48.8820214849'/>
+<node id='-20000015' lon='20.1393641231' lat='48.8816272946'/>
+<node id='-20000016' lon='20.1388798098' lat='48.8817553857'/>
+<node id='-20000017' lon='20.138674676' lat='48.8820718235'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='20.14564' lat='48.91360'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000001' lon='20.15928' lat='48.91369'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000002' lon='20.17292' lat='48.91379'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000003' lon='20.18656' lat='48.91389'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000004' lon='20.20021' lat='48.91399'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000005' lon='20.14579' lat='48.90460'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000006' lon='20.15943' lat='48.90470'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000007' lon='20.17307' lat='48.90480'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000008' lon='20.18671' lat='48.90490'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000009' lon='20.20035' lat='48.90499'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000010' lon='20.14595' lat='48.89561'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000011' lon='20.15958' lat='48.89571'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000012' lon='20.17322' lat='48.89581'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000013' lon='20.18686' lat='48.89591'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000014' lon='20.20049' lat='48.89600'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000015' lon='20.14610' lat='48.88662'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000016' lon='20.15973' lat='48.88672'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000017' lon='20.17337' lat='48.88682'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+<node id='-10000018' lon='20.18700' lat='48.88692'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tri kopce'/><tag k='ele' v='1507'/></node>
+</osm>

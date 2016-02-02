@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.5955372889' lat='48.7128981921'/>
+<node id='-20000001' lon='21.595855831' lat='48.7398739138'/>
+<node id='-20000002' lon='21.596058706' lat='48.7401908312'/>
+<node id='-20000003' lon='21.5965409768' lat='48.7403200422'/>
+<node id='-20000004' lon='21.6305285843' lat='48.7401391261'/>
+<node id='-20000005' lon='21.6645158443' lat='48.7399481865'/>
+<node id='-20000006' lon='21.6649948139' lat='48.7398137171'/>
+<node id='-20000007' lon='21.665189734' lat='48.7394946237'/>
+<node id='-20000008' lon='21.6648341272' lat='48.7125192596'/>
+<node id='-20000009' lon='21.6646309328' lat='48.7122024607'/>
+<node id='-20000010' lon='21.6641487563' lat='48.7120735326'/>
+<node id='-20000011' lon='21.5962114416' lat='48.7124450307'/>
+<node id='-20000012' lon='21.5957325465' lat='48.7125792142'/>
+<node id='-20000013' lon='21.5955372889' lat='48.7128981921'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.60328' lat='48.73534'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000001' lon='21.61687' lat='48.73527'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000002' lon='21.63047' lat='48.73519'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000003' lon='21.64406' lat='48.73512'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000004' lon='21.65765' lat='48.73504'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000005' lon='21.60317' lat='48.72635'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000006' lon='21.61676' lat='48.72627'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000007' lon='21.63035' lat='48.72620'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000008' lon='21.64394' lat='48.72613'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000009' lon='21.65754' lat='48.72605'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000010' lon='21.60306' lat='48.71735'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000011' lon='21.61665' lat='48.71728'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000012' lon='21.63024' lat='48.71721'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000013' lon='21.64383' lat='48.71713'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+<node id='-10000014' lon='21.65742' lat='48.71706'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Albínovská hora'/><tag k='ele' v='177'/></node>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3934595818' lat='48.3075333917'/>
+<node id='-20000001' lon='19.3923295029' lat='48.3434913094'/>
+<node id='-20000002' lon='19.3925170335' lat='48.3438119795'/>
+<node id='-20000003' lon='19.3929897761' lat='48.343950327'/>
+<node id='-20000004' lon='19.4604154403' lat='48.3448728086'/>
+<node id='-20000005' lon='19.4608963091' lat='48.3447475077'/>
+<node id='-20000006' lon='19.4611034217' lat='48.3444322365'/>
+<node id='-20000007' lon='19.4616445787' lat='48.3264527181'/>
+<node id='-20000008' lon='19.4621852044' lat='48.3084731385'/>
+<node id='-20000009' lon='19.4619973618' lat='48.3081525822'/>
+<node id='-20000010' lon='19.4615247622' lat='48.3080145214'/>
+<node id='-20000011' lon='19.3941476265' lat='48.3070932143'/>
+<node id='-20000012' lon='19.3936669529' lat='48.3072182399'/>
+<node id='-20000013' lon='19.3934595818' lat='48.3075333917'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.45383' lat='48.33983'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000001' lon='19.39989' lat='48.33910'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000002' lon='19.41337' lat='48.33928'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000003' lon='19.42686' lat='48.33947'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000004' lon='19.44034' lat='48.33965'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000005' lon='19.40017' lat='48.33011'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000006' lon='19.41365' lat='48.33029'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000007' lon='19.42713' lat='48.33048'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000008' lon='19.44062' lat='48.33066'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000009' lon='19.45410' lat='48.33084'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000010' lon='19.40045' lat='48.32112'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000011' lon='19.41393' lat='48.32130'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000012' lon='19.42741' lat='48.32149'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000013' lon='19.44089' lat='48.32167'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000014' lon='19.45437' lat='48.32185'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000015' lon='19.40073' lat='48.31213'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000016' lon='19.41421' lat='48.31231'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000017' lon='19.42769' lat='48.31250'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000018' lon='19.44116' lat='48.31268'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+<node id='-10000019' lon='19.45464' lat='48.31287'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Benčíkov vrch'/><tag k='ele' v='403'/></node>
+</osm>

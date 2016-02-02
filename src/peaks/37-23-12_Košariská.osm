@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.7392705593' lat='48.7501107529'/>
+<node id='-20000001' lon='20.7391308033' lat='48.777087478'/>
+<node id='-20000002' lon='20.7393284257' lat='48.7774058836'/>
+<node id='-20000003' lon='20.7398088271' lat='48.7775386723'/>
+<node id='-20000004' lon='20.7670203808' lat='48.7775969245'/>
+<node id='-20000005' lon='20.7942320169' lat='48.7776487523'/>
+<node id='-20000006' lon='20.7947136398' lat='48.7775179095'/>
+<node id='-20000007' lon='20.7949142076' lat='48.7772003095'/>
+<node id='-20000008' lon='20.7949691736' lat='48.7637119096'/>
+<node id='-20000009' lon='20.7950240988' lat='48.750223478'/>
+<node id='-20000010' lon='20.7948262302' lat='48.7499051661'/>
+<node id='-20000011' lon='20.7943459464' lat='48.7497726062'/>
+<node id='-20000012' lon='20.7399528671' lat='48.7496626316'/>
+<node id='-20000013' lon='20.7394713673' lat='48.7497932469'/>
+<node id='-20000014' lon='20.7392705593' lat='48.7501107529'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.74664' lat='48.77261'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000001' lon='20.76024' lat='48.77264'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000002' lon='20.77385' lat='48.77266'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000003' lon='20.78745' lat='48.77269'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000004' lon='20.74668' lat='48.76361'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000005' lon='20.76029' lat='48.76364'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000006' lon='20.77389' lat='48.76367'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000007' lon='20.78749' lat='48.76370'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000008' lon='20.74673' lat='48.75462'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000009' lon='20.76033' lat='48.75465'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000010' lon='20.77393' lat='48.75468'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+<node id='-10000011' lon='20.78753' lat='48.75470'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košariská'/><tag k='ele' v='770'/></node>
+</osm>

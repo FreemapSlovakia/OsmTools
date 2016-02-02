@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7939530138' lat='48.4743083439'/>
+<node id='-20000001' lon='19.7930995955' lat='48.5102713989'/>
+<node id='-20000002' lon='19.7932902442' lat='48.5105914119'/>
+<node id='-20000003' lon='19.793765617' lat='48.5107281209'/>
+<node id='-20000004' lon='19.8614234687' lat='48.5114173612'/>
+<node id='-20000005' lon='19.8619049325' lat='48.5112903995'/>
+<node id='-20000006' lon='19.8621102595' lat='48.5109744203'/>
+<node id='-20000007' lon='19.8625127829' lat='48.4929924811'/>
+<node id='-20000008' lon='19.8629149099' lat='48.4750104827'/>
+<node id='-20000009' lon='19.8627239528' lat='48.4746905846'/>
+<node id='-20000010' lon='19.8622487303' lat='48.4745541622'/>
+<node id='-20000011' lon='19.794639884' lat='48.4738657998'/>
+<node id='-20000012' lon='19.7941586092' lat='48.4739924834'/>
+<node id='-20000013' lon='19.7939530138' lat='48.4743083439'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.80065' lat='48.50585'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000001' lon='19.81418' lat='48.50599'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000002' lon='19.82771' lat='48.50613'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000003' lon='19.84124' lat='48.50627'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000004' lon='19.85477' lat='48.50640'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000005' lon='19.80086' lat='48.49686'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000006' lon='19.81439' lat='48.49700'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000007' lon='19.82792' lat='48.49714'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000008' lon='19.84145' lat='48.49728'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000009' lon='19.85497' lat='48.49741'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000010' lon='19.80108' lat='48.48787'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000011' lon='19.81460' lat='48.48801'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000012' lon='19.82812' lat='48.48815'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000013' lon='19.84165' lat='48.48828'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000014' lon='19.85518' lat='48.48842'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000015' lon='19.80129' lat='48.47888'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000016' lon='19.81481' lat='48.47902'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000017' lon='19.82833' lat='48.47916'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000018' lon='19.84186' lat='48.47929'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+<node id='-10000019' lon='19.85538' lat='48.47943'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ambrušov vrch'/><tag k='ele' v='460'/></node>
+</osm>

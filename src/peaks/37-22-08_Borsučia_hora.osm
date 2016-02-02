@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.1341543233' lat='48.9481566126'/>
+<node id='-20000001' lon='21.1342507397' lat='48.9841245853'/>
+<node id='-20000002' lon='21.1344516826' lat='48.9844422871'/>
+<node id='-20000003' lon='21.134935097' lat='48.9845734165'/>
+<node id='-20000004' lon='21.1690903826' lat='48.9845284585'/>
+<node id='-20000005' lon='21.2032455738' lat='48.9844733894'/>
+<node id='-20000006' lon='21.2037280953' lat='48.9843408457'/>
+<node id='-20000007' lon='21.2039268877' lat='48.9840225589'/>
+<node id='-20000008' lon='21.203780386' lat='48.9480547145'/>
+<node id='-20000009' lon='21.2035791489' lat='48.94773713'/>
+<node id='-20000010' lon='21.2030959088' lat='48.9476062863'/>
+<node id='-20000011' lon='21.1348357704' lat='48.9477061848'/>
+<node id='-20000012' lon='21.1343534163' lat='48.9478384418'/>
+<node id='-20000013' lon='21.1341543233' lat='48.9481566126'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.14176' lat='48.97962'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000001' lon='21.15542' lat='48.97960'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000002' lon='21.16908' lat='48.97958'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000003' lon='21.18274' lat='48.97956'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000004' lon='21.19640' lat='48.97954'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000005' lon='21.14173' lat='48.97063'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000006' lon='21.15539' lat='48.97061'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000007' lon='21.16905' lat='48.97059'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000008' lon='21.18270' lat='48.97057'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000009' lon='21.19636' lat='48.97055'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000010' lon='21.14171' lat='48.96164'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000011' lon='21.15536' lat='48.96162'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000012' lon='21.16902' lat='48.96160'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000013' lon='21.18267' lat='48.96158'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000014' lon='21.19633' lat='48.96156'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000015' lon='21.14168' lat='48.95264'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000016' lon='21.15533' lat='48.95263'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000017' lon='21.16899' lat='48.95261'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000018' lon='21.18264' lat='48.95259'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+<node id='-10000019' lon='21.19629' lat='48.95256'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Borsučia hora'/><tag k='ele' v='465'/></node>
+</osm>

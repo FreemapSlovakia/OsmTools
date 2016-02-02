@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.7261226203' lat='48.3434448722'/>
+<node id='-20000001' lon='21.7265060145' lat='48.3704216226'/>
+<node id='-20000002' lon='21.7267082105' lat='48.3707383426'/>
+<node id='-20000003' lon='21.7271873119' lat='48.3708670344'/>
+<node id='-20000004' lon='21.7946671262' lat='48.3704207807'/>
+<node id='-20000005' lon='21.7951422953' lat='48.3702857783'/>
+<node id='-20000006' lon='21.7953350146' lat='48.3699664466'/>
+<node id='-20000007' lon='21.7947755313' lat='48.3339979884'/>
+<node id='-20000008' lon='21.7945730616' lat='48.3336813854'/>
+<node id='-20000009' lon='21.7940941405' lat='48.3335529717'/>
+<node id='-20000010' lon='21.7536356406' lat='48.3338251264'/>
+<node id='-20000011' lon='21.7531606999' lat='48.3339599565'/>
+<node id='-20000012' lon='21.7529678503' lat='48.3342792187'/>
+<node id='-20000013' lon='21.7530936428' lat='48.3428217675'/>
+<node id='-20000014' lon='21.7267907679' lat='48.3429909359'/>
+<node id='-20000015' lon='21.7263156716' lat='48.3431256554'/>
+<node id='-20000016' lon='21.7261226203' lat='48.3434448722'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+</way>
+<node id='-10000000' lon='21.73386' lat='48.36588'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000001' lon='21.74735' lat='48.36579'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000002' lon='21.76085' lat='48.36570'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000003' lon='21.77434' lat='48.36561'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000004' lon='21.78784' lat='48.36552'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000005' lon='21.73373' lat='48.35688'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000006' lon='21.74722' lat='48.35680'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000007' lon='21.76072' lat='48.35671'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000008' lon='21.77421' lat='48.35662'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000009' lon='21.78770' lat='48.35653'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000010' lon='21.73360' lat='48.34789'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000011' lon='21.74709' lat='48.34780'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000012' lon='21.76058' lat='48.34772'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000013' lon='21.77407' lat='48.34763'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000014' lon='21.78756' lat='48.34753'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000015' lon='21.76045' lat='48.33872'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000016' lon='21.77394' lat='48.33863'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+<node id='-10000017' lon='21.78742' lat='48.33854'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Tarbucka'/><tag k='ele' v='278'/></node>
+</osm>

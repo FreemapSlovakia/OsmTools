@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3534536698' lat='49.5389520712'/>
+<node id='-20000001' lon='19.3528492195' lat='49.556926849'/>
+<node id='-20000002' lon='19.3530408855' lat='49.5572475364'/>
+<node id='-20000003' lon='19.3535249947' lat='49.55738613'/>
+<node id='-20000004' lon='19.3666497257' lat='49.5575721786'/>
+<node id='-20000005' lon='19.3663648024' lat='49.5661101588'/>
+<node id='-20000006' lon='19.3665565908' lat='49.5664308227'/>
+<node id='-20000007' lon='19.367040827' lat='49.56656936'/>
+<node id='-20000008' lon='19.3877683585' lat='49.5668600622'/>
+<node id='-20000009' lon='19.4084962234' lat='49.5671470533'/>
+<node id='-20000010' lon='19.4089891435' lat='49.5670221331'/>
+<node id='-20000011' lon='19.4092018748' lat='49.5667071069'/>
+<node id='-20000012' lon='19.4096399188' lat='49.5532256773'/>
+<node id='-20000013' lon='19.4100776339' lat='49.5397442134'/>
+<node id='-20000014' lon='19.4098856603' lat='49.5394236196'/>
+<node id='-20000015' lon='19.4094015671' lat='49.5392852627'/>
+<node id='-20000016' lon='19.3541594099' lat='49.5385124503'/>
+<node id='-20000017' lon='19.353666634' lat='49.5386371415'/>
+<node id='-20000018' lon='19.3534536698' lat='49.5389520712'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.37412' lat='49.56172'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000001' lon='19.38794' lat='49.56191'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000002' lon='19.40176' lat='49.56211'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000003' lon='19.36061' lat='49.55254'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000004' lon='19.37442' lat='49.55273'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000005' lon='19.38824' lat='49.55293'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000006' lon='19.40205' lat='49.55312'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000007' lon='19.36091' lat='49.54355'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000008' lon='19.37472' lat='49.54375'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000009' lon='19.38853' lat='49.54394'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+<node id='-10000010' lon='19.40234' lat='49.54413'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Klobásová'/><tag k='ele' v='945'/></node>
+</osm>

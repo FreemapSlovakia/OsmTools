@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3398004107' lat='49.1251244508'/>
+<node id='-20000001' lon='19.3385985464' lat='49.1610762823'/>
+<node id='-20000002' lon='19.3387886659' lat='49.1613970239'/>
+<node id='-20000003' lon='19.3392689297' lat='49.1615356564'/>
+<node id='-20000004' lon='19.3666792545' lat='49.1619267412'/>
+<node id='-20000005' lon='19.3940901678' lat='49.162311322'/>
+<node id='-20000006' lon='19.3945791089' lat='49.1621864029'/>
+<node id='-20000007' lon='19.394790148' lat='49.1618713378'/>
+<node id='-20000008' lon='19.3953710709' lat='49.1438949524'/>
+<node id='-20000009' lon='19.3959514162' lat='49.1259185055'/>
+<node id='-20000010' lon='19.3957610574' lat='49.1255978565'/>
+<node id='-20000011' lon='19.3952809793' lat='49.1254594612'/>
+<node id='-20000012' lon='19.3405003438' lat='49.1246847849'/>
+<node id='-20000013' lon='19.3400116351' lat='49.1248094803'/>
+<node id='-20000014' lon='19.3398004107' lat='49.1251244508'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.34629' lat='49.15669'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000001' lon='19.35999' lat='49.15688'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000002' lon='19.37370' lat='49.15708'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000003' lon='19.38740' lat='49.15727'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000004' lon='19.34659' lat='49.14770'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000005' lon='19.36029' lat='49.14790'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000006' lon='19.37399' lat='49.14809'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000007' lon='19.38769' lat='49.14828'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000008' lon='19.34689' lat='49.13871'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000009' lon='19.36059' lat='49.13891'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000010' lon='19.37429' lat='49.13910'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000011' lon='19.38799' lat='49.13929'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000012' lon='19.34719' lat='49.12972'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000013' lon='19.36088' lat='49.12992'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000014' lon='19.37458' lat='49.13011'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+<node id='-10000015' lon='19.38828' lat='49.13030'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Zadný Choč'/><tag k='ele' v='1286'/></node>
+</osm>

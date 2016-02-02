@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.0617243973' lat='49.2286983438'/>
+<node id='-20000001' lon='19.0603161848' lat='49.2646440357'/>
+<node id='-20000002' lon='19.0605048779' lat='49.2649652301'/>
+<node id='-20000003' lon='19.0609853518' lat='49.2651050284'/>
+<node id='-20000004' lon='19.0953148386' lat='49.2656763005'/>
+<node id='-20000005' lon='19.1296454031' lat='49.2662373771'/>
+<node id='-20000006' lon='19.1301360374' lat='49.2661135946'/>
+<node id='-20000007' lon='19.1303492165' lat='49.2657990286'/>
+<node id='-20000008' lon='19.1310282811' lat='49.2478254869'/>
+<node id='-20000009' lon='19.1317066694' lat='49.2298518823'/>
+<node id='-20000010' lon='19.1315176413' lat='49.2295308029'/>
+<node id='-20000011' lon='19.1310373091' lat='49.2293913007'/>
+<node id='-20000012' lon='19.0624282739' lat='49.2282603969'/>
+<node id='-20000013' lon='19.0619378448' lat='49.2283838979'/>
+<node id='-20000014' lon='19.0617243973' lat='49.2286983438'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='19.1102605585' lat='49.241900257'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rozsutec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1343'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='19.1066362546' lat='49.2466935613'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rozsutec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1343'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='19.1061226768' lat='49.2398332075'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Malý Rozsutec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1343'/><tag k='source' v='kapor2'/></node>
+</osm>

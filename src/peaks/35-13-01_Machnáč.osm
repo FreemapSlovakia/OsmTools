@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.3343780397' lat='48.8179819742'/>
+<node id='-20000001' lon='17.3330669057' lat='48.8359295885'/>
+<node id='-20000002' lon='17.3332429675' lat='48.8362535198'/>
+<node id='-20000003' lon='17.3337144445' lat='48.836400389'/>
+<node id='-20000004' lon='17.3473085185' lat='48.8368324921'/>
+<node id='-20000005' lon='17.3477991951' lat='48.8367162058'/>
+<node id='-20000006' lon='17.3480215907' lat='48.8364049397'/>
+<node id='-20000007' lon='17.3486419814' lat='48.8278801312'/>
+<node id='-20000008' lon='17.3615537036' lat='48.8282889214'/>
+<node id='-20000009' lon='17.3620442624' lat='48.8281725723'/>
+<node id='-20000010' lon='17.3622665289' lat='48.8278612774'/>
+<node id='-20000011' lon='17.3625917337' lat='48.8233742291'/>
+<node id='-20000012' lon='17.3629168581' lat='48.8188871761'/>
+<node id='-20000013' lon='17.3627406597' lat='48.8185632907'/>
+<node id='-20000014' lon='17.3622692625' lat='48.8184165438'/>
+<node id='-20000015' lon='17.3350909449' lat='48.8175544951'/>
+<node id='-20000016' lon='17.3346004292' lat='48.8176707317'/>
+<node id='-20000017' lon='17.3343780397' lat='48.8179819742'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='17.34087' lat='48.83167'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Machnáč'/><tag k='ele' v='472'/></node>
+<node id='-10000001' lon='17.34152' lat='48.82270'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Machnáč'/><tag k='ele' v='472'/></node>
+<node id='-10000002' lon='17.35512' lat='48.82313'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Machnáč'/><tag k='ele' v='472'/></node>
+</osm>

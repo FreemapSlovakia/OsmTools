@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.6655670213' lat='48.2120860276'/>
+<node id='-20000001' lon='19.6648655013' lat='48.2390582332'/>
+<node id='-20000002' lon='19.6650543675' lat='48.239378457'/>
+<node id='-20000003' lon='19.6655268831' lat='48.2395156759'/>
+<node id='-20000004' lon='19.7328231303' lat='48.240277217'/>
+<node id='-20000005' lon='19.7333023402' lat='48.2401507679'/>
+<node id='-20000006' lon='19.7335073379' lat='48.2398350006'/>
+<node id='-20000007' lon='19.7339510983' lat='48.221853058'/>
+<node id='-20000008' lon='19.7343944236' lat='48.2038710559'/>
+<node id='-20000009' lon='19.7342052517' lat='48.2035509461'/>
+<node id='-20000010' lon='19.7337328831' lat='48.203414012'/>
+<node id='-20000011' lon='19.6799342812' lat='48.2028087009'/>
+<node id='-20000012' lon='19.6794552928' lat='48.2029349307'/>
+<node id='-20000013' lon='19.6792501156' lat='48.2032506031'/>
+<node id='-20000014' lon='19.6790304256' lat='48.2117917878'/>
+<node id='-20000015' lon='19.6662514245' lat='48.2116442082'/>
+<node id='-20000016' lon='19.6657723192' lat='48.2117703802'/>
+<node id='-20000017' lon='19.6655670213' lat='48.2120860276'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-30000000' lon='19.7325775543' lat='48.2199383337'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Bijacovská hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='300'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='19.7294953959' lat='48.2268792164'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Bijacovská hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='300'/><tag k='source' v='kapor2'/></node>
+</osm>

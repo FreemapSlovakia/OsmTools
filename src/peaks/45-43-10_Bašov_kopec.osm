@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.2629741402' lat='47.7644887804'/>
+<node id='-20000001' lon='18.2615581547' lat='47.7914395873'/>
+<node id='-20000002' lon='18.261736769' lat='47.7917620132'/>
+<node id='-20000003' lon='18.2622013985' lat='47.7919048918'/>
+<node id='-20000004' lon='18.3288609894' lat='47.7934766693'/>
+<node id='-20000005' lon='18.3293393192' lat='47.7933560243'/>
+<node id='-20000006' lon='18.329550947' lat='47.7930427987'/>
+<node id='-20000007' lon='18.330471786' lat='47.7750746086'/>
+<node id='-20000008' lon='18.3313917289' lat='47.7571063484'/>
+<node id='-20000009' lon='18.3312127944' lat='47.7567840335'/>
+<node id='-20000010' lon='18.3307482875' lat='47.7566414406'/>
+<node id='-20000011' lon='18.2774577251' lat='47.755388706'/>
+<node id='-20000012' lon='18.2769796339' lat='47.7555091401'/>
+<node id='-20000013' lon='18.2767678547' lat='47.7558222692'/>
+<node id='-20000014' lon='18.2763220855' lat='47.7643566199'/>
+<node id='-20000015' lon='18.2636642443' lat='47.7640553023'/>
+<node id='-20000016' lon='18.26318604' lat='47.7641756775'/>
+<node id='-20000017' lon='18.2629741402' lat='47.7644887804'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='18.26914' lat='47.78712'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000001' lon='18.28247' lat='47.78744'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000002' lon='18.29580' lat='47.78775'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000003' lon='18.30913' lat='47.78807'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000004' lon='18.32246' lat='47.78838'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000005' lon='18.26961' lat='47.77814'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000006' lon='18.28294' lat='47.77846'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000007' lon='18.29627' lat='47.77877'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000008' lon='18.30960' lat='47.77908'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000009' lon='18.32292' lat='47.77940'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000010' lon='18.27008' lat='47.76915'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000011' lon='18.28341' lat='47.76947'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000012' lon='18.29673' lat='47.76979'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000013' lon='18.31006' lat='47.77010'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000014' lon='18.32338' lat='47.77041'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000015' lon='18.28387' lat='47.76049'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000016' lon='18.29720' lat='47.76080'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000017' lon='18.31052' lat='47.76112'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+<node id='-10000018' lon='18.32385' lat='47.76143'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bašov kopec'/><tag k='ele' v='140'/></node>
+</osm>

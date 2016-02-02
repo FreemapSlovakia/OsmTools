@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.4078198036' lat='49.566688095'/>
+<node id='-20000001' lon='19.4066490737' lat='49.6026383821'/>
+<node id='-20000002' lon='19.4068412616' lat='49.6029589749'/>
+<node id='-20000003' lon='19.4073259655' lat='49.6030973448'/>
+<node id='-20000004' lon='19.4349839304' lat='49.6034747029'/>
+<node id='-20000005' lon='19.4626424724' lat='49.6038454548'/>
+<node id='-20000006' lon='19.46313562' lat='49.6037203098'/>
+<node id='-20000007' lon='19.4633481649' lat='49.6034051916'/>
+<node id='-20000008' lon='19.4639130114' lat='49.5854295949'/>
+<node id='-20000009' lon='19.4644772922' lat='49.5674539372'/>
+<node id='-20000010' lon='19.4642848597' lat='49.5671334373'/>
+<node id='-20000011' lon='19.4638003454' lat='49.5669953074'/>
+<node id='-20000012' lon='19.4085254544' lat='49.5662481528'/>
+<node id='-20000013' lon='19.408032541' lat='49.566373071'/>
+<node id='-20000014' lon='19.4078198036' lat='49.566688095'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.41441' lat='49.59825'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000001' lon='19.42824' lat='49.59844'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000002' lon='19.44206' lat='49.59862'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000003' lon='19.45589' lat='49.59881'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000004' lon='19.41470' lat='49.58926'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000005' lon='19.42853' lat='49.58945'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000006' lon='19.44235' lat='49.58964'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000007' lon='19.45618' lat='49.58982'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000008' lon='19.41499' lat='49.58027'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000009' lon='19.42881' lat='49.58046'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000010' lon='19.44264' lat='49.58065'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000011' lon='19.45646' lat='49.58083'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000012' lon='19.41528' lat='49.57129'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000013' lon='19.42910' lat='49.57147'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000014' lon='19.44292' lat='49.57166'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+<node id='-10000015' lon='19.45674' lat='49.57185'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Bajerovka'/><tag k='ele' v='915'/></node>
+</osm>

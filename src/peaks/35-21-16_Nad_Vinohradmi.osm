@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.9973770159' lat='48.8911422182'/>
+<node id='-20000001' lon='17.9957611045' lat='48.9180814539'/>
+<node id='-20000002' lon='17.9959417116' lat='48.9184043635'/>
+<node id='-20000003' lon='17.99641588' lat='48.9185485278'/>
+<node id='-20000004' lon='18.0645461041' lat='48.9203043047'/>
+<node id='-20000005' lon='18.0650359238' lat='48.9201849832'/>
+<node id='-20000006' lon='18.0652542476' lat='48.9198723543'/>
+<node id='-20000007' lon='18.0660438739' lat='48.9064019132'/>
+<node id='-20000008' lon='18.066832914' lat='48.8929314311'/>
+<node id='-20000009' lon='18.0666519344' lat='48.892608633'/>
+<node id='-20000010' lon='18.066177806' lat='48.8924647618'/>
+<node id='-20000011' lon='17.9980853152' lat='48.8907106711'/>
+<node id='-20000012' lon='17.9975956275' lat='48.8908297139'/>
+<node id='-20000013' lon='17.9973770159' lat='48.8911422182'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.00352' lat='48.91378'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000001' lon='18.01715' lat='48.91414'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000002' lon='18.03077' lat='48.91449'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000003' lon='18.04440' lat='48.91484'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000004' lon='18.05802' lat='48.91519'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000005' lon='18.00406' lat='48.90480'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000006' lon='18.01768' lat='48.90516'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000007' lon='18.03131' lat='48.90551'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000008' lon='18.04493' lat='48.90586'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000009' lon='18.05855' lat='48.90621'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000010' lon='18.00460' lat='48.89582'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000011' lon='18.01822' lat='48.89617'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000012' lon='18.03184' lat='48.89653'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000013' lon='18.04546' lat='48.89688'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+<node id='-10000014' lon='18.05908' lat='48.89722'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinohradmi'/><tag k='ele' v='304'/></node>
+</osm>

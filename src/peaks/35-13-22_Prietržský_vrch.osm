@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.3983843093' lat='48.6850822119'/>
+<node id='-20000001' lon='17.3964604355' lat='48.7120061388'/>
+<node id='-20000002' lon='17.3966365151' lat='48.7123299666'/>
+<node id='-20000003' lon='17.3971070336' lat='48.7124765501'/>
+<node id='-20000004' lon='17.4649182134' lat='48.7145797892'/>
+<node id='-20000005' lon='17.4654074083' lat='48.714462972'/>
+<node id='-20000006' lon='17.4656284937' lat='48.7141514622'/>
+<node id='-20000007' lon='17.4668868927' lat='48.6962008519'/>
+<node id='-20000008' lon='17.4681440512' lat='48.6782501614'/>
+<node id='-20000009' lon='17.4679676198' lat='48.6779264445'/>
+<node id='-20000010' lon='17.4674972127' lat='48.6777801577'/>
+<node id='-20000011' lon='17.460720665' lat='48.6775718922'/>
+<node id='-20000012' lon='17.453944195' lat='48.6773632287'/>
+<node id='-20000013' lon='17.4534553395' lat='48.6774800057'/>
+<node id='-20000014' lon='17.4532343523' lat='48.6777914966'/>
+<node id='-20000015' lon='17.4526348773' lat='48.6863175333'/>
+<node id='-20000016' lon='17.3990947232' lat='48.684654286'/>
+<node id='-20000017' lon='17.3986056695' lat='48.6847708279'/>
+<node id='-20000018' lon='17.3983843093' lat='48.6850822119'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='17.40424' lat='48.70775'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000001' lon='17.41780' lat='48.70817'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000002' lon='17.43136' lat='48.70859'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000003' lon='17.44492' lat='48.70901'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000004' lon='17.45848' lat='48.70943'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000005' lon='17.40488' lat='48.69877'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000006' lon='17.41844' lat='48.69919'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000007' lon='17.43200' lat='48.69962'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000008' lon='17.44555' lat='48.70003'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000009' lon='17.45911' lat='48.70045'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000010' lon='17.40552' lat='48.68980'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000011' lon='17.41907' lat='48.69022'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000012' lon='17.43263' lat='48.69064'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000013' lon='17.44619' lat='48.69106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000014' lon='17.45974' lat='48.69148'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+<node id='-10000015' lon='17.46037' lat='48.68250'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Prietržský vrch'/><tag k='ele' v='320'/></node>
+</osm>

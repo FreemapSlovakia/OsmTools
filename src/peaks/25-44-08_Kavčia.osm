@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.4627639033' lat='49.1271588252'/>
+<node id='-20000001' lon='18.4609273938' lat='49.1630904407'/>
+<node id='-20000002' lon='18.4611118397' lat='49.1634126122'/>
+<node id='-20000003' lon='18.4615896475' lat='49.1635548903'/>
+<node id='-20000004' lon='18.4958350228' lat='49.1643031006'/>
+<node id='-20000005' lon='18.5300818069' lat='49.1650411632'/>
+<node id='-20000006' lon='18.5305729265' lat='49.1649199108'/>
+<node id='-20000007' lon='18.5307894521' lat='49.1646064408'/>
+<node id='-20000008' lon='18.5316829521' lat='49.1466397134'/>
+<node id='-20000009' lon='18.5325755642' lat='49.128672918'/>
+<node id='-20000010' lon='18.5323907752' lat='49.1283508603'/>
+<node id='-20000011' lon='18.5319130985' lat='49.1282088795'/>
+<node id='-20000012' lon='18.4634715887' lat='49.1267245025'/>
+<node id='-20000013' lon='18.4629806843' lat='49.1268454766'/>
+<node id='-20000014' lon='18.4627639033' lat='49.1271588252'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='18.5250107572' lat='49.1333288367'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Kavčia'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='601'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='18.5238393936' lat='49.1344187249'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Kavčia'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='601'/><tag k='source' v='kapor2'/></node>
+</osm>

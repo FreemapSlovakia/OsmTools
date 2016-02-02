@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.4724306442' lat='48.8212129776'/>
+<node id='-20000001' lon='19.4716102612' lat='48.8481800415'/>
+<node id='-20000002' lon='19.4718000983' lat='48.8485005776'/>
+<node id='-20000003' lon='19.4722777636' lat='48.8486386376'/>
+<node id='-20000004' lon='19.4995186276' lat='48.8489964872'/>
+<node id='-20000005' lon='19.5267600238' lat='48.8493479024'/>
+<node id='-20000006' lon='19.5272455738' lat='48.8492223818'/>
+<node id='-20000007' lon='19.5274544193' lat='48.8489070361'/>
+<node id='-20000008' lon='19.5278497858' lat='48.8354231784'/>
+<node id='-20000009' lon='19.5282448587' lat='48.8219392868'/>
+<node id='-20000010' lon='19.5280547579' lat='48.8216188429'/>
+<node id='-20000011' lon='19.5275771943' lat='48.8214810157'/>
+<node id='-20000012' lon='19.4731251231' lat='48.820772432'/>
+<node id='-20000013' lon='19.4726397137' lat='48.8208977281'/>
+<node id='-20000014' lon='19.4724306442' lat='48.8212129776'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.47924' lat='48.84378'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000001' lon='19.49286' lat='48.84396'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000002' lon='19.50648' lat='48.84414'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000003' lon='19.52010' lat='48.84431'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000004' lon='19.47951' lat='48.83479'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000005' lon='19.49313' lat='48.83497'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000006' lon='19.50675' lat='48.83515'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000007' lon='19.52036' lat='48.83532'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000008' lon='19.47978' lat='48.82580'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000009' lon='19.49340' lat='48.82598'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000010' lon='19.50701' lat='48.82616'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+<node id='-10000011' lon='19.52063' lat='48.82634'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Žiar'/><tag k='ele' v='589'/></node>
+</osm>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.7913779209' lat='48.5133912799'/>
+<node id='-20000001' lon='18.7909870485' lat='48.5223773089'/>
+<node id='-20000002' lon='18.7911714082' lat='48.5226989518'/>
+<node id='-20000003' lon='18.791644151' lat='48.5228397891'/>
+<node id='-20000004' lon='18.8044950544' lat='48.5230857225'/>
+<node id='-20000005' lon='18.8037369504' lat='48.5406084002'/>
+<node id='-20000006' lon='18.8039214535' lat='48.5409300231'/>
+<node id='-20000007' lon='18.8043944004' lat='48.5410708103'/>
+<node id='-20000008' lon='18.8585257082' lat='48.5420909372'/>
+<node id='-20000009' lon='18.8590099286' lat='48.541968188'/>
+<node id='-20000010' lon='18.8592216082' lat='48.541654031'/>
+<node id='-20000011' lon='18.8597901294' lat='48.5281744166'/>
+<node id='-20000012' lon='18.8603582306' lat='48.5146947656'/>
+<node id='-20000013' lon='18.8601734602' lat='48.5143732334'/>
+<node id='-20000014' lon='18.8597006053' lat='48.5142326785'/>
+<node id='-20000015' lon='18.7920739952' lat='48.5129547735'/>
+<node id='-20000016' lon='18.7915898935' lat='48.5130772451'/>
+<node id='-20000017' lon='18.7913779209' lat='48.5133912799'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-30000000' lon='18.8590957455' lat='48.5220270576'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pustý hrad'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='629'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='18.8431545791' lat='48.5364510518'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pustý hrad'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='629'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='18.843197628' lat='48.5389793141'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pustý hrad'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='629'/><tag k='source' v='kapor2'/></node>
+</osm>

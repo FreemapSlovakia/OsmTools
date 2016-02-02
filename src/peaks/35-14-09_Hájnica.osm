@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.8673822777' lat='48.7887466471'/>
+<node id='-20000001' lon='17.8657025397' lat='48.8156830816'/>
+<node id='-20000002' lon='17.8658819715' lat='48.8160061917'/>
+<node id='-20000003' lon='17.8663548112' lat='48.8161508732'/>
+<node id='-20000004' lon='17.9343380129' lat='48.8179806928'/>
+<node id='-20000005' lon='17.9348271314' lat='48.8178619031'/>
+<node id='-20000006' lon='17.9350457918' lat='48.8175495077'/>
+<node id='-20000007' lon='17.9358674558' lat='48.8040804324'/>
+<node id='-20000008' lon='17.9366885108' lat='48.7906113155'/>
+<node id='-20000009' lon='17.9365087069' lat='48.7902883163'/>
+<node id='-20000010' lon='17.9360359051' lat='48.7901439272'/>
+<node id='-20000011' lon='17.8680902066' lat='48.7883158642'/>
+<node id='-20000012' lon='17.8676012221' lat='48.7884343765'/>
+<node id='-20000013' lon='17.8673822777' lat='48.7887466471'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='17.87346' lat='48.81139'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000001' lon='17.88706' lat='48.81176'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000002' lon='17.90065' lat='48.81213'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000003' lon='17.91425' lat='48.81249'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000004' lon='17.92784' lat='48.81285'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000005' lon='17.87402' lat='48.80241'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000006' lon='17.88761' lat='48.80278'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000007' lon='17.90121' lat='48.80315'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000008' lon='17.91480' lat='48.80351'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000009' lon='17.92839' lat='48.80388'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000010' lon='17.87458' lat='48.79343'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000011' lon='17.88817' lat='48.79380'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000012' lon='17.90176' lat='48.79417'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000013' lon='17.91535' lat='48.79453'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+<node id='-10000014' lon='17.92894' lat='48.79490'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Hájnica'/><tag k='ele' v='341'/></node>
+</osm>

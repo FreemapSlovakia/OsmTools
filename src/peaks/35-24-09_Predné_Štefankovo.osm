@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.534411731' lat='48.7869716763'/>
+<node id='-20000001' lon='18.533089476' lat='48.8139234848'/>
+<node id='-20000002' lon='18.533273189' lat='48.8142455437'/>
+<node id='-20000003' lon='18.5337479182' lat='48.8143874795'/>
+<node id='-20000004' lon='18.6017667892' lat='48.8158235506'/>
+<node id='-20000005' lon='18.6022542904' lat='48.8157019301'/>
+<node id='-20000006' lon='18.6024687819' lat='48.8153882784'/>
+<node id='-20000007' lon='18.6031115992' lat='48.801911703'/>
+<node id='-20000008' lon='18.6037539399' lat='48.7884350897'/>
+<node id='-20000009' lon='18.6035698637' lat='48.7881131434'/>
+<node id='-20000010' lon='18.6030951828' lat='48.7879714985'/>
+<node id='-20000011' lon='18.5351138947' lat='48.7865368064'/>
+<node id='-20000012' lon='18.5346265166' lat='48.7866581477'/>
+<node id='-20000013' lon='18.534411731' lat='48.7869716763'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.54079' lat='48.80959'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000001' lon='18.55440' lat='48.80988'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000002' lon='18.56800' lat='48.81016'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000003' lon='18.58160' lat='48.81045'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000004' lon='18.59520' lat='48.81074'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000005' lon='18.54123' lat='48.80060'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000006' lon='18.55483' lat='48.80089'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000007' lon='18.56843' lat='48.80118'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000008' lon='18.58203' lat='48.80147'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000009' lon='18.59563' lat='48.80175'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000010' lon='18.54167' lat='48.79162'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000011' lon='18.55527' lat='48.79191'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000012' lon='18.56887' lat='48.79220'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000013' lon='18.58246' lat='48.79248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+<node id='-10000014' lon='18.59606' lat='48.79277'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Predné Štefankovo'/><tag k='ele' v='600'/></node>
+</osm>

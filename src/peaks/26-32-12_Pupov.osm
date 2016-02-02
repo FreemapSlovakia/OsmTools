@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.0740477182' lat='49.2648738475'/>
+<node id='-20000001' lon='19.0726466696' lat='49.3008195747'/>
+<node id='-20000002' lon='19.072835573' lat='49.3011407467'/>
+<node id='-20000003' lon='19.0733164275' lat='49.3012804964'/>
+<node id='-20000004' lon='19.1008002255' lat='49.3017356406'/>
+<node id='-20000005' lon='19.1282847127' lat='49.3021842514'/>
+<node id='-20000006' lon='19.1287757069' lat='49.3020604805'/>
+<node id='-20000007' lon='19.1289890549' lat='49.3017459226'/>
+<node id='-20000008' lon='19.1296694747' lat='49.2837725071'/>
+<node id='-20000009' lon='19.1303492165' lat='49.2657990288'/>
+<node id='-20000010' lon='19.1301600675' lat='49.2654779492'/>
+<node id='-20000011' lon='19.1296793957' lat='49.2653384387'/>
+<node id='-20000012' lon='19.0747520056' lat='49.2644358371'/>
+<node id='-20000013' lon='19.0742612489' lat='49.2645593845'/>
+<node id='-20000014' lon='19.0740477182' lat='49.2648738475'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='19.1116364675' lat='49.277209776'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pupov'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1059'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='19.1022480989' lat='49.2799743462'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pupov'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1059'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='19.1030512301' lat='49.2775924812'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pupov'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1059'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='19.1088383249' lat='49.2796174647'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pupov'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1059'/><tag k='source' v='kapor2'/></node>
+<node id='-30000004' lon='19.1045085937' lat='49.2743628645'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pupov'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1059'/><tag k='source' v='kapor2'/></node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.7328304161' lat='48.344278849'/>
+<node id='-20000001' lon='17.7311057505' lat='48.3712138275'/>
+<node id='-20000002' lon='17.7312828893' lat='48.3715371209'/>
+<node id='-20000003' lon='17.7317512543' lat='48.3716822676'/>
+<node id='-20000004' lon='17.7991319791' lat='48.3735787713'/>
+<node id='-20000005' lon='17.7996170681' lat='48.3734604602'/>
+<node id='-20000006' lon='17.7998345079' lat='48.3731482717'/>
+<node id='-20000007' lon='17.8006790949' lat='48.3596798946'/>
+<node id='-20000008' lon='17.8015230602' lat='48.3462114751'/>
+<node id='-20000009' lon='17.8013455567' lat='48.345888291'/>
+<node id='-20000010' lon='17.8008772275' lat='48.3457434327'/>
+<node id='-20000011' lon='17.7335330838' lat='48.3438487473'/>
+<node id='-20000012' lon='17.7330481298' lat='48.3439667851'/>
+<node id='-20000013' lon='17.7328304161' lat='48.344278849'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='17.73881' lat='48.36693'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000001' lon='17.75228' lat='48.36731'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000002' lon='17.76576' lat='48.36769'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000003' lon='17.77923' lat='48.36807'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000004' lon='17.79271' lat='48.36845'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000005' lon='17.73938' lat='48.35795'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000006' lon='17.75285' lat='48.35833'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000007' lon='17.76633' lat='48.35871'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000008' lon='17.77980' lat='48.35909'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000009' lon='17.79327' lat='48.35947'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000010' lon='17.73995' lat='48.34897'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000011' lon='17.75343' lat='48.34936'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000012' lon='17.76690' lat='48.34974'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000013' lon='17.78036' lat='48.35011'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+<node id='-10000014' lon='17.79384' lat='48.35049'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dunajský vrch'/><tag k='ele' v='220'/></node>
+</osm>

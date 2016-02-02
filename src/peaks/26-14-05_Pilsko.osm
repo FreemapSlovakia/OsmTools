@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.2718620199' lat='49.5017947059'/>
+<node id='-20000001' lon='19.2705942657' lat='49.5377429205'/>
+<node id='-20000002' lon='19.2707853227' lat='49.5380637469'/>
+<node id='-20000003' lon='19.2712690148' lat='49.5382026843'/>
+<node id='-20000004' lon='19.3057934172' lat='49.5387135029'/>
+<node id='-20000005' lon='19.3403187919' lat='49.5392140245'/>
+<node id='-20000006' lon='19.3408116079' lat='49.53908939'/>
+<node id='-20000007' lon='19.3410246542' lat='49.5387744833'/>
+<node id='-20000008' lon='19.3416330583' lat='49.5207997565'/>
+<node id='-20000009' lon='19.3422408538' lat='49.5028249678'/>
+<node id='-20000010' lon='19.3420494601' lat='49.5025042572'/>
+<node id='-20000011' lon='19.3415659145' lat='49.5023656177'/>
+<node id='-20000012' lon='19.2725679569' lat='49.5013555689'/>
+<node id='-20000013' lon='19.2720753434' lat='49.501479919'/>
+<node id='-20000014' lon='19.2718620199' lat='49.5017947059'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='19.3226080604' lat='49.5235590434'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pilsko'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1557'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='19.3158327433' lat='49.5228442946'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pilsko'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1557'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='19.3203885174' lat='49.5279712327'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pilsko'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1557'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='19.3170299039' lat='49.5285346912'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pilsko'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1557'/><tag k='source' v='kapor2'/></node>
+</osm>

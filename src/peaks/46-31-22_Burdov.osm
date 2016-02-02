@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.7271069696' lat='47.8285924012'/>
+<node id='-20000001' lon='18.7255350345' lat='47.8645391364'/>
+<node id='-20000002' lon='18.7257167646' lat='47.8648608479'/>
+<node id='-20000003' lon='18.7261833264' lat='47.8650018592'/>
+<node id='-20000004' lon='18.7929597958' lat='47.8663055987'/>
+<node id='-20000005' lon='18.7934377363' lat='47.8661830273'/>
+<node id='-20000006' lon='18.7936468858' lat='47.8658689463'/>
+<node id='-20000007' lon='18.7944097308' lat='47.8478947791'/>
+<node id='-20000008' lon='18.7951718324' lat='47.8299205464'/>
+<node id='-20000009' lon='18.7949897882' lat='47.8295989468'/>
+<node id='-20000010' lon='18.7945233567' lat='47.8294582203'/>
+<node id='-20000011' lon='18.7277940947' lat='47.8281561382'/>
+<node id='-20000012' lon='18.7273163581' lat='47.8282784408'/>
+<node id='-20000013' lon='18.7271069696' lat='47.8285924012'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.73309' lat='47.86019'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000001' lon='18.74644' lat='47.86045'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000002' lon='18.75980' lat='47.86071'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000003' lon='18.77315' lat='47.86097'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000004' lon='18.78650' lat='47.86123'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000005' lon='18.73348' lat='47.85120'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000006' lon='18.74683' lat='47.85147'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000007' lon='18.76018' lat='47.85173'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000008' lon='18.77353' lat='47.85199'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000009' lon='18.78689' lat='47.85225'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000010' lon='18.73387' lat='47.84222'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000011' lon='18.74722' lat='47.84248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000012' lon='18.76057' lat='47.84274'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000013' lon='18.77392' lat='47.84300'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000014' lon='18.78727' lat='47.84326'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000015' lon='18.73426' lat='47.83323'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000016' lon='18.74761' lat='47.83349'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000017' lon='18.76096' lat='47.83375'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000018' lon='18.77430' lat='47.83401'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+<node id='-10000019' lon='18.78765' lat='47.83427'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Burdov'/><tag k='ele' v='388'/></node>
+</osm>

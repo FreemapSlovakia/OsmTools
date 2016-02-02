@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.0661188083' lat='49.1190619321'/>
+<node id='-20000001' lon='21.0661665628' lat='49.1550289094'/>
+<node id='-20000002' lon='21.0663677567' lat='49.1553467102'/>
+<node id='-20000003' lon='21.0668526384' lat='49.1554781162'/>
+<node id='-20000004' lon='21.1011253669' lat='49.1554532325'/>
+<node id='-20000005' lon='21.1353980384' lat='49.1554181767'/>
+<node id='-20000006' lon='21.1358823827' lat='49.1552859233'/>
+<node id='-20000007' lon='21.1360822833' lat='49.1549677723'/>
+<node id='-20000008' lon='21.1360331023' lat='49.1369843503'/>
+<node id='-20000009' lon='21.1359839702' lat='49.119000872'/>
+<node id='-20000010' lon='21.1357824778' lat='49.1186831885'/>
+<node id='-20000011' lon='21.1352977703' lat='49.11855207'/>
+<node id='-20000012' lon='21.0668031869' lat='49.1186119316'/>
+<node id='-20000013' lon='21.0663190117' lat='49.1187438971'/>
+<node id='-20000014' lon='21.0661188083' lat='49.1190619321'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='21.07371' lat='49.15053'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000001' lon='21.08741' lat='49.15052'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000002' lon='21.10112' lat='49.15051'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000003' lon='21.11483' lat='49.15050'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000004' lon='21.12854' lat='49.15048'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000005' lon='21.07369' lat='49.14154'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000006' lon='21.08740' lat='49.14153'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000007' lon='21.10110' lat='49.14152'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000008' lon='21.11481' lat='49.14150'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000009' lon='21.12851' lat='49.14149'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000010' lon='21.07368' lat='49.13255'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000011' lon='21.08738' lat='49.13254'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000012' lon='21.10108' lat='49.13253'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000013' lon='21.11479' lat='49.13251'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000014' lon='21.12849' lat='49.13250'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000015' lon='21.07366' lat='49.12355'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000016' lon='21.08737' lat='49.12355'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000017' lon='21.10107' lat='49.12353'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000018' lon='21.11477' lat='49.12352'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+<node id='-10000019' lon='21.12847' lat='49.12351'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vyšný Kozí hrb'/><tag k='ele' v='544'/></node>
+</osm>

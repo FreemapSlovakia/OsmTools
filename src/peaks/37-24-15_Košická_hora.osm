@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.2695636817' lat='48.7410987328'/>
+<node id='-20000001' lon='21.2697561123' lat='48.7770677034'/>
+<node id='-20000002' lon='21.2699570846' lat='48.7773851897'/>
+<node id='-20000003' lon='21.2704388709' lat='48.7775157627'/>
+<node id='-20000004' lon='21.3044531374' lat='48.7774309762'/>
+<node id='-20000005' lon='21.3384672358' lat='48.7773361517'/>
+<node id='-20000006' lon='21.3389474262' lat='48.777203039'/>
+<node id='-20000007' lon='21.3391445533' lat='48.7768845019'/>
+<node id='-20000008' lon='21.3389026046' lat='48.7409157614'/>
+<node id='-20000009' lon='21.338701344' lat='48.7405983923'/>
+<node id='-20000010' lon='21.3382197331' lat='48.7404681027'/>
+<node id='-20000011' lon='21.2702411337' lat='48.7406474841'/>
+<node id='-20000012' lon='21.2697611078' lat='48.7407803114'/>
+<node id='-20000013' lon='21.2695636817' lat='48.7410987328'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.27722' lat='48.77255'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000001' lon='21.29082' lat='48.77252'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000002' lon='21.30442' lat='48.77248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000003' lon='21.31803' lat='48.77245'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000004' lon='21.33163' lat='48.77241'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000005' lon='21.27717' lat='48.76356'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000006' lon='21.29077' lat='48.76353'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000007' lon='21.30437' lat='48.76349'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000008' lon='21.31797' lat='48.76346'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000009' lon='21.33157' lat='48.76342'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000010' lon='21.27712' lat='48.75457'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000011' lon='21.29072' lat='48.75453'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000012' lon='21.30431' lat='48.75450'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000013' lon='21.31791' lat='48.75446'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000014' lon='21.33151' lat='48.75442'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000015' lon='21.27707' lat='48.74558'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000016' lon='21.29066' lat='48.74554'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000017' lon='21.30426' lat='48.74551'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000018' lon='21.31786' lat='48.74547'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+<node id='-10000019' lon='21.33145' lat='48.74543'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Košická hora'/><tag k='ele' v='360'/></node>
+</osm>

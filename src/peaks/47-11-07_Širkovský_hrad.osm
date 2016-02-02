@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.0681871287' lat='48.2700148662'/>
+<node id='-20000001' lon='20.067532431' lat='48.305982423'/>
+<node id='-20000002' lon='20.0677240544' lat='48.3063019827'/>
+<node id='-20000003' lon='20.0681982626' lat='48.3064375488'/>
+<node id='-20000004' lon='20.1355913938' lat='48.306963917'/>
+<node id='-20000005' lon='20.1360702349' lat='48.3068357945'/>
+<node id='-20000006' lon='20.1362730223' lat='48.306519315'/>
+<node id='-20000007' lon='20.1365763977' lat='48.2885352287'/>
+<node id='-20000008' lon='20.1368794752' lat='48.2705510846'/>
+<node id='-20000009' lon='20.1366875516' lat='48.2702316397'/>
+<node id='-20000010' lon='20.136213497' lat='48.2700963575'/>
+<node id='-20000011' lon='20.0688688434' lat='48.2695706596'/>
+<node id='-20000012' lon='20.0683901858' lat='48.2696985048'/>
+<node id='-20000013' lon='20.0681871287' lat='48.2700148662'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='20.07503' lat='48.30154'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000001' lon='20.08851' lat='48.30165'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000002' lon='20.10198' lat='48.30176'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000003' lon='20.11546' lat='48.30186'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000004' lon='20.12894' lat='48.30196'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000005' lon='20.07519' lat='48.29255'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000006' lon='20.08867' lat='48.29266'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000007' lon='20.10214' lat='48.29277'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000008' lon='20.11562' lat='48.29287'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000009' lon='20.12909' lat='48.29297'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000010' lon='20.07535' lat='48.28356'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000011' lon='20.08883' lat='48.28367'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000012' lon='20.10230' lat='48.28377'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000013' lon='20.11577' lat='48.28388'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000014' lon='20.12924' lat='48.28398'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000015' lon='20.07552' lat='48.27457'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000016' lon='20.08899' lat='48.27468'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000017' lon='20.10246' lat='48.27478'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000018' lon='20.11593' lat='48.27488'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+<node id='-10000019' lon='20.12940' lat='48.27499'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Širkovský hrad'/><tag k='ele' v='378'/></node>
+</osm>

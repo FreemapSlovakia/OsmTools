@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.9295850865' lat='49.4332280251'/>
+<node id='-20000001' lon='18.9292066063' lat='49.4422134264'/>
+<node id='-20000002' lon='18.9293950842' lat='49.442534825'/>
+<node id='-20000003' lon='18.9298768896' lat='49.4426751835'/>
+<node id='-20000004' lon='18.9429677497' lat='49.4429088772'/>
+<node id='-20000005' lon='18.9426480287' lat='49.4505463797'/>
+<node id='-20000006' lon='18.9426292228' lat='49.4509955124'/>
+<node id='-20000007' lon='18.9295362112' lat='49.4507617487'/>
+<node id='-20000008' lon='18.9290432332' lat='49.4508846468'/>
+<node id='-20000009' lon='18.928827937' lat='49.451198811'/>
+<node id='-20000010' lon='18.9284490784' lat='49.46018418'/>
+<node id='-20000011' lon='18.9286376159' lat='49.4605055786'/>
+<node id='-20000012' lon='18.9291195921' lat='49.4606459416'/>
+<node id='-20000013' lon='18.9422152349' lat='49.4608797828'/>
+<node id='-20000014' lon='18.9418575326' lat='49.469415802'/>
+<node id='-20000015' lon='18.942046191' lat='49.4697371779'/>
+<node id='-20000016' lon='18.9425282941' lat='49.4698774857'/>
+<node id='-20000017' lon='18.9494221822' lat='49.4699999643'/>
+<node id='-20000018' lon='18.956316117' lat='49.4701220323'/>
+<node id='-20000019' lon='18.956809219' lat='49.4699990213'/>
+<node id='-20000020' lon='18.9570244211' lat='49.4696848084'/>
+<node id='-20000021' lon='18.9573794945' lat='49.4611487068'/>
+<node id='-20000022' lon='18.9842611832' lat='49.4616205355'/>
+<node id='-20000023' lon='18.9847541295' lat='49.4614974039'/>
+<node id='-20000024' lon='18.9849691141' lat='49.4611831379'/>
+<node id='-20000025' lon='18.9855218585' lat='49.4477046063'/>
+<node id='-20000026' lon='18.9860741887' lat='49.4342260388'/>
+<node id='-20000027' lon='18.9858853709' lat='49.4339047326'/>
+<node id='-20000028' lon='18.985403491' lat='49.4337646083'/>
+<node id='-20000029' lon='18.9302930928' lat='49.4327909518'/>
+<node id='-20000030' lon='18.9298002964' lat='49.4329138564'/>
+<node id='-20000031' lon='18.9295850865' lat='49.4332280251'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+<nd ref='-20000019' />
+<nd ref='-20000020' />
+<nd ref='-20000021' />
+<nd ref='-20000022' />
+<nd ref='-20000023' />
+<nd ref='-20000024' />
+<nd ref='-20000025' />
+<nd ref='-20000026' />
+<nd ref='-20000027' />
+<nd ref='-20000028' />
+<nd ref='-20000029' />
+<nd ref='-20000030' />
+<nd ref='-20000031' />
+</way>
+<node id='-10000000' lon='18.97758' lat='49.45656'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000001' lon='18.93585' lat='49.46481'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000002' lon='18.94963' lat='49.46505'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000003' lon='18.96342' lat='49.46530'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000004' lon='18.93623' lat='49.45582'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000005' lon='18.95001' lat='49.45607'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000006' lon='18.96379' lat='49.45631'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000007' lon='18.93660' lat='49.44684'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000008' lon='18.95038' lat='49.44708'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000009' lon='18.96417' lat='49.44733'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000010' lon='18.97795' lat='49.44757'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000011' lon='18.93698' lat='49.43785'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000012' lon='18.95076' lat='49.43810'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000013' lon='18.96454' lat='49.43834'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+<node id='-10000014' lon='18.97832' lat='49.43858'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Starý košiar'/><tag k='ele' v='864'/></node>
+</osm>

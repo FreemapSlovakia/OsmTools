@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.4071940295' lat='48.9475162721'/>
+<node id='-20000001' lon='21.4074868805' lat='48.9834834382'/>
+<node id='-20000002' lon='21.4076895553' lat='48.9838006606'/>
+<node id='-20000003' lon='21.408173675' lat='48.9839306437'/>
+<node id='-20000004' lon='21.4354968923' lat='48.9838307766'/>
+<node id='-20000005' lon='21.4628199541' lat='48.983724439'/>
+<node id='-20000006' lon='21.463301775' lat='48.9835908111'/>
+<node id='-20000007' lon='21.4634989093' lat='48.9832720804'/>
+<node id='-20000008' lon='21.4631658011' lat='48.9473051801'/>
+<node id='-20000009' lon='21.4629629229' lat='48.9469880513'/>
+<node id='-20000010' lon='21.4624790168' lat='48.9468582955'/>
+<node id='-20000011' lon='21.4078730028' lat='48.9470642363'/>
+<node id='-20000012' lon='21.4073913818' lat='48.9471976336'/>
+<node id='-20000013' lon='21.4071940295' lat='48.9475162721'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='21.4273975874' lat='48.9628478667'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čierna hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1073'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='21.4234728746' lat='48.9740059306'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čierna hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1073'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='21.4077592138' lat='48.9768997767'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čierna hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1073'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='21.4077592138' lat='48.9768997767'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Čierna hora'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1073'/><tag k='source' v='kapor2'/></node>
+</osm>

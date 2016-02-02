@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.4032252115' lat='48.8562455753'/>
+<node id='-20000001' lon='19.4023666172' lat='48.8832115846'/>
+<node id='-20000002' lon='19.4025561388' lat='48.8835322336'/>
+<node id='-20000003' lon='19.4030339438' lat='48.883670583'/>
+<node id='-20000004' lon='19.4371077791' lat='48.8841375826'/>
+<node id='-20000005' lon='19.4711824818' lat='48.8845945169'/>
+<node id='-20000006' lon='19.4716685132' lat='48.8844692349'/>
+<node id='-20000007' lon='19.4718778596' lat='48.8841539938'/>
+<node id='-20000008' lon='19.4724255148' lat='48.8661760771'/>
+<node id='-20000009' lon='19.4729726277' lat='48.8481980993'/>
+<node id='-20000010' lon='19.4727827843' lat='48.8478775651'/>
+<node id='-20000011' lon='19.4723051248' lat='48.8477395071'/>
+<node id='-20000012' lon='19.4586851391' lat='48.8475581727'/>
+<node id='-20000013' lon='19.4581994337' lat='48.8476834046'/>
+<node id='-20000014' lon='19.4579901584' lat='48.8479986249'/>
+<node id='-20000015' lon='19.457727805' lat='48.8565379961'/>
+<node id='-20000016' lon='19.4039207885' lat='48.8558054552'/>
+<node id='-20000017' lon='19.4034348663' lat='48.8559304553'/>
+<node id='-20000018' lon='19.4032252115' lat='48.8562455753'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.41001' lat='48.87882'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000001' lon='19.42364' lat='48.87900'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000002' lon='19.43727' lat='48.87919'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000003' lon='19.45089' lat='48.87938'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000004' lon='19.46452' lat='48.87956'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000005' lon='19.43755' lat='48.87020'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000006' lon='19.41029' lat='48.86983'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000007' lon='19.42392' lat='48.87002'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000008' lon='19.45117' lat='48.87039'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000009' lon='19.46480' lat='48.87057'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000010' lon='19.41058' lat='48.86084'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000011' lon='19.42420' lat='48.86103'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000012' lon='19.43783' lat='48.86121'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000013' lon='19.45145' lat='48.86140'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000014' lon='19.46507' lat='48.86158'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+<node id='-10000015' lon='19.46535' lat='48.85259'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Ráztocké poľany'/><tag k='ele' v='1336'/></node>
+</osm>

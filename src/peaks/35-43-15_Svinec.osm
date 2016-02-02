@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.2688886866' lat='48.4122328217'/>
+<node id='-20000001' lon='18.2674433029' lat='48.4391807124'/>
+<node id='-20000002' lon='18.2676240638' lat='48.4395031802'/>
+<node id='-20000003' lon='18.2680945741' lat='48.4396461509'/>
+<node id='-20000004' lon='18.3355977158' lat='48.4412300602'/>
+<node id='-20000005' lon='18.3360822095' lat='48.4411094976'/>
+<node id='-20000006' lon='18.3362966674' lat='48.4407963027'/>
+<node id='-20000007' lon='18.3370014609' lat='48.4273216171'/>
+<node id='-20000008' lon='18.3377057349' lat='48.4138468924'/>
+<node id='-20000009' lon='18.337524615' lat='48.4135245355'/>
+<node id='-20000010' lon='18.3370541487' lat='48.4133818528'/>
+<node id='-20000011' lon='18.2695877947' lat='48.4117994629'/>
+<node id='-20000012' lon='18.2691034278' lat='48.4119197502'/>
+<node id='-20000013' lon='18.2688886866' lat='48.4122328217'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.27511' lat='48.43486'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000001' lon='18.28861' lat='48.43518'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000002' lon='18.30211' lat='48.43550'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000003' lon='18.31561' lat='48.43581'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000004' lon='18.32911' lat='48.43613'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000005' lon='18.27559' lat='48.42588'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000006' lon='18.28909' lat='48.42620'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000007' lon='18.30259' lat='48.42652'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000008' lon='18.31608' lat='48.42683'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000009' lon='18.32958' lat='48.42715'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000010' lon='18.27607' lat='48.41690'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000011' lon='18.28957' lat='48.41721'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000012' lon='18.30306' lat='48.41753'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000013' lon='18.31656' lat='48.41785'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+<node id='-10000014' lon='18.33005' lat='48.41816'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Svinec'/><tag k='ele' v='467'/></node>
+</osm>

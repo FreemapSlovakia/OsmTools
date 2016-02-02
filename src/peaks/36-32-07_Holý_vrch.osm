@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.0716858835' lat='48.6173564053'/>
+<node id='-20000001' lon='19.070657767' lat='48.6443187267'/>
+<node id='-20000002' lon='19.0708443242' lat='48.6446399213'/>
+<node id='-20000003' lon='19.0713189743' lat='48.6447796217'/>
+<node id='-20000004' lon='19.1255701098' lat='48.6456756231'/>
+<node id='-20000005' lon='19.1260546814' lat='48.6455517649'/>
+<node id='-20000006' lon='19.126265156' lat='48.6452371275'/>
+<node id='-20000007' lon='19.1267646049' lat='48.631755552'/>
+<node id='-20000008' lon='19.1272636842' lat='48.6182739412'/>
+<node id='-20000009' lon='19.1270768614' lat='48.6179528379'/>
+<node id='-20000010' lon='19.126602307' lat='48.6178133699'/>
+<node id='-20000011' lon='19.0723809999' lat='48.6169182287'/>
+<node id='-20000012' lon='19.0718965738' lat='48.6170418648'/>
+<node id='-20000013' lon='19.0716858835' lat='48.6173564053'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.07829' lat='48.63995'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000001' lon='19.09185' lat='48.64017'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000002' lon='19.10541' lat='48.64039'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000003' lon='19.11897' lat='48.64062'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000004' lon='19.07863' lat='48.63096'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000005' lon='19.09219' lat='48.63118'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000006' lon='19.10575' lat='48.63141'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000007' lon='19.11931' lat='48.63163'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000008' lon='19.07897' lat='48.62197'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000009' lon='19.09253' lat='48.62220'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000010' lon='19.10609' lat='48.62242'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+<node id='-10000011' lon='19.11964' lat='48.62264'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Holý vrch'/><tag k='ele' v='578'/></node>
+</osm>

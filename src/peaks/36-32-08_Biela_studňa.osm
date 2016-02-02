@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.1262404028' lat='48.6092641203'/>
+<node id='-20000001' lon='19.1249083964' lat='48.6452150396'/>
+<node id='-20000002' lon='19.1250953014' lat='48.6455361463'/>
+<node id='-20000003' lon='19.1255701098' lat='48.6456756231'/>
+<node id='-20000004' lon='19.1933877199' lat='48.6467597077'/>
+<node id='-20000005' lon='19.1938721357' lat='48.6466355643'/>
+<node id='-20000006' lon='19.194082193' lat='48.6463208031'/>
+<node id='-20000007' lon='19.1947239777' lat='48.6283446804'/>
+<node id='-20000008' lon='19.1953651293' lat='48.6103684952'/>
+<node id='-20000009' lon='19.1951779023' lat='48.6100475025'/>
+<node id='-20000010' lon='19.1947032339' lat='48.6099083159'/>
+<node id='-20000011' lon='19.1269349337' lat='48.6088256123'/>
+<node id='-20000012' lon='19.1264507189' lat='48.6089494791'/>
+<node id='-20000013' lon='19.1262404028' lat='48.6092641203'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.13254' lat='48.64084'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000001' lon='19.14610' lat='48.64106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000002' lon='19.15966' lat='48.64128'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000003' lon='19.17322' lat='48.64149'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000004' lon='19.18679' lat='48.64171'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000005' lon='19.13287' lat='48.63185'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000006' lon='19.14643' lat='48.63207'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000007' lon='19.15999' lat='48.63229'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000008' lon='19.17355' lat='48.63250'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000009' lon='19.18711' lat='48.63272'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000010' lon='19.13320' lat='48.62286'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000011' lon='19.14676' lat='48.62308'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000012' lon='19.16032' lat='48.62330'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000013' lon='19.17387' lat='48.62351'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000014' lon='19.18743' lat='48.62373'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000015' lon='19.13353' lat='48.61388'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000016' lon='19.14709' lat='48.61409'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000017' lon='19.16064' lat='48.61431'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000018' lon='19.17420' lat='48.61453'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+<node id='-10000019' lon='19.18775' lat='48.61474'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Biela studňa'/><tag k='ele' v='470'/></node>
+</osm>

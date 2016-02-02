@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.5969424519' lat='48.6174177694'/>
+<node id='-20000001' lon='18.5956613671' lat='48.6443716272'/>
+<node id='-20000002' lon='18.5958449022' lat='48.6446935842'/>
+<node id='-20000003' lon='18.5963182293' lat='48.64483524'/>
+<node id='-20000004' lon='18.664111866' lat='48.6462308694'/>
+<node id='-20000005' lon='18.6645975633' lat='48.6461089564'/>
+<node id='-20000006' lon='18.6648109082' lat='48.6457951695'/>
+<node id='-20000007' lon='18.6656406618' lat='48.6278250541'/>
+<node id='-20000008' lon='18.6664695972' lat='48.6098548717'/>
+<node id='-20000009' lon='18.6662857314' lat='48.6095330277'/>
+<node id='-20000010' lon='18.6658125356' lat='48.609391664'/>
+<node id='-20000011' lon='18.6116166038' lat='48.6082797681'/>
+<node id='-20000012' lon='18.6111311464' lat='48.6084014636'/>
+<node id='-20000013' lon='18.610917635' lat='48.6087151546'/>
+<node id='-20000014' lon='18.6105146531' lat='48.6172504435'/>
+<node id='-20000015' lon='18.5976416641' lat='48.6169824702'/>
+<node id='-20000016' lon='18.5971560887' lat='48.6171041053'/>
+<node id='-20000017' lon='18.5969424519' lat='48.6174177694'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='18.60333' lat='48.64003'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000001' lon='18.61689' lat='48.64031'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000002' lon='18.63045' lat='48.64059'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000003' lon='18.64401' lat='48.64087'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000004' lon='18.65756' lat='48.64115'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000005' lon='18.60376' lat='48.63105'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000006' lon='18.61732' lat='48.63133'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000007' lon='18.63087' lat='48.63161'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000008' lon='18.64442' lat='48.63188'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000009' lon='18.65798' lat='48.63216'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000010' lon='18.60419' lat='48.62206'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000011' lon='18.61774' lat='48.62234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000012' lon='18.63129' lat='48.62262'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000013' lon='18.64484' lat='48.62290'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000014' lon='18.65840' lat='48.62318'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000015' lon='18.65881' lat='48.61419'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000016' lon='18.61816' lat='48.61336'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000017' lon='18.63171' lat='48.61364'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+<node id='-10000018' lon='18.64526' lat='48.61391'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malá Homôľka'/><tag k='ele' v='1298'/></node>
+</osm>

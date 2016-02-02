@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.8666472808' lat='48.8527412774'/>
+<node id='-20000001' lon='19.8658345512' lat='48.8887028931'/>
+<node id='-20000002' lon='19.8660270522' lat='48.8890227724'/>
+<node id='-20000003' lon='19.8665061768' lat='48.889159198'/>
+<node id='-20000004' lon='19.9074070691' lat='48.8895540665'/>
+<node id='-20000005' lon='19.9078920483' lat='48.8894269487'/>
+<node id='-20000006' lon='19.9080986687' lat='48.8891109227'/>
+<node id='-20000007' lon='19.9082846431' lat='48.8805700167'/>
+<node id='-20000008' lon='19.9348658209' lat='48.8808186667'/>
+<node id='-20000009' lon='19.9353506458' lat='48.8806914326'/>
+<node id='-20000010' lon='19.9355570563' lat='48.8803753566'/>
+<node id='-20000011' lon='19.9358431934' lat='48.8668894435'/>
+<node id='-20000012' lon='19.9361291179' lat='48.8534034976'/>
+<node id='-20000013' lon='19.9359363027' lat='48.8530837338'/>
+<node id='-20000014' lon='19.9354573314' lat='48.852947598'/>
+<node id='-20000015' lon='19.8673387297' lat='48.8522983703'/>
+<node id='-20000016' lon='19.8668540066' lat='48.8524253213'/>
+<node id='-20000017' lon='19.8666472808' lat='48.8527412774'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='19.87344' lat='48.88428'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000001' lon='19.88707' lat='48.88441'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000002' lon='19.90070' lat='48.88454'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000003' lon='19.87364' lat='48.87529'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000004' lon='19.88727' lat='48.87542'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000005' lon='19.90090' lat='48.87555'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000006' lon='19.91453' lat='48.87568'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000007' lon='19.92816' lat='48.87581'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000008' lon='19.87384' lat='48.86630'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000009' lon='19.88747' lat='48.86643'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000010' lon='19.90110' lat='48.86656'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000011' lon='19.91472' lat='48.86669'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000012' lon='19.92835' lat='48.86682'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000013' lon='19.87404' lat='48.85731'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000014' lon='19.88767' lat='48.85744'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000015' lon='19.90129' lat='48.85757'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000016' lon='19.91492' lat='48.85770'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+<node id='-10000017' lon='19.92854' lat='48.85783'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pivarčovské'/><tag k='ele' v='677'/></node>
+</osm>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.4751695229' lat='49.297721064'/>
+<node id='-20000001' lon='20.4748828127' lat='49.3246943631'/>
+<node id='-20000002' lon='20.4750808824' lat='49.3250131706'/>
+<node id='-20000003' lon='20.4755658298' lat='49.3251470542'/>
+<node id='-20000004' lon='20.5030770761' lat='49.3252686489'/>
+<node id='-20000005' lon='20.5305885033' lat='49.3253836953'/>
+<node id='-20000006' lon='20.5310761055' lat='49.3252539946'/>
+<node id='-20000007' lon='20.5312805769' lat='49.3249369189'/>
+<node id='-20000008' lon='20.5314085935' lat='49.3114501707'/>
+<node id='-20000009' lon='20.5315365143' lat='49.2979633906'/>
+<node id='-20000010' lon='20.5313381868' lat='49.2976446773'/>
+<node id='-20000011' lon='20.5308533556' lat='49.2975110272'/>
+<node id='-20000012' lon='20.4758617137' lat='49.2972746126'/>
+<node id='-20000013' lon='20.4753742393' lat='49.2974040829'/>
+<node id='-20000014' lon='20.4751695229' lat='49.297721064'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.48250' lat='49.32023'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000001' lon='20.49626' lat='49.32029'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000002' lon='20.51001' lat='49.32035'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000003' lon='20.52377' lat='49.32041'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000004' lon='20.48260' lat='49.31124'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000005' lon='20.49635' lat='49.31130'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000006' lon='20.51010' lat='49.31136'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000007' lon='20.52385' lat='49.31142'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000008' lon='20.48269' lat='49.30225'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000009' lon='20.49644' lat='49.30231'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000010' lon='20.51019' lat='49.30237'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+<node id='-10000011' lon='20.52394' lat='49.30243'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čuba'/><tag k='ele' v='870'/></node>
+</osm>

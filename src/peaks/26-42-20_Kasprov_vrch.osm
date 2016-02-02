@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.9405891819' lat='49.2221214808'/>
+<node id='-20000001' lon='19.940204542' lat='49.2401016068'/>
+<node id='-20000002' lon='19.9403988373' lat='49.2404213362'/>
+<node id='-20000003' lon='19.9408815168' lat='49.2405574612'/>
+<node id='-20000004' lon='19.9683422949' lat='49.2408060129'/>
+<node id='-20000005' lon='19.9958034462' lat='49.2410480379'/>
+<node id='-20000006' lon='19.9962916216' lat='49.2409205851'/>
+<node id='-20000007' lon='19.9964991669' lat='49.2406044456'/>
+<node id='-20000008' lon='19.9966813244' lat='49.2316142314'/>
+<node id='-20000009' lon='19.9968633912' lat='49.2226240028'/>
+<node id='-20000010' lon='19.9966687995' lat='49.2223043674'/>
+<node id='-20000011' lon='19.9961861431' lat='49.2221684759'/>
+<node id='-20000012' lon='19.9412851318' lat='49.2216782156'/>
+<node id='-20000013' lon='19.940797003' lat='49.2218054383'/>
+<node id='-20000014' lon='19.9405891819' lat='49.2221214808'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.94786' lat='49.23568'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000001' lon='19.96159' lat='49.23580'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000002' lon='19.97532' lat='49.23592'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000003' lon='19.98905' lat='49.23604'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000004' lon='19.94805' lat='49.22669'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000005' lon='19.96177' lat='49.22681'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000006' lon='19.97550' lat='49.22693'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+<node id='-10000007' lon='19.98923' lat='49.22705'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kasprov vrch'/><tag k='ele' v='1985'/></node>
+</osm>

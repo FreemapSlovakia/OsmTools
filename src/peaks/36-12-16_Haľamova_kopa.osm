@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.9931992859' lat='48.8858070185'/>
+<node id='-20000001' lon='18.9921191967' lat='48.9127668075'/>
+<node id='-20000002' lon='18.9923061965' lat='48.9130881268'/>
+<node id='-20000003' lon='18.9927831421' lat='48.9132281781'/>
+<node id='-20000004' lon='19.005735578' lat='48.9134529777'/>
+<node id='-20000005' lon='19.0053955339' lat='48.9219901202'/>
+<node id='-20000006' lon='19.0055826515' lat='48.9223114177'/>
+<node id='-20000007' lon='19.006059721' lat='48.9224514149'/>
+<node id='-20000008' lon='19.0333339568' lat='48.9229199201'/>
+<node id='-20000009' lon='19.0606088926' lat='48.9233819789'/>
+<node id='-20000010' lon='19.0610963236' lat='48.9232584353'/>
+<node id='-20000011' lon='19.0613084201' lat='48.9229439482'/>
+<node id='-20000012' lon='19.0620041008' lat='48.904970055'/>
+<node id='-20000013' lon='19.0626990924' lat='48.8869960984'/>
+<node id='-20000014' lon='19.0625117337' lat='48.8866748929'/>
+<node id='-20000015' lon='19.0620348435' lat='48.8865351325'/>
+<node id='-20000016' lon='18.9938988699' lat='48.8853693865'/>
+<node id='-20000017' lon='18.9934116435' lat='48.8854926517'/>
+<node id='-20000018' lon='18.9931992859' lat='48.8858070185'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.01308' lat='48.91762'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000001' lon='19.02671' lat='48.91786'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000002' lon='19.04035' lat='48.91809'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000003' lon='19.05399' lat='48.91832'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000004' lon='18.99980' lat='48.90840'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000005' lon='19.01343' lat='48.90864'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000006' lon='19.02707' lat='48.90887'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000007' lon='19.04070' lat='48.90910'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000008' lon='19.05433' lat='48.90933'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000009' lon='19.00016' lat='48.89941'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000010' lon='19.01379' lat='48.89965'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000011' lon='19.02742' lat='48.89988'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000012' lon='19.04105' lat='48.90012'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000013' lon='19.05468' lat='48.90035'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000014' lon='19.00052' lat='48.89043'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000015' lon='19.01415' lat='48.89066'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000016' lon='19.02777' lat='48.89090'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000017' lon='19.04140' lat='48.89113'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+<node id='-10000018' lon='19.05503' lat='48.89136'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Haľamova kopa'/><tag k='ele' v='1344'/></node>
+</osm>

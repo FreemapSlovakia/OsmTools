@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.3386848627' lat='48.7474201122'/>
+<node id='-20000001' lon='19.3374980715' lat='48.783374288'/>
+<node id='-20000002' lon='19.3376868197' lat='48.7836950464'/>
+<node id='-20000003' lon='19.3381635066' lat='48.7838336572'/>
+<node id='-20000004' lon='19.3721686242' lat='48.7843191029'/>
+<node id='-20000005' lon='19.4061746406' lat='48.7847945194'/>
+<node id='-20000006' lon='19.4066598658' lat='48.7846694985'/>
+<node id='-20000007' lon='19.4068691904' lat='48.7843543641'/>
+<node id='-20000008' lon='19.4070114794' lat='48.7798599516'/>
+<node id='-20000009' lon='19.4071537332' lat='48.7753655354'/>
+<node id='-20000010' lon='19.4069645724' lat='48.7750448907'/>
+<node id='-20000011' lon='19.4064877789' lat='48.7749065652'/>
+<node id='-20000012' lon='19.3935681117' lat='48.7747271505'/>
+<node id='-20000013' lon='19.3944138206' lat='48.748210313'/>
+<node id='-20000014' lon='19.3942248385' lat='48.7478896468'/>
+<node id='-20000015' lon='19.3937483348' lat='48.7477512705'/>
+<node id='-20000016' lon='19.3393794794' lat='48.7469803551'/>
+<node id='-20000017' lon='19.3388944522' lat='48.7471050975'/>
+<node id='-20000018' lon='19.3386848627' lat='48.7474201122'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='19.34513' lat='48.77898'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000001' lon='19.35873' lat='48.77918'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000002' lon='19.37233' lat='48.77937'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000003' lon='19.38593' lat='48.77956'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000004' lon='19.39953' lat='48.77975'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000005' lon='19.34542' lat='48.77000'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000006' lon='19.35902' lat='48.77019'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000007' lon='19.37262' lat='48.77038'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000008' lon='19.38622' lat='48.77058'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000009' lon='19.34572' lat='48.76101'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000010' lon='19.35932' lat='48.76120'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000011' lon='19.37291' lat='48.76139'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000012' lon='19.38651' lat='48.76159'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000013' lon='19.34602' lat='48.75202'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000014' lon='19.35961' lat='48.75221'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000015' lon='19.37320' lat='48.75241'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+<node id='-10000016' lon='19.38680' lat='48.75260'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kupcova poľana'/><tag k='ele' v='781'/></node>
+</osm>

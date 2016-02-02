@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.6062143058' lat='48.4700405001'/>
+<node id='-20000001' lon='21.6063214191' lat='48.4790327849'/>
+<node id='-20000002' lon='21.6065233054' lat='48.4793497077'/>
+<node id='-20000003' lon='21.6070031268' lat='48.479478893'/>
+<node id='-20000004' lon='21.6198519945' lat='48.4794104294'/>
+<node id='-20000005' lon='21.6199505942' lat='48.4875033349'/>
+<node id='-20000006' lon='21.6070996824' lat='48.4875718188'/>
+<node id='-20000007' lon='21.6066229252' lat='48.4877060459'/>
+<node id='-20000008' lon='21.6064285852' lat='48.4880250555'/>
+<node id='-20000009' lon='21.6066430757' lat='48.5060095537'/>
+<node id='-20000010' lon='21.6068450726' lat='48.5063264738'/>
+<node id='-20000011' lon='21.6073251497' lat='48.506455656'/>
+<node id='-20000012' lon='21.6343898789' lat='48.5063097149'/>
+<node id='-20000013' lon='21.661454387' lat='48.506157411'/>
+<node id='-20000014' lon='21.6619311715' lat='48.5060229566'/>
+<node id='-20000015' lon='21.6621252308' lat='48.5057038544'/>
+<node id='-20000016' lon='21.6616572451' lat='48.4697351844'/>
+<node id='-20000017' lon='21.6614550542' lat='48.4694183577'/>
+<node id='-20000018' lon='21.6609751897' lat='48.4692893988'/>
+<node id='-20000019' lon='21.6068851695' lat='48.469587264'/>
+<node id='-20000020' lon='21.6064085797' lat='48.46972149'/>
+<node id='-20000021' lon='21.6062143058' lat='48.4700405001'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+<nd ref='-20000019' />
+<nd ref='-20000020' />
+<nd ref='-20000021' />
+</way>
+<node id='-10000000' lon='21.61403' lat='48.50147'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000001' lon='21.62756' lat='48.50140'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000002' lon='21.64109' lat='48.50132'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000003' lon='21.65462' lat='48.50125'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000004' lon='21.61392' lat='48.49248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000005' lon='21.62745' lat='48.49241'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000006' lon='21.64098' lat='48.49233'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000007' lon='21.65451' lat='48.49226'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000008' lon='21.62734' lat='48.48341'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000009' lon='21.64086' lat='48.48334'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000010' lon='21.65439' lat='48.48326'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000011' lon='21.61370' lat='48.47449'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000012' lon='21.62723' lat='48.47442'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000013' lon='21.64075' lat='48.47435'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+<node id='-10000014' lon='21.65427' lat='48.47427'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Viničná hora'/><tag k='ele' v='283'/></node>
+</osm>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.6029091807' lat='48.2038266227'/>
+<node id='-20000001' lon='18.601229455' lat='48.2397678169'/>
+<node id='-20000002' lon='18.6014116599' lat='48.24008975'/>
+<node id='-20000003' lon='18.6018812793' lat='48.2402313252'/>
+<node id='-20000004' lon='18.6691388514' lat='48.2416152457'/>
+<node id='-20000005' lon='18.6696206391' lat='48.2414932467'/>
+<node id='-20000006' lon='18.6698321668' lat='48.2411794145'/>
+<node id='-20000007' lon='18.6706484616' lat='48.2232079663'/>
+<node id='-20000008' lon='18.6714639564' lat='48.205236451'/>
+<node id='-20000009' lon='18.6712814285' lat='48.2049146303'/>
+<node id='-20000010' lon='18.6708119389' lat='48.2047733435'/>
+<node id='-20000011' lon='18.603602531' lat='48.2033911837'/>
+<node id='-20000012' lon='18.6031209512' lat='48.2035129115'/>
+<node id='-20000013' lon='18.6029091807' lat='48.2038266227'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='18.6435253833' lat='48.2173607141'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Strážny vrch'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='218'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='18.6451363269' lat='48.2121766553'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Strážny vrch'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='218'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='18.6421684505' lat='48.2204028155'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Strážny vrch'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='218'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='18.641109766' lat='48.2112918559'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Strážny vrch'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='218'/><tag k='source' v='kapor2'/></node>
+</osm>

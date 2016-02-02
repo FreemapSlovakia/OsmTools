@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.5918873825' lat='48.445033555'/>
+<node id='-20000001' lon='19.5911410647' lat='48.4720038316'/>
+<node id='-20000002' lon='19.591330303' lat='48.4723241777'/>
+<node id='-20000003' lon='19.5918047744' lat='48.4724617176'/>
+<node id='-20000004' lon='19.6594065086' lat='48.473269197'/>
+<node id='-20000005' lon='19.6598881108' lat='48.4731430771'/>
+<node id='-20000006' lon='19.660094533' lat='48.4728274567'/>
+<node id='-20000007' lon='19.660449574' lat='48.4593419475'/>
+<node id='-20000008' lon='19.660804353' lat='48.4458564047'/>
+<node id='-20000009' lon='19.6606147728' lat='48.4455361726'/>
+<node id='-20000010' lon='19.6601403654' lat='48.4453989182'/>
+<node id='-20000011' lon='19.5925756045' lat='48.4445922139'/>
+<node id='-20000012' lon='19.5920941082' lat='48.4447180549'/>
+<node id='-20000013' lon='19.5918873825' lat='48.445033555'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.59870' lat='48.46760'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000001' lon='19.61222' lat='48.46776'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000002' lon='19.62574' lat='48.46792'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000003' lon='19.63926' lat='48.46808'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000004' lon='19.65278' lat='48.46824'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000005' lon='19.59895' lat='48.45861'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000006' lon='19.61247' lat='48.45877'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000007' lon='19.62598' lat='48.45893'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000008' lon='19.63950' lat='48.45909'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000009' lon='19.65302' lat='48.45925'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000010' lon='19.59920' lat='48.44962'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000011' lon='19.61271' lat='48.44978'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000012' lon='19.62623' lat='48.44994'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000013' lon='19.63974' lat='48.45010'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+<node id='-10000014' lon='19.65326' lat='48.45026'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strieborná'/><tag k='ele' v='719'/></node>
+</osm>

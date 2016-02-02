@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.8634590108' lat='48.8515980631'/>
+<node id='-20000001' lon='17.8612110395' lat='48.8875127433'/>
+<node id='-20000002' lon='17.8613906776' lat='48.8878358625'/>
+<node id='-20000003' lon='17.8618641725' lat='48.887980575'/>
+<node id='-20000004' lon='17.9299444151' lat='48.8898149999'/>
+<node id='-20000005' lon='17.9304342532' lat='48.8896962443'/>
+<node id='-20000006' lon='17.9306532754' lat='48.8893838668'/>
+<node id='-20000007' lon='17.9317530347' lat='48.8714253892'/>
+<node id='-20000008' lon='17.9328517063' lat='48.8534668367'/>
+<node id='-20000009' lon='17.9326717206' lat='48.8531438297'/>
+<node id='-20000010' lon='17.9321983456' lat='48.852999414'/>
+<node id='-20000011' lon='17.8641678867' lat='48.8511673264'/>
+<node id='-20000012' lon='17.8636782728' lat='48.8512858083'/>
+<node id='-20000013' lon='17.8634590108' lat='48.8515980631'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='17.86898' lat='48.88322'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000001' lon='17.88259' lat='48.88359'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000002' lon='17.89621' lat='48.88396'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000003' lon='17.90983' lat='48.88432'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000004' lon='17.92344' lat='48.88469'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000005' lon='17.86954' lat='48.87424'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000006' lon='17.88315' lat='48.87461'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000007' lon='17.89677' lat='48.87498'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000008' lon='17.91038' lat='48.87535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000009' lon='17.92399' lat='48.87571'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000010' lon='17.87010' lat='48.86526'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000011' lon='17.88371' lat='48.86563'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000012' lon='17.89732' lat='48.86600'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000013' lon='17.91093' lat='48.86637'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000014' lon='17.92454' lat='48.86673'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000015' lon='17.87066' lat='48.85628'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000016' lon='17.88427' lat='48.85665'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000017' lon='17.89788' lat='48.85702'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000018' lon='17.91148' lat='48.85739'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+<node id='-10000019' lon='17.92509' lat='48.85775'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Horné Bradlo'/><tag k='ele' v='704'/></node>
+</osm>

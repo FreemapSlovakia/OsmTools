@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7272456606' lat='48.4376174956'/>
+<node id='-20000001' lon='19.7263462119' lat='48.473579873'/>
+<node id='-20000002' lon='19.7265363071' lat='48.4738999967'/>
+<node id='-20000003' lon='19.7270111584' lat='48.474036979'/>
+<node id='-20000004' lon='19.7946185772' lat='48.4747650594'/>
+<node id='-20000005' lon='19.7950998582' lat='48.4746383738'/>
+<node id='-20000006' lon='19.7953054477' lat='48.4743225112'/>
+<node id='-20000007' lon='19.7957310485' lat='48.456340886'/>
+<node id='-20000008' lon='19.7961562304' lat='48.4383592016'/>
+<node id='-20000009' lon='19.7959658263' lat='48.4380391925'/>
+<node id='-20000010' lon='19.7954911241' lat='48.4379024968'/>
+<node id='-20000011' lon='19.7279326076' lat='48.4371753437'/>
+<node id='-20000012' lon='19.7274515166' lat='48.4373017518'/>
+<node id='-20000013' lon='19.7272456606' lat='48.4376174956'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.73390' lat='48.46916'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000001' lon='19.74742' lat='48.46931'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000002' lon='19.76094' lat='48.46946'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000003' lon='19.77446' lat='48.46960'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000004' lon='19.78798' lat='48.46975'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000005' lon='19.73412' lat='48.46017'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000006' lon='19.74764' lat='48.46032'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000007' lon='19.76116' lat='48.46047'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000008' lon='19.77467' lat='48.46061'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000009' lon='19.78819' lat='48.46075'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000010' lon='19.73435' lat='48.45118'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000011' lon='19.74786' lat='48.45133'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000012' lon='19.76138' lat='48.45148'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000013' lon='19.77489' lat='48.45162'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000014' lon='19.78841' lat='48.45176'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000015' lon='19.73457' lat='48.44219'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000016' lon='19.74808' lat='48.44234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000017' lon='19.76159' lat='48.44248'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000018' lon='19.77511' lat='48.44263'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+<node id='-10000019' lon='19.78862' lat='48.44277'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Vinicou'/><tag k='ele' v='338'/></node>
+</osm>

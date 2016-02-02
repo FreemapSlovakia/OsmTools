@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.4632455255' lat='48.578573826'/>
+<node id='-20000001' lon='18.4614444609' lat='48.6145088879'/>
+<node id='-20000002' lon='18.4616270397' lat='48.6148310572'/>
+<node id='-20000003' lon='18.4620997126' lat='48.6149732603'/>
+<node id='-20000004' lon='18.5298466453' lat='48.6164472264'/>
+<node id='-20000005' lon='18.5303323756' lat='48.6163258752'/>
+<node id='-20000006' lon='18.53054642' lat='48.6160123348'/>
+<node id='-20000007' lon='18.5314229321' lat='48.5980438946'/>
+<node id='-20000008' lon='18.5322985805' lat='48.580075386'/>
+<node id='-20000009' lon='18.5321156693' lat='48.5797533294'/>
+<node id='-20000010' lon='18.5316431253' lat='48.5796114187'/>
+<node id='-20000011' lon='18.4639453343' lat='48.5781393295'/>
+<node id='-20000012' lon='18.4634598163' lat='48.5782604069'/>
+<node id='-20000013' lon='18.4632455255' lat='48.578573826'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.46912' lat='48.61018'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000001' lon='18.48267' lat='48.61047'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000002' lon='18.49622' lat='48.61077'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000003' lon='18.50977' lat='48.61106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000004' lon='18.52332' lat='48.61136'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000005' lon='18.46957' lat='48.60119'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000006' lon='18.48312' lat='48.60149'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000007' lon='18.49666' lat='48.60178'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000008' lon='18.51021' lat='48.60208'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000009' lon='18.52376' lat='48.60237'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000010' lon='18.47002' lat='48.59221'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000011' lon='18.48356' lat='48.59251'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000012' lon='18.49711' lat='48.59280'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000013' lon='18.51065' lat='48.59309'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000014' lon='18.52419' lat='48.59339'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000015' lon='18.47047' lat='48.58322'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000016' lon='18.48401' lat='48.58352'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000017' lon='18.49755' lat='48.58382'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000018' lon='18.51109' lat='48.58411'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+<node id='-10000019' lon='18.52463' lat='48.58440'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Trstený vrch'/><tag k='ele' v='436'/></node>
+</osm>

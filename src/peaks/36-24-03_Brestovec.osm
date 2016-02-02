@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7993904365' lat='48.8160904213'/>
+<node id='-20000001' lon='19.798530599' lat='48.8520514048'/>
+<node id='-20000002' lon='19.7987225353' lat='48.8523713984'/>
+<node id='-20000003' lon='19.7992011303' lat='48.8525081021'/>
+<node id='-20000004' lon='19.8332594618' lat='48.8528578696'/>
+<node id='-20000005' lon='19.86731844' lat='48.8531975781'/>
+<node id='-20000006' lon='19.8678031694' lat='48.8530706251'/>
+<node id='-20000007' lon='19.8680098893' lat='48.8527546669'/>
+<node id='-20000008' lon='19.8684151649' lat='48.8347737625'/>
+<node id='-20000009' lon='19.8688200393' lat='48.8167927992'/>
+<node id='-20000010' lon='19.8686277884' lat='48.816472921'/>
+<node id='-20000011' lon='19.8681493454' lat='48.8163365069'/>
+<node id='-20000012' lon='19.80008197' lat='48.8156479096'/>
+<node id='-20000013' lon='19.7995974309' lat='48.8157745818'/>
+<node id='-20000014' lon='19.7993904365' lat='48.8160904213'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='19.8263856895' lat='48.8259293403'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Brestovec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='943'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='19.826437928' lat='48.8278006617'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Brestovec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='943'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='19.8226471813' lat='48.8421798603'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Brestovec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='943'/><tag k='source' v='kapor2'/></node>
+</osm>

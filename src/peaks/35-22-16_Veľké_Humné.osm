@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.3383831394' lat='48.8905306038'/>
+<node id='-20000001' lon='18.3369506278' lat='48.9174777902'/>
+<node id='-20000002' lon='18.3371334327' lat='48.9178001617'/>
+<node id='-20000003' lon='18.3376085735' lat='48.9179429202'/>
+<node id='-20000004' lon='18.3730453913' lat='48.9187561142'/>
+<node id='-20000005' lon='18.4057577013' lat='48.9194970993'/>
+<node id='-20000006' lon='18.4062466943' lat='48.9193763284'/>
+<node id='-20000007' lon='18.4064628805' lat='48.9190630562'/>
+<node id='-20000008' lon='18.4066955621' lat='48.9145716202'/>
+<node id='-20000009' lon='18.406928186' lat='48.9100801801'/>
+<node id='-20000010' lon='18.4067449582' lat='48.9097579195'/>
+<node id='-20000011' lon='18.4062696971' lat='48.909615447'/>
+<node id='-20000012' lon='18.3933238407' lat='48.9093233544'/>
+<node id='-20000013' lon='18.39423524' lat='48.8918071316'/>
+<node id='-20000014' lon='18.3940521559' lat='48.8914848508'/>
+<node id='-20000015' lon='18.393577102' lat='48.8913423285'/>
+<node id='-20000016' lon='18.3390884851' lat='48.8900969639'/>
+<node id='-20000017' lon='18.3385996186' lat='48.8902174553'/>
+<node id='-20000018' lon='18.3383831394' lat='48.8905306038'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='18.34469' lat='48.91316'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000001' lon='18.35832' lat='48.91347'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000002' lon='18.37194' lat='48.91378'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000003' lon='18.38557' lat='48.91409'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000004' lon='18.39920' lat='48.91440'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000005' lon='18.34516' lat='48.90417'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000006' lon='18.35879' lat='48.90449'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000007' lon='18.37242' lat='48.90480'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000008' lon='18.38604' lat='48.90511'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000009' lon='18.34564' lat='48.89519'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000010' lon='18.35926' lat='48.89550'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000011' lon='18.37289' lat='48.89581'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+<node id='-10000012' lon='18.38651' lat='48.89612'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľké Humné'/><tag k='ele' v='609'/></node>
+</osm>

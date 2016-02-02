@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.7926546506' lat='48.1716526621'/>
+<node id='-20000001' lon='18.7914961122' lat='48.1986123307'/>
+<node id='-20000002' lon='18.7916793729' lat='48.1989339608'/>
+<node id='-20000003' lon='18.7921491428' lat='48.199074753'/>
+<node id='-20000004' lon='18.8593616071' lat='48.2003465782'/>
+<node id='-20000005' lon='18.8598425501' lat='48.2002237755'/>
+<node id='-20000006' lon='18.8600527351' lat='48.1999095897'/>
+<node id='-20000007' lon='18.8606142611' lat='48.1864291638'/>
+<node id='-20000008' lon='18.8611753745' lat='48.1729487015'/>
+<node id='-20000009' lon='18.8609917665' lat='48.172627183'/>
+<node id='-20000010' lon='18.8605220483' lat='48.1724866755'/>
+<node id='-20000011' lon='18.7933459473' lat='48.1712160701'/>
+<node id='-20000012' lon='18.7928651224' lat='48.1713385982'/>
+<node id='-20000013' lon='18.7926546506' lat='48.1716526621'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.79909' lat='48.19426'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000001' lon='18.81253' lat='48.19451'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000002' lon='18.82597' lat='48.19477'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000003' lon='18.83941' lat='48.19502'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000004' lon='18.85285' lat='48.19527'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000005' lon='18.79947' lat='48.18527'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000006' lon='18.81291' lat='48.18553'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000007' lon='18.82635' lat='48.18578'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000008' lon='18.83979' lat='48.18604'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000009' lon='18.85323' lat='48.18629'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000010' lon='18.79986' lat='48.17628'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000011' lon='18.81329' lat='48.17654'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000012' lon='18.82673' lat='48.17680'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000013' lon='18.84017' lat='48.17705'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+<node id='-10000014' lon='18.85360' lat='48.17730'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Buková'/><tag k='ele' v='223'/></node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='22.2630502528' lat='48.7794559922'/>
+<node id='-20000001' lon='22.2637274634' lat='48.8064262956'/>
+<node id='-20000002' lon='22.2639348085' lat='48.8067420143'/>
+<node id='-20000003' lon='22.2644194088' lat='48.8068684162'/>
+<node id='-20000004' lon='22.2984453321' lat='48.8064901507'/>
+<node id='-20000005' lon='22.3324705376' lat='48.806101844'/>
+<node id='-20000006' lon='22.3329483232' lat='48.8059646013'/>
+<node id='-20000007' lon='22.3331392467' lat='48.8056443965'/>
+<node id='-20000008' lon='22.3324248664' lat='48.7786748301'/>
+<node id='-20000009' lon='22.3322172102' lat='48.7783592313'/>
+<node id='-20000010' lon='22.3317327142' lat='48.7782331112'/>
+<node id='-20000011' lon='22.2637192462' lat='48.7789989464'/>
+<node id='-20000012' lon='22.2632415244' lat='48.7791359013'/>
+<node id='-20000013' lon='22.2630502528' lat='48.7794559922'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='22.27110' lat='48.80185'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000001' lon='22.28471' lat='48.80170'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000002' lon='22.29832' lat='48.80154'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000003' lon='22.31193' lat='48.80139'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000004' lon='22.32553' lat='48.80123'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000005' lon='22.27087' lat='48.79286'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000006' lon='22.28448' lat='48.79271'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000007' lon='22.29809' lat='48.79256'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000008' lon='22.31169' lat='48.79240'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000009' lon='22.32530' lat='48.79225'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000010' lon='22.27064' lat='48.78387'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000011' lon='22.28425' lat='48.78372'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000012' lon='22.29785' lat='48.78357'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000013' lon='22.31146' lat='48.78341'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+<node id='-10000014' lon='22.32506' lat='48.78326'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Malý Osojík'/><tag k='ele' v='441'/></node>
+</osm>

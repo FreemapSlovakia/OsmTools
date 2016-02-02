@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.3389350837' lat='48.9477369455'/>
+<node id='-20000001' lon='21.3391788285' lat='48.9837043896'/>
+<node id='-20000002' lon='21.3393810709' lat='48.9840217322'/>
+<node id='-20000003' lon='21.3398650154' lat='48.9841520021'/>
+<node id='-20000004' lon='21.3740194495' lat='48.9840463782'/>
+<node id='-20000005' lon='21.4081736749' lat='48.9839306437'/>
+<node id='-20000006' lon='21.4086556442' lat='48.9837972439'/>
+<node id='-20000007' lon='21.4088531279' lat='48.9834786064'/>
+<node id='-20000008' lon='21.4085593028' lat='48.9475114463'/>
+<node id='-20000009' lon='21.4083567698' lat='48.9471942212'/>
+<node id='-20000010' lon='21.4078730029' lat='48.9470642363'/>
+<node id='-20000011' lon='21.339614677' lat='48.9472853111'/>
+<node id='-20000012' lon='21.3391328716' lat='48.9474184235'/>
+<node id='-20000013' lon='21.3389350837' lat='48.9477369455'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.34667' lat='48.97919'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000001' lon='21.36032' lat='48.97915'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000002' lon='21.37399' lat='48.97910'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000003' lon='21.38765' lat='48.97906'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000004' lon='21.40131' lat='48.97901'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000005' lon='21.34660' lat='48.97019'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000006' lon='21.36026' lat='48.97015'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000007' lon='21.37392' lat='48.97011'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000008' lon='21.38758' lat='48.97006'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000009' lon='21.40123' lat='48.97002'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000010' lon='21.34654' lat='48.96120'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000011' lon='21.36020' lat='48.96116'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000012' lon='21.37385' lat='48.96112'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000013' lon='21.38751' lat='48.96107'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000014' lon='21.40116' lat='48.96103'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000015' lon='21.34648' lat='48.95221'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000016' lon='21.36013' lat='48.95217'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000017' lon='21.37378' lat='48.95213'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000018' lon='21.38744' lat='48.95208'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+<node id='-10000019' lon='21.40109' lat='48.95203'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Remetovou'/><tag k='ele' v='935'/></node>
+</osm>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.8674584022' lat='48.8167794264'/>
+<node id='-20000001' lon='19.8666472807' lat='48.8527412775'/>
+<node id='-20000002' lon='19.8668396536' lat='48.8530611573'/>
+<node id='-20000003' lon='19.86731844' lat='48.8531975781'/>
+<node id='-20000004' lon='19.9013780462' lat='48.8535272273'/>
+<node id='-20000005' lon='19.9354382614' lat='48.8538468167'/>
+<node id='-20000006' lon='19.9359228242' lat='48.8537195774'/>
+<node id='-20000007' lon='19.9361291179' lat='48.8534034975'/>
+<node id='-20000008' lon='19.9365100203' lat='48.835422185'/>
+<node id='-20000009' lon='19.9368905456' lat='48.8174408138'/>
+<node id='-20000010' lon='19.9366978593' lat='48.8171210495'/>
+<node id='-20000011' lon='19.936219226' lat='48.8169849181'/>
+<node id='-20000012' lon='19.8681493454' lat='48.8163365069'/>
+<node id='-20000013' lon='19.8676649716' lat='48.8164634651'/>
+<node id='-20000014' lon='19.8674584022' lat='48.8167794264'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.87424' lat='48.84832'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000001' lon='19.88787' lat='48.84845'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000002' lon='19.90149' lat='48.84858'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000003' lon='19.91511' lat='48.84871'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000004' lon='19.92873' lat='48.84884'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000005' lon='19.87445' lat='48.83933'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000006' lon='19.88807' lat='48.83946'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000007' lon='19.90169' lat='48.83959'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000008' lon='19.91531' lat='48.83972'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000009' lon='19.92893' lat='48.83985'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000010' lon='19.87465' lat='48.83034'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000011' lon='19.88827' lat='48.83047'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000012' lon='19.90188' lat='48.83060'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000013' lon='19.91550' lat='48.83073'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000014' lon='19.92912' lat='48.83085'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000015' lon='19.87485' lat='48.82135'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000016' lon='19.88846' lat='48.82148'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000017' lon='19.90208' lat='48.82161'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000018' lon='19.91569' lat='48.82174'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+<node id='-10000019' lon='19.92931' lat='48.82186'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Volchovo'/><tag k='ele' v='856'/></node>
+</osm>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='22.1965299538' lat='48.8431134031'/>
+<node id='-20000001' lon='22.1973874779' lat='48.879074277'/>
+<node id='-20000002' lon='22.1975947121' lat='48.8793901053'/>
+<node id='-20000003' lon='22.198079845' lat='48.8795167776'/>
+<node id='-20000004' lon='22.2321558843' lat='48.8791576934'/>
+<node id='-20000005' lon='22.2662312398' lat='48.8787885418'/>
+<node id='-20000006' lon='22.2667098894' lat='48.8786515711'/>
+<node id='-20000007' lon='22.2669015008' lat='48.8783314812'/>
+<node id='-20000008' lon='22.2659942266' lat='48.8423715411'/>
+<node id='-20000009' lon='22.2657867183' lat='48.8420558311'/>
+<node id='-20000010' lon='22.265301776' lat='48.8419294393'/>
+<node id='-20000011' lon='22.1972003831' lat='48.8426567458'/>
+<node id='-20000012' lon='22.1967218822' lat='48.842793427'/>
+<node id='-20000013' lon='22.1965299538' lat='48.8431134031'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='22.20478' lat='48.87450'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000001' lon='22.21841' lat='48.87436'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000002' lon='22.23203' lat='48.87421'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000003' lon='22.24566' lat='48.87407'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000004' lon='22.25929' lat='48.87392'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000005' lon='22.20456' lat='48.86551'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000006' lon='22.21819' lat='48.86537'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000007' lon='22.23181' lat='48.86522'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000008' lon='22.24544' lat='48.86508'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000009' lon='22.25907' lat='48.86493'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000010' lon='22.24522' lat='48.85609'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000011' lon='22.20434' lat='48.85652'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000012' lon='22.21797' lat='48.85638'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000013' lon='22.23159' lat='48.85623'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000014' lon='22.25884' lat='48.85594'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000015' lon='22.20413' lat='48.84753'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000016' lon='22.21775' lat='48.84739'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000017' lon='22.23137' lat='48.84724'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000018' lon='22.24499' lat='48.84710'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+<node id='-10000019' lon='22.25862' lat='48.84695'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Jaseňovský vrch'/><tag k='ele' v='820'/></node>
+</osm>

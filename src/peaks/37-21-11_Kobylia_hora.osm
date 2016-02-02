@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.6701589038' lat='48.9207861817'/>
+<node id='-20000001' lon='20.6699217197' lat='48.9567538263'/>
+<node id='-20000002' lon='20.6701196021' lat='48.9570723361'/>
+<node id='-20000003' lon='20.6706015317' lat='48.9572054103'/>
+<node id='-20000004' lon='20.6842560125' lat='48.9572436095'/>
+<node id='-20000005' lon='20.6979105214' lat='48.9572801925'/>
+<node id='-20000006' lon='20.6983941154' lat='48.9571497623'/>
+<node id='-20000007' lon='20.6985960135' lat='48.9568323474'/>
+<node id='-20000008' lon='20.6986474937' lat='48.948290066'/>
+<node id='-20000009' lon='20.7389211568' lat='48.9483882999'/>
+<node id='-20000010' lon='20.739404558' lat='48.9482576974'/>
+<node id='-20000011' lon='20.7396061599' lat='48.9479402101'/>
+<node id='-20000012' lon='20.7396763591' lat='48.9344522644'/>
+<node id='-20000013' lon='20.739746506' lat='48.9209642871'/>
+<node id='-20000014' lon='20.7395483218' lat='48.920645894'/>
+<node id='-20000015' lon='20.739066559' lat='48.9205131071'/>
+<node id='-20000016' lon='20.6708441464' lat='48.9203384953'/>
+<node id='-20000017' lon='20.6703608342' lat='48.9204688123'/>
+<node id='-20000018' lon='20.6701589038' lat='48.9207861817'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+</way>
+<node id='-10000000' lon='20.67746' lat='48.95228'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000001' lon='20.69112' lat='48.95232'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000002' lon='20.67752' lat='48.94329'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000003' lon='20.69117' lat='48.94332'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000004' lon='20.70482' lat='48.94336'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000005' lon='20.71847' lat='48.94339'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000006' lon='20.73212' lat='48.94343'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000007' lon='20.67758' lat='48.93429'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000008' lon='20.69123' lat='48.93433'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000009' lon='20.70488' lat='48.93437'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000010' lon='20.71852' lat='48.93440'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000011' lon='20.73217' lat='48.93443'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000012' lon='20.67764' lat='48.92530'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000013' lon='20.69128' lat='48.92534'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000014' lon='20.70493' lat='48.92538'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000015' lon='20.71858' lat='48.92541'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+<node id='-10000016' lon='20.73222' lat='48.92544'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kobylia hora'/><tag k='ele' v='526'/></node>
+</osm>

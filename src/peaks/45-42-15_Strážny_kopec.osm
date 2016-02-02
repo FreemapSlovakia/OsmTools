@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.5903305891' lat='47.8977575503'/>
+<node id='-20000001' lon='18.5899132666' lat='47.9067432719'/>
+<node id='-20000002' lon='18.5900942945' lat='47.9070651994'/>
+<node id='-20000003' lon='18.5905608642' lat='47.9072067681'/>
+<node id='-20000004' lon='18.603256858' lat='47.9074726194'/>
+<node id='-20000005' lon='18.6024469865' lat='47.9249947248'/>
+<node id='-20000006' lon='18.6026281526' lat='47.9253166342'/>
+<node id='-20000007' lon='18.6030949211' lat='47.925458155'/>
+<node id='-20000008' lon='18.6699434363' lat='47.9268347548'/>
+<node id='-20000009' lon='18.6704222341' lat='47.9267127054'/>
+<node id='-20000010' lon='18.6706323872' lat='47.9263988533'/>
+<node id='-20000011' lon='18.6708342263' lat='47.9219057478'/>
+<node id='-20000012' lon='18.6710360162' lat='47.9174126383'/>
+<node id='-20000013' lon='18.6708544511' lat='47.9170908366'/>
+<node id='-20000014' lon='18.6703875717' lat='47.9169495922'/>
+<node id='-20000015' lon='18.6576886335' lat='47.9166911213'/>
+<node id='-20000016' lon='18.6584796211' lat='47.8991682846'/>
+<node id='-20000017' lon='18.6582981945' lat='47.8988464647'/>
+<node id='-20000018' lon='18.6578315138' lat='47.8987051722'/>
+<node id='-20000019' lon='18.5910198066' lat='47.8973221231'/>
+<node id='-20000020' lon='18.5905411009' lat='47.8974438449'/>
+<node id='-20000021' lon='18.5903305891' lat='47.8977575503'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+<nd ref='-20000019' />
+<nd ref='-20000020' />
+<nd ref='-20000021' />
+</way>
+<node id='-10000000' lon='18.61002' lat='47.92065'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000001' lon='18.62338' lat='47.92093'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000002' lon='18.63675' lat='47.92121'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000003' lon='18.65012' lat='47.92148'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000004' lon='18.66349' lat='47.92175'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000005' lon='18.61043' lat='47.91167'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000006' lon='18.62380' lat='47.91195'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000007' lon='18.63716' lat='47.91222'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000008' lon='18.65053' lat='47.91249'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000009' lon='18.59748' lat='47.90240'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000010' lon='18.61085' lat='47.90268'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000011' lon='18.62421' lat='47.90296'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000012' lon='18.63757' lat='47.90324'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+<node id='-10000013' lon='18.65094' lat='47.90351'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Strážny kopec'/><tag k='ele' v='159'/></node>
+</osm>

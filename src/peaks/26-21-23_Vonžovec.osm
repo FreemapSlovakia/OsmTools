@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.4642230502' lat='49.5314841104'/>
+<node id='-20000001' lon='19.4630951825' lat='49.5674355855'/>
+<node id='-20000002' lon='19.4632876086' lat='49.5677560872'/>
+<node id='-20000003' lon='19.463772129' lat='49.5678942191'/>
+<node id='-20000004' lon='19.4983207231' lat='49.5683477951'/>
+<node id='-20000005' lon='19.5328701805' lat='49.5687910606'/>
+<node id='-20000006' lon='19.5333627961' lat='49.5686656117'/>
+<node id='-20000007' lon='19.5335747326' lat='49.5683503593'/>
+<node id='-20000008' lon='19.5341131069' lat='49.550374075'/>
+<node id='-20000009' lon='19.5346509422' lat='49.5323977304'/>
+<node id='-20000010' lon='19.5344581822' lat='49.5320773447'/>
+<node id='-20000011' lon='19.5339738117' lat='49.5319395103'/>
+<node id='-20000012' lon='19.4649276846' lat='49.5310438138'/>
+<node id='-20000013' lon='19.4644352681' lat='49.5311689773'/>
+<node id='-20000014' lon='19.4642230502' lat='49.5314841104'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.47084' lat='49.56304'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000001' lon='19.48466' lat='49.56322'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000002' lon='19.49848' lat='49.56340'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000003' lon='19.51230' lat='49.56358'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000004' lon='19.52612' lat='49.56376'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000005' lon='19.47113' lat='49.55405'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000006' lon='19.48494' lat='49.55423'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000007' lon='19.49876' lat='49.55441'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000008' lon='19.51257' lat='49.55459'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000009' lon='19.52639' lat='49.55477'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000010' lon='19.47141' lat='49.54507'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000011' lon='19.48522' lat='49.54525'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000012' lon='19.49903' lat='49.54543'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000013' lon='19.51284' lat='49.54561'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000014' lon='19.52666' lat='49.54578'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000015' lon='19.47169' lat='49.53608'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000016' lon='19.48550' lat='49.53626'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000017' lon='19.49931' lat='49.53644'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000018' lon='19.51312' lat='49.53662'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+<node id='-10000019' lon='19.52693' lat='49.53679'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vonžovec'/><tag k='ele' v='1100'/></node>
+</osm>

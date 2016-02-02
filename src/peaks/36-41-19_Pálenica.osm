@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.5349902667' lat='48.5432473336'/>
+<node id='-20000001' lon='19.533951148' lat='48.5792061586'/>
+<node id='-20000002' lon='19.5341404106' lat='48.5795265979'/>
+<node id='-20000003' lon='19.5346157246' lat='48.5796643814'/>
+<node id='-20000004' lon='19.6023586546' lat='48.580506785'/>
+<node id='-20000005' lon='19.6028414237' lat='48.5803809155'/>
+<node id='-20000006' lon='19.6030486519' lat='48.5800654065'/>
+<node id='-20000007' lon='19.6035439892' lat='48.5620854846'/>
+<node id='-20000008' lon='19.6040388384' lat='48.5441055027'/>
+<node id='-20000009' lon='19.6038492618' lat='48.5437851778'/>
+<node id='-20000010' lon='19.6033740942' lat='48.5436476825'/>
+<node id='-20000011' lon='19.5356803353' lat='48.5428063519'/>
+<node id='-20000012' lon='19.5351977599' lat='48.5429319438'/>
+<node id='-20000013' lon='19.5349902667' lat='48.5432473336'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-30000000' lon='19.5976504109' lat='48.5587818091'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='876'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='19.5975796939' lat='48.5480709718'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='876'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='19.5913292164' lat='48.5574286721'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='876'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='19.5911144473' lat='48.5508351148'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Pálenica'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='876'/><tag k='source' v='kapor2'/></node>
+</osm>

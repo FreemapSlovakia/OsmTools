@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.1262050281' lat='48.5143256001'/>
+<node id='-20000001' lon='17.1248342531' lat='48.5322698601'/>
+<node id='-20000002' lon='17.1250080302' lat='48.5325940855'/>
+<node id='-20000003' lon='17.1254761068' lat='48.5327417358'/>
+<node id='-20000004' lon='17.1383092778' lat='48.5331735823'/>
+<node id='-20000005' lon='17.1376599651' lat='48.5416967365'/>
+<node id='-20000006' lon='17.1378338534' lat='48.5420209435'/>
+<node id='-20000007' lon='17.1383020535' lat='48.5421685438'/>
+<node id='-20000008' lon='17.1923523518' lat='48.5439715303'/>
+<node id='-20000009' lon='17.1928404904' lat='48.5438558307'/>
+<node id='-20000010' lon='17.1930624429' lat='48.5435448272'/>
+<node id='-20000011' lon='17.1944096493' lat='48.5255991667'/>
+<node id='-20000012' lon='17.1957555314' lat='48.5076534218'/>
+<node id='-20000013' lon='17.1955813783' lat='48.5073293046'/>
+<node id='-20000014' lon='17.1951133282' lat='48.5071819453'/>
+<node id='-20000015' lon='17.1883616196' lat='48.5069582419'/>
+<node id='-20000016' lon='17.181609994' lat='48.5067341433'/>
+<node id='-20000017' lon='17.1811221945' lat='48.5068498041'/>
+<node id='-20000018' lon='17.1809003434' lat='48.5071607885'/>
+<node id='-20000019' lon='17.1802587665' lat='48.5156844174'/>
+<node id='-20000020' lon='17.1269152417' lat='48.5138992964'/>
+<node id='-20000021' lon='17.1264272482' lat='48.5140147229'/>
+<node id='-20000022' lon='17.1262050281' lat='48.5143256001'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+<nd ref='-20000018' />
+<nd ref='-20000019' />
+<nd ref='-20000020' />
+<nd ref='-20000021' />
+<nd ref='-20000022' />
+</way>
+<node id='-10000000' lon='17.14543' lat='48.53745'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000001' lon='17.15894' lat='48.53791'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000002' lon='17.17245' lat='48.53836'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000003' lon='17.18597' lat='48.53881'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000004' lon='17.13261' lat='48.52803'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000005' lon='17.14612' lat='48.52848'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000006' lon='17.15962' lat='48.52893'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000007' lon='17.17313' lat='48.52938'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000008' lon='17.18664' lat='48.52983'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000009' lon='17.13329' lat='48.51906'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000010' lon='17.14680' lat='48.51951'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000011' lon='17.16030' lat='48.51996'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000012' lon='17.17381' lat='48.52041'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000013' lon='17.18732' lat='48.52086'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+<node id='-10000014' lon='17.18799' lat='48.51189'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Matiašov vŕšok'/><tag k='ele' v='207'/></node>
+</osm>

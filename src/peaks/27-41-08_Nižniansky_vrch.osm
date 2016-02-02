@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.8051664456' lat='49.2897575278'/>
+<node id='-20000001' lon='20.8050244693' lat='49.3257232522'/>
+<node id='-20000002' lon='20.8052246706' lat='49.3260414873'/>
+<node id='-20000003' lon='20.8057105132' lat='49.3261739829'/>
+<node id='-20000004' lon='20.8401014666' lat='49.3262267217'/>
+<node id='-20000005' lon='20.8744925107' lat='49.3262692273'/>
+<node id='-20000006' lon='20.8749792077' lat='49.3261380787'/>
+<node id='-20000007' lon='20.8751814701' lat='49.3258204016'/>
+<node id='-20000008' lon='20.8752269625' lat='49.3078375063'/>
+<node id='-20000009' lon='20.8752724096' lat='49.2898545547'/>
+<node id='-20000010' lon='20.8750719023' lat='49.2895364371'/>
+<node id='-20000011' lon='20.8745862305' lat='49.2894042314'/>
+<node id='-20000012' lon='20.8058555321' lat='49.2893091069'/>
+<node id='-20000013' lon='20.8053690093' lat='49.2894399673'/>
+<node id='-20000014' lon='20.8051664456' lat='49.2897575278'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.81262' lat='49.32124'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000001' lon='20.82637' lat='49.32126'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000002' lon='20.84013' lat='49.32128'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000003' lon='20.85388' lat='49.32130'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000004' lon='20.86764' lat='49.32132'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000005' lon='20.81265' lat='49.31225'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000006' lon='20.82640' lat='49.31227'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000007' lon='20.84015' lat='49.31229'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000008' lon='20.85391' lat='49.31231'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000009' lon='20.86766' lat='49.31233'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000010' lon='20.81268' lat='49.30326'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000011' lon='20.82643' lat='49.30328'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000012' lon='20.84018' lat='49.30330'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000013' lon='20.85393' lat='49.30332'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000014' lon='20.86768' lat='49.30333'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000015' lon='20.81272' lat='49.29427'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000016' lon='20.82646' lat='49.29429'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000017' lon='20.84021' lat='49.29431'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000018' lon='20.85396' lat='49.29433'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+<node id='-10000019' lon='20.86771' lat='49.29434'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nižniansky vrch'/><tag k='ele' v='693'/></node>
+</osm>

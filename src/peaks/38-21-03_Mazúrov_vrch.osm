@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='22.1314663225' lat='48.9786553993'/>
+<node id='-20000001' lon='22.1322810956' lat='49.0146162554'/>
+<node id='-20000002' lon='22.1324884906' lat='49.0149321815'/>
+<node id='-20000003' lon='22.1329747686' lat='49.0150591118'/>
+<node id='-20000004' lon='22.1671440345' lat='49.0147185602'/>
+<node id='-20000005' lon='22.2013126482' lat='49.0143678925'/>
+<node id='-20000006' lon='22.2017927557' lat='49.0142311876'/>
+<node id='-20000007' lon='22.2019852817' lat='49.0139112168'/>
+<node id='-20000008' lon='22.2011203825' lat='48.9779512476'/>
+<node id='-20000009' lon='22.20091271' lat='48.9776354399'/>
+<node id='-20000010' lon='22.2004266225' lat='48.9775087915'/>
+<node id='-20000011' lon='22.1321391245' lat='48.9781991278'/>
+<node id='-20000012' lon='22.1316591672' lat='48.9783355424'/>
+<node id='-20000013' lon='22.1314663225' lat='48.9786553993'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='22.13970' lat='49.01005'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000001' lon='22.15337' lat='49.00991'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000002' lon='22.16703' lat='49.00977'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000003' lon='22.18070' lat='49.00964'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000004' lon='22.19436' lat='49.00950'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000005' lon='22.13949' lat='49.00106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000006' lon='22.15316' lat='49.00092'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000007' lon='22.16682' lat='49.00079'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000008' lon='22.18049' lat='49.00065'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000009' lon='22.19415' lat='49.00050'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000010' lon='22.13929' lat='48.99207'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000011' lon='22.15295' lat='48.99193'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000012' lon='22.16661' lat='48.99180'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000013' lon='22.18027' lat='48.99166'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000014' lon='22.19393' lat='48.99151'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000015' lon='22.13908' lat='48.98308'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000016' lon='22.15274' lat='48.98294'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000017' lon='22.16640' lat='48.98280'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000018' lon='22.18006' lat='48.98267'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+<node id='-10000019' lon='22.19372' lat='48.98253'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Mazúrov vrch'/><tag k='ele' v='498'/></node>
+</osm>

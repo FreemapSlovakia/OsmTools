@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.2613717952' lat='48.882923223'/>
+<node id='-20000001' lon='20.2608415048' lat='48.9188887064'/>
+<node id='-20000002' lon='20.2610366369' lat='48.9192079183'/>
+<node id='-20000003' lon='20.2615171142' lat='48.9193427003'/>
+<node id='-20000004' lon='20.2956253999' lat='48.9195561012'/>
+<node id='-20000005' lon='20.3297340773' lat='48.9197594159'/>
+<node id='-20000006' lon='20.3302182666' lat='48.9196305269'/>
+<node id='-20000007' lon='20.3304223452' lat='48.9193137541'/>
+<node id='-20000008' lon='20.3306626622' lat='48.9013307737'/>
+<node id='-20000009' lon='20.330902741' lat='48.8833477361'/>
+<node id='-20000010' lon='20.3307073008' lat='48.8830286403'/>
+<node id='-20000011' lon='20.3302269834' lat='48.8828941469'/>
+<node id='-20000012' lon='20.2620601645' lat='48.882477962'/>
+<node id='-20000013' lon='20.2615761577' lat='48.882606568'/>
+<node id='-20000014' lon='20.2613717952' lat='48.882923223'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='20.3008646969' lat='48.9011634661'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Kopanec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1132'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='20.2905916485' lat='48.8988395545'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Kopanec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1132'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='20.2861906673' lat='48.8967790911'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Kopanec'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='1132'/><tag k='source' v='kapor2'/></node>
+</osm>

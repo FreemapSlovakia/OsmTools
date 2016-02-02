@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.1339860546' lat='48.8852121177'/>
+<node id='-20000001' lon='21.1340580982' lat='48.9121884143'/>
+<node id='-20000002' lon='21.1342587524' lat='48.9125061241'/>
+<node id='-20000003' lon='21.1347414767' lat='48.9126372581'/>
+<node id='-20000004' lon='21.1688476988' lat='48.9125924131'/>
+<node id='-20000005' lon='21.202953827' lat='48.9125374824'/>
+<node id='-20000006' lon='21.2034356621' lat='48.9124049378'/>
+<node id='-20000007' lon='21.2036341743' lat='48.9120866445'/>
+<node id='-20000008' lon='21.2035247055' lat='48.8851104438'/>
+<node id='-20000009' lon='21.2033237221' lat='48.8847928521'/>
+<node id='-20000010' lon='21.2028410856' lat='48.8846620039'/>
+<node id='-20000011' lon='21.1346666547' lat='48.8847616828'/>
+<node id='-20000012' lon='21.1341849013' lat='48.8848939411'/>
+<node id='-20000013' lon='21.1339860546' lat='48.8852121177'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.14155' lat='48.90768'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000001' lon='21.15519' lat='48.90767'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000002' lon='21.16883' lat='48.90765'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000003' lon='21.18248' lat='48.90763'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000004' lon='21.19612' lat='48.90760'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000005' lon='21.15517' lat='48.89867'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000006' lon='21.14153' lat='48.89869'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000007' lon='21.16880' lat='48.89865'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000008' lon='21.18244' lat='48.89863'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000009' lon='21.19608' lat='48.89861'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000010' lon='21.14150' lat='48.88970'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000011' lon='21.15514' lat='48.88968'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000012' lon='21.16877' lat='48.88966'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000013' lon='21.18241' lat='48.88964'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+<node id='-10000014' lon='21.19605' lat='48.88962'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kuncov vrch'/><tag k='ele' v='503'/></node>
+</osm>

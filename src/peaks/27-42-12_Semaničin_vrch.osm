@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.0662983801' lat='49.2539369361'/>
+<node id='-20000001' lon='21.0663464935' lat='49.2899030694'/>
+<node id='-20000002' lon='21.0665482313' lat='49.2902208522'/>
+<node id='-20000003' lon='21.06703442' lat='49.2903522497'/>
+<node id='-20000004' lon='21.1014005495' lat='49.2903272481'/>
+<node id='-20000005' lon='21.1357666214' lat='49.2902920261'/>
+<node id='-20000006' lon='21.1362522686' lat='49.2901597774'/>
+<node id='-20000007' lon='21.1364527035' lat='49.2898416428'/>
+<node id='-20000008' lon='21.1364031543' lat='49.271858643'/>
+<node id='-20000009' lon='21.1363536544' lat='49.2538755869'/>
+<node id='-20000010' lon='21.1361516156' lat='49.2535579216'/>
+<node id='-20000011' lon='21.1356656019' lat='49.2534268128'/>
+<node id='-20000012' lon='21.066984598' lat='49.2534869577'/>
+<node id='-20000013' lon='21.0664991203' lat='49.2536189175'/>
+<node id='-20000014' lon='21.0662983801' lat='49.2539369361'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='21.07391' lat='49.28540'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000001' lon='21.08765' lat='49.28540'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000002' lon='21.10140' lat='49.28538'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000003' lon='21.11514' lat='49.28537'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000004' lon='21.12889' lat='49.28536'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000005' lon='21.07389' lat='49.27641'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000006' lon='21.08764' lat='49.27640'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000007' lon='21.10138' lat='49.27639'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000008' lon='21.11512' lat='49.27638'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000009' lon='21.12887' lat='49.27636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000010' lon='21.07388' lat='49.26742'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000011' lon='21.08762' lat='49.26741'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000012' lon='21.10136' lat='49.26740'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000013' lon='21.11510' lat='49.26739'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000014' lon='21.12884' lat='49.26737'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000015' lon='21.07387' lat='49.25843'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000016' lon='21.08760' lat='49.25842'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000017' lon='21.10134' lat='49.25841'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000018' lon='21.11508' lat='49.25840'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+<node id='-10000019' lon='21.12882' lat='49.25838'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Semaničin vrch'/><tag k='ele' v='775'/></node>
+</osm>

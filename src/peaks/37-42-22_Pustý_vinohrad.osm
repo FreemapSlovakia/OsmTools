@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.0653328716' lat='48.5165815591'/>
+<node id='-20000001' lon='21.0653675078' lat='48.5435596458'/>
+<node id='-20000002' lon='21.0655662719' lat='48.5438775058'/>
+<node id='-20000003' lon='21.0660453158' lat='48.5440089412'/>
+<node id='-20000004' lon='21.0999032418' lat='48.543984584'/>
+<node id='-20000005' lon='21.1337611134' lat='48.5439502701'/>
+<node id='-20000006' lon='21.1342396383' lat='48.5438180051'/>
+<node id='-20000007' lon='21.1344371523' lat='48.5434998018'/>
+<node id='-20000008' lon='21.1343420884' lat='48.5075290663'/>
+<node id='-20000009' lon='21.1341430366' lat='48.5072113229'/>
+<node id='-20000010' lon='21.1336641636' lat='48.5070801696'/>
+<node id='-20000011' lon='21.0795308491' lat='48.5071302287'/>
+<node id='-20000012' lon='21.0790525268' lat='48.5072622672'/>
+<node id='-20000013' lon='21.0788548064' lat='48.5075803776'/>
+<node id='-20000014' lon='21.0788680387' lat='48.5161234154'/>
+<node id='-20000015' lon='21.0660091536' lat='48.5161314904'/>
+<node id='-20000016' lon='21.0655307116' lat='48.5162634724'/>
+<node id='-20000017' lon='21.0653328716' lat='48.5165815591'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+<nd ref='-20000015' />
+<nd ref='-20000016' />
+<nd ref='-20000017' />
+</way>
+<node id='-10000000' lon='21.07281' lat='48.53906'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000001' lon='21.08635' lat='48.53905'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000002' lon='21.09989' lat='48.53904'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000003' lon='21.11343' lat='48.53902'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000004' lon='21.12698' lat='48.53901'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000005' lon='21.07280' lat='48.53006'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000006' lon='21.08634' lat='48.53005'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000007' lon='21.09988' lat='48.53004'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000008' lon='21.11341' lat='48.53003'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000009' lon='21.12695' lat='48.53002'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000010' lon='21.07278' lat='48.52107'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000011' lon='21.08632' lat='48.52106'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000012' lon='21.09986' lat='48.52105'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000013' lon='21.11339' lat='48.52104'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000014' lon='21.12693' lat='48.52102'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000015' lon='21.08630' lat='48.51207'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000016' lon='21.09984' lat='48.51206'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000017' lon='21.11337' lat='48.51205'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+<node id='-10000018' lon='21.12691' lat='48.51203'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Pustý vinohrad'/><tag k='ele' v='300'/></node>
+</osm>

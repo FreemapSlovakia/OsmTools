@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.0038167333' lat='48.7833836148'/>
+<node id='-20000001' lon='18.0016744049' lat='48.8193034448'/>
+<node id='-20000002' lon='18.0018547235' lat='48.8196263429'/>
+<node id='-20000003' lon='18.0023279884' lat='48.8197704665'/>
+<node id='-20000004' lon='18.0703245887' lat='48.8215201844'/>
+<node id='-20000005' lon='18.07081342' lat='48.8214008178'/>
+<node id='-20000006' lon='18.0710312506' lat='48.8210881648'/>
+<node id='-20000007' lon='18.0720782417' lat='48.8031271657'/>
+<node id='-20000008' lon='18.0731241982' lat='48.7851660938'/>
+<node id='-20000009' lon='18.0729435356' lat='48.784843308'/>
+<node id='-20000010' lon='18.0724703927' lat='48.7846994802'/>
+<node id='-20000011' lon='18.004523415' lat='48.7829519912'/>
+<node id='-20000012' lon='18.0040348051' lat='48.7830710841'/>
+<node id='-20000013' lon='18.0038167333' lat='48.7833836148'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.00942' lat='48.81500'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000001' lon='18.02302' lat='48.81535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000002' lon='18.03662' lat='48.81571'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000003' lon='18.05022' lat='48.81605'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000004' lon='18.06381' lat='48.81640'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000005' lon='18.00996' lat='48.80602'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000006' lon='18.02355' lat='48.80638'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000007' lon='18.03715' lat='48.80673'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000008' lon='18.05074' lat='48.80707'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000009' lon='18.06434' lat='48.80742'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000010' lon='18.01049' lat='48.79704'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000011' lon='18.02408' lat='48.79740'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000012' lon='18.03768' lat='48.79774'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000013' lon='18.05127' lat='48.79809'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000014' lon='18.06486' lat='48.79844'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000015' lon='18.01103' lat='48.78806'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000016' lon='18.02462' lat='48.78841'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000017' lon='18.03821' lat='48.78876'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000018' lon='18.05180' lat='48.78911'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+<node id='-10000019' lon='18.06539' lat='48.78946'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Čierny vrch'/><tag k='ele' v='591'/></node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.2620703809' lat='48.2066928295'/>
+<node id='-20000001' lon='19.2611569941' lat='48.2336599568'/>
+<node id='-20000002' lon='19.2613433171' lat='48.2339808368'/>
+<node id='-20000003' lon='19.2618146929' lat='48.2341197117'/>
+<node id='-20000004' lon='19.3290915636' lat='48.2351174344'/>
+<node id='-20000005' lon='19.3295717095' lat='48.2349926704'/>
+<node id='-20000006' lon='19.3297791664' lat='48.2346776296'/>
+<node id='-20000007' lon='19.330218018' lat='48.2211936048'/>
+<node id='-20000008' lon='19.3306565469' lat='48.2077095453'/>
+<node id='-20000009' lon='19.3304698822' lat='48.2073887779'/>
+<node id='-20000010' lon='19.3299985651' lat='48.2072501871'/>
+<node id='-20000011' lon='19.2627581672' lat='48.2062534217'/>
+<node id='-20000012' lon='19.2622781321' lat='48.2063779095'/>
+<node id='-20000013' lon='19.2620703809' lat='48.2066928295'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.26871' lat='48.22927'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000001' lon='19.28217' lat='48.22948'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000002' lon='19.29562' lat='48.22968'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000003' lon='19.30907' lat='48.22987'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000004' lon='19.32253' lat='48.23007'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000005' lon='19.26902' lat='48.22028'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000006' lon='19.28247' lat='48.22049'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000007' lon='19.29592' lat='48.22069'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000008' lon='19.30937' lat='48.22089'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000009' lon='19.32282' lat='48.22108'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000010' lon='19.26932' lat='48.21129'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000011' lon='19.28277' lat='48.21150'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000012' lon='19.29622' lat='48.21170'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000013' lon='19.30967' lat='48.21190'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+<node id='-10000014' lon='19.32312' lat='48.21209'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Peniažok'/><tag k='ele' v='375'/></node>
+</osm>

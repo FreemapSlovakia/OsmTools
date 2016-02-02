@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.9383744739' lat='48.6825661536'/>
+<node id='-20000001' lon='19.9378070405' lat='48.7095388356'/>
+<node id='-20000002' lon='19.9379993349' lat='48.7098586026'/>
+<node id='-20000003' lon='19.9384769632' lat='48.7099947225'/>
+<node id='-20000004' lon='19.9656478276' lat='48.7102419037'/>
+<node id='-20000005' lon='19.9928190562' lat='48.7104826784'/>
+<node id='-20000006' lon='19.9933020936' lat='48.7103551846'/>
+<node id='-20000007' lon='19.9935074279' lat='48.7100389881'/>
+<node id='-20000008' lon='19.9937763753' lat='48.6965524278'/>
+<node id='-20000009' lon='19.9940451233' lat='48.6830658347'/>
+<node id='-20000010' lon='19.9938525734' lat='48.6827461603'/>
+<node id='-20000011' lon='19.9933750522' lat='48.6826102709'/>
+<node id='-20000012' lon='19.9390629401' lat='48.6821227835'/>
+<node id='-20000013' lon='19.9385800366' lat='48.6822500524'/>
+<node id='-20000014' lon='19.9383744739' lat='48.6825661536'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.94537' lat='48.70511'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000001' lon='19.95896' lat='48.70523'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000002' lon='19.97254' lat='48.70535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000003' lon='19.98613' lat='48.70547'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000004' lon='19.94556' lat='48.69612'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000005' lon='19.95914' lat='48.69624'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000006' lon='19.97273' lat='48.69636'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000007' lon='19.98631' lat='48.69648'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000008' lon='19.94575' lat='48.68713'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000009' lon='19.95933' lat='48.68725'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000010' lon='19.97291' lat='48.68737'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+<node id='-10000011' lon='19.98649' lat='48.68749'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Šarkanica'/><tag k='ele' v='1151'/></node>
+</osm>

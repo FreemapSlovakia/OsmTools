@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.8719496953' lat='48.9809085533'/>
+<node id='-20000001' lon='21.8725776322' lat='49.0168722483'/>
+<node id='-20000002' lon='21.8727833926' lat='49.0171886405'/>
+<node id='-20000003' lon='21.8732690314' lat='49.017316665'/>
+<node id='-20000004' lon='21.9074426299' lat='49.0170530097'/>
+<node id='-20000005' lon='21.9416157213' lat='49.0167792351'/>
+<node id='-20000006' lon='21.9420965621' lat='49.016643611'/>
+<node id='-20000007' lon='21.9422907616' lat='49.0163240742'/>
+<node id='-20000008' lon='21.9416126753' lat='48.9803610688'/>
+<node id='-20000009' lon='21.9414066328' lat='48.9800447948'/>
+<node id='-20000010' lon='21.9409211804' lat='48.9799170533'/>
+<node id='-20000011' lon='21.8726248951' lat='48.9804537964'/>
+<node id='-20000012' lon='21.8721442089' lat='48.980589131'/>
+<node id='-20000013' lon='21.8719496953' lat='48.9809085533'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='21.88002' lat='49.01232'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000001' lon='21.89369' lat='49.01222'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000002' lon='21.90736' lat='49.01211'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000003' lon='21.92102' lat='49.01200'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000004' lon='21.93469' lat='49.01189'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000005' lon='21.87986' lat='49.00333'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000006' lon='21.89353' lat='49.00323'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000007' lon='21.90719' lat='49.00312'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000008' lon='21.92086' lat='49.00301'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000009' lon='21.93452' lat='49.00290'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000010' lon='21.87970' lat='48.99434'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000011' lon='21.89337' lat='48.99423'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000012' lon='21.90703' lat='48.99413'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000013' lon='21.92069' lat='48.99402'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000014' lon='21.93436' lat='48.99391'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000015' lon='21.87955' lat='48.98535'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000016' lon='21.89320' lat='48.98524'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000017' lon='21.90687' lat='48.98514'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000018' lon='21.92053' lat='48.98503'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+<node id='-10000019' lon='21.93419' lat='48.98492'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Nad Černovou           1'/><tag k='ele' v='366'/></node>
+</osm>

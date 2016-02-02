@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.874209668' lat='49.1225820666'/>
+<node id='-20000001' lon='19.8733946557' lat='49.1585420866'/>
+<node id='-20000002' lon='19.873588213' lat='49.1588619356'/>
+<node id='-20000003' lon='19.8740699274' lat='49.1589983381'/>
+<node id='-20000004' lon='19.9014849878' lat='49.1592624552'/>
+<node id='-20000005' lon='19.9289004439' lat='49.1595200647'/>
+<node id='-20000006' lon='19.9293879938' lat='49.1593928852'/>
+<node id='-20000007' lon='19.9295956195' lat='49.1590768541'/>
+<node id='-20000008' lon='19.929983006' lat='49.1410965368'/>
+<node id='-20000009' lon='19.9303700071' lat='49.1231161609'/>
+<node id='-20000010' lon='19.9301762192' lat='49.1227964047'/>
+<node id='-20000011' lon='19.929694698' lat='49.1226602373'/>
+<node id='-20000012' lon='19.874904814' lat='49.1221391758'/>
+<node id='-20000013' lon='19.8744174884' lat='49.1222661295'/>
+<node id='-20000014' lon='19.874209668' lat='49.1225820666'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='19.88104' lat='49.15412'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000001' lon='19.89475' lat='49.15425'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000002' lon='19.90845' lat='49.15438'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000003' lon='19.92216' lat='49.15451'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000004' lon='19.88124' lat='49.14513'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000005' lon='19.89495' lat='49.14526'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000006' lon='19.90865' lat='49.14539'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000007' lon='19.92235' lat='49.14552'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000008' lon='19.88144' lat='49.13614'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000009' lon='19.89515' lat='49.13627'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000010' lon='19.90885' lat='49.13640'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000011' lon='19.92255' lat='49.13653'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000012' lon='19.88165' lat='49.12715'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000013' lon='19.89535' lat='49.12728'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000014' lon='19.90904' lat='49.12741'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+<node id='-10000015' lon='19.92274' lat='49.12754'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Surový hrádok'/><tag k='ele' v='1016'/></node>
+</osm>

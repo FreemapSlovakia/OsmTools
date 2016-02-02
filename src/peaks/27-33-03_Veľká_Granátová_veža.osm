@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.1338503021' lat='49.1607899626'/>
+<node id='-20000001' lon='20.133379471' lat='49.1877619494'/>
+<node id='-20000002' lon='20.1335748117' lat='49.1880813559'/>
+<node id='-20000003' lon='20.1340575147' lat='49.1882166722'/>
+<node id='-20000004' lon='20.1683492131' lat='49.1884687514'/>
+<node id='-20000005' lon='20.2026413804' lat='49.1887106497'/>
+<node id='-20000006' lon='20.2031285074' lat='49.1885823189'/>
+<node id='-20000007' lon='20.2033345107' lat='49.1882658036'/>
+<node id='-20000008' lon='20.2035510155' lat='49.1747795884'/>
+<node id='-20000009' lon='20.2037673587' lat='49.1612933409'/>
+<node id='-20000010' lon='20.2035716693' lat='49.1609740513'/>
+<node id='-20000011' lon='20.2030890395' lat='49.1608390258'/>
+<node id='-20000012' lon='20.1345436602' lat='49.1603455223'/>
+<node id='-20000013' lon='20.1340566308' lat='49.1604735668'/>
+<node id='-20000014' lon='20.1338503021' lat='49.1607899626'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.14101' lat='49.18332'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000001' lon='20.15472' lat='49.18342'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000002' lon='20.16844' lat='49.18352'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000003' lon='20.18215' lat='49.18362'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000004' lon='20.19587' lat='49.18372'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000005' lon='20.14116' lat='49.17433'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000006' lon='20.15488' lat='49.17443'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000007' lon='20.16859' lat='49.17453'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000008' lon='20.18230' lat='49.17463'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000009' lon='20.19601' lat='49.17473'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000010' lon='20.14132' lat='49.16534'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000011' lon='20.15503' lat='49.16544'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000012' lon='20.16874' lat='49.16554'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000013' lon='20.18245' lat='49.16564'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+<node id='-10000014' lon='20.19616' lat='49.16574'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Veľká Granátová veža'/><tag k='ele' v='2318'/></node>
+</osm>

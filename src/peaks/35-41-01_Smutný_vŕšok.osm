@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.9982602929' lat='48.6483289104'/>
+<node id='-20000001' lon='17.9961241621' lat='48.6842494027'/>
+<node id='-20000002' lon='17.9963040009' lat='48.6845723051'/>
+<node id='-20000003' lon='17.9967759974' lat='48.6847164284'/>
+<node id='-20000004' lon='18.0645902452' lat='48.6864658964'/>
+<node id='-20000005' lon='18.065077764' lat='48.6863465264'/>
+<node id='-20000006' lon='18.0652950081' lat='48.6860338676'/>
+<node id='-20000007' lon='18.0663390801' lat='48.6680725383'/>
+<node id='-20000008' lon='18.0673821227' lat='48.6501111359'/>
+<node id='-20000009' lon='18.0672019425' lat='48.6497883456'/>
+<node id='-20000010' lon='18.0667300674' lat='48.6496445168'/>
+<node id='-20000011' lon='17.998965074' lat='48.6478972765'/>
+<node id='-20000012' lon='17.9984777759' lat='48.6480163739'/>
+<node id='-20000013' lon='17.9982602929' lat='48.6483289104'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.00385' lat='48.67995'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000001' lon='18.01741' lat='48.68030'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000002' lon='18.03097' lat='48.68065'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000003' lon='18.04454' lat='48.68100'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000004' lon='18.05810' lat='48.68135'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000005' lon='18.00438' lat='48.67097'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000006' lon='18.01794' lat='48.67132'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000007' lon='18.03150' lat='48.67167'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000008' lon='18.04506' lat='48.67202'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000009' lon='18.05862' lat='48.67237'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000010' lon='18.00492' lat='48.66199'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000011' lon='18.01847' lat='48.66234'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000012' lon='18.03203' lat='48.66269'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000013' lon='18.04559' lat='48.66304'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000014' lon='18.05914' lat='48.66339'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000015' lon='18.00545' lat='48.65301'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000016' lon='18.01900' lat='48.65336'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000017' lon='18.03256' lat='48.65371'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000018' lon='18.04611' lat='48.65406'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+<node id='-10000019' lon='18.05967' lat='48.65441'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Smutný vŕšok'/><tag k='ele' v='603'/></node>
+</osm>

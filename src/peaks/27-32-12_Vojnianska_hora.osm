@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='20.4068620078' lat='49.2614241589'/>
+<node id='-20000001' lon='20.406430433' lat='49.297388337'/>
+<node id='-20000002' lon='20.4066279547' lat='49.2977072654'/>
+<node id='-20000003' lon='20.4071124532' lat='49.297841437'/>
+<node id='-20000004' lon='20.4414821562' lat='49.298012708'/>
+<node id='-20000005' lon='20.4758521759' lat='49.2981737573'/>
+<node id='-20000006' lon='20.4763396566' lat='49.298044285'/>
+<node id='-20000007' lon='20.476544367' lat='49.2977273018'/>
+<node id='-20000008' lon='20.4767347746' lat='49.2797450276'/>
+<node id='-20000009' lon='20.4769249924' lat='49.2617626967'/>
+<node id='-20000010' lon='20.4767271582' lat='49.261443885'/>
+<node id='-20000011' lon='20.4762428239' lat='49.2613100048'/>
+<node id='-20000012' lon='20.4075543113' lat='49.2609781075'/>
+<node id='-20000013' lon='20.4070670118' lat='49.2611072931'/>
+<node id='-20000014' lon='20.4068620078' lat='49.2614241589'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-10000000' lon='20.41405' lat='49.29293'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000001' lon='20.42780' lat='49.29300'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000002' lon='20.44155' lat='49.29307'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000003' lon='20.45529' lat='49.29313'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000004' lon='20.46904' lat='49.29320'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000005' lon='20.41416' lat='49.28394'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000006' lon='20.42790' lat='49.28401'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000007' lon='20.44165' lat='49.28408'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000008' lon='20.45539' lat='49.28414'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000009' lon='20.46914' lat='49.28421'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000010' lon='20.41427' lat='49.27495'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000011' lon='20.42801' lat='49.27502'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000012' lon='20.44175' lat='49.27509'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000013' lon='20.45549' lat='49.27515'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000014' lon='20.46923' lat='49.27522'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000015' lon='20.41437' lat='49.26596'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000016' lon='20.42811' lat='49.26603'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000017' lon='20.44185' lat='49.26609'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000018' lon='20.45559' lat='49.26616'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+<node id='-10000019' lon='20.46933' lat='49.26622'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Vojnianska hora'/><tag k='ele' v='930'/></node>
+</osm>

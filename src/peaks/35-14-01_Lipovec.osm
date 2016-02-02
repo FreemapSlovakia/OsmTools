@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='17.6612002755' lat='48.8189292687'/>
+<node id='-20000001' lon='17.6588102583' lat='48.8548369673'/>
+<node id='-20000002' lon='17.658988484' lat='48.8551603995'/>
+<node id='-20000003' lon='17.659461088' lat='48.8553059373'/>
+<node id='-20000004' lon='17.7274836133' lat='48.8572588994'/>
+<node id='-20000005' lon='17.7279736068' lat='48.8571409981'/>
+<node id='-20000006' lon='17.7281937376' lat='48.8568290026'/>
+<node id='-20000007' lon='17.7293646181' lat='48.8388739415'/>
+<node id='-20000008' lon='17.7305343414' lat='48.820918803'/>
+<node id='-20000009' lon='17.7303557654' lat='48.8205954826'/>
+<node id='-20000010' lon='17.7298832777' lat='48.8204502419'/>
+<node id='-20000011' lon='17.6619104077' lat='48.8184997674'/>
+<node id='-20000012' lon='17.6614206417' lat='48.8186173962'/>
+<node id='-20000013' lon='17.6612002755' lat='48.8189292687'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='17.66659' lat='48.85056'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000001' lon='17.68019' lat='48.85095'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000002' lon='17.69380' lat='48.85134'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000003' lon='17.70740' lat='48.85173'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000004' lon='17.72100' lat='48.85212'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000005' lon='17.66719' lat='48.84158'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000006' lon='17.68079' lat='48.84197'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000007' lon='17.69439' lat='48.84237'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000008' lon='17.70799' lat='48.84276'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000009' lon='17.72159' lat='48.84314'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000010' lon='17.66778' lat='48.83261'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000011' lon='17.68138' lat='48.83300'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000012' lon='17.69498' lat='48.83339'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000013' lon='17.70858' lat='48.83378'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000014' lon='17.72218' lat='48.83417'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000015' lon='17.66838' lat='48.82363'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000016' lon='17.68198' lat='48.82402'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000017' lon='17.69557' lat='48.82441'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000018' lon='17.70917' lat='48.82480'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+<node id='-10000019' lon='17.72276' lat='48.82519'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Lipovec'/><tag k='ele' v='585'/></node>
+</osm>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='21.0664914122' lat='49.3978001195'/>
+<node id='-20000001' lon='21.0665277781' lat='49.4247740659'/>
+<node id='-20000002' lon='21.0667300629' lat='49.4250918289'/>
+<node id='-20000003' lon='21.0672175656' lat='49.4252232171'/>
+<node id='-20000004' lon='21.1016777975' lat='49.4251980969'/>
+<node id='-20000005' lon='21.1361379712' lat='49.425162708'/>
+<node id='-20000006' lon='21.1366249282' lat='49.4250304646'/>
+<node id='-20000007' lon='21.1368259002' lat='49.4247123482'/>
+<node id='-20000008' lon='21.1367884548' lat='49.4112254201'/>
+<node id='-20000009' lon='21.1367510374' lat='49.3977384603'/>
+<node id='-20000010' lon='21.1365484125' lat='49.3974208164'/>
+<node id='-20000011' lon='21.1360609977' lat='49.3972897188'/>
+<node id='-20000012' lon='21.0671796029' lat='49.3973501675'/>
+<node id='-20000013' lon='21.0666927283' lat='49.3974821204'/>
+<node id='-20000014' lon='21.0664914122' lat='49.3978001195'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+<nd ref='-20000014' />
+</way>
+<node id='-30000000' lon='21.1305851195' lat='49.39880347'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000001' lon='21.1305851195' lat='49.39880347'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000002' lon='21.1275315196' lat='49.4079553298'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000003' lon='21.1275315196' lat='49.4079553298'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000004' lon='21.1206410971' lat='49.4017024925'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000005' lon='21.1206410971' lat='49.4017024925'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000006' lon='21.1174575554' lat='49.4093520857'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000007' lon='21.1174575554' lat='49.4093520857'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000008' lon='21.1126881738' lat='49.4085394487'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+<node id='-30000009' lon='21.1126881738' lat='49.4085394487'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='natural' v='peak'/><tag k='name' v='Sivá skala'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='ele' v='837'/><tag k='source' v='kapor2'/></node>
+</osm>

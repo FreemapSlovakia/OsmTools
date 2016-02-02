@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='18.1281780763' lat='48.7505769955'/>
+<node id='-20000001' lon='18.126126956' lat='48.786501035'/>
+<node id='-20000002' lon='18.1263079658' lat='48.7868237373'/>
+<node id='-20000003' lon='18.1267812825' lat='48.7869673441'/>
+<node id='-20000004' lon='18.1947409909' lat='48.7886428308'/>
+<node id='-20000005' lon='18.1952292031' lat='48.7885229296'/>
+<node id='-20000006' lon='18.195446108' lat='48.7882100373'/>
+<node id='-20000007' lon='18.1964475061' lat='48.7702469803'/>
+<node id='-20000008' lon='18.1974479149' lat='48.7522838519'/>
+<node id='-20000009' lon='18.1972665639' lat='48.751961262'/>
+<node id='-20000010' lon='18.1967933712' lat='48.7518179503'/>
+<node id='-20000011' lon='18.1288832174' lat='48.7501445979'/>
+<node id='-20000012' lon='18.1283952243' lat='48.7502642252'/>
+<node id='-20000013' lon='18.1281780763' lat='48.7505769955'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='18.13386' lat='48.78219'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000001' lon='18.14745' lat='48.78253'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000002' lon='18.16104' lat='48.78287'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000003' lon='18.17463' lat='48.78320'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000004' lon='18.18822' lat='48.78353'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000005' lon='18.13437' lat='48.77321'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000006' lon='18.14796' lat='48.77355'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000007' lon='18.16155' lat='48.77388'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000008' lon='18.17514' lat='48.77422'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000009' lon='18.18872' lat='48.77455'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000010' lon='18.13488' lat='48.76423'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000011' lon='18.14847' lat='48.76457'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000012' lon='18.16205' lat='48.76490'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000013' lon='18.17564' lat='48.76524'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000014' lon='18.18923' lat='48.76557'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000015' lon='18.13539' lat='48.75525'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000016' lon='18.14898' lat='48.75559'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000017' lon='18.16256' lat='48.75592'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000018' lon='18.17614' lat='48.75626'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+<node id='-10000019' lon='18.18973' lat='48.75659'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Kostolnica'/><tag k='ele' v='305'/></node>
+</osm>

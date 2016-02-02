@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osm version='0.6'>
+<node id='-20000000' lon='19.7288154434' lat='48.3746827619'/>
+<node id='-20000001' lon='19.7279190863' lat='48.4106455563'/>
+<node id='-20000002' lon='19.7281089638' lat='48.4109656777'/>
+<node id='-20000003' lon='19.7285832348' lat='48.4111026495'/>
+<node id='-20000004' lon='19.7961072221' lat='48.4118291311'/>
+<node id='-20000005' lon='19.7965879007' lat='48.4117024334'/>
+<node id='-20000006' lon='19.7967932192' lat='48.4113865637'/>
+<node id='-20000007' lon='19.7972173564' lat='48.3934047311'/>
+<node id='-20000008' lon='19.7976410766' lat='48.3754228393'/>
+<node id='-20000009' lon='19.7974508914' lat='48.3751028324'/>
+<node id='-20000010' lon='19.7969767692' lat='48.3749661467'/>
+<node id='-20000011' lon='19.7295015162' lat='48.3742405902'/>
+<node id='-20000012' lon='19.7290210274' lat='48.3743670109'/>
+<node id='-20000013' lon='19.7288154434' lat='48.3746827619'/>
+<way id='-9999'>
+<nd ref='-20000000' />
+<nd ref='-20000001' />
+<nd ref='-20000002' />
+<nd ref='-20000003' />
+<nd ref='-20000004' />
+<nd ref='-20000005' />
+<nd ref='-20000006' />
+<nd ref='-20000007' />
+<nd ref='-20000008' />
+<nd ref='-20000009' />
+<nd ref='-20000010' />
+<nd ref='-20000011' />
+<nd ref='-20000012' />
+<nd ref='-20000013' />
+</way>
+<node id='-10000000' lon='19.73546' lat='48.40623'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000001' lon='19.74896' lat='48.40638'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000002' lon='19.76247' lat='48.40652'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000003' lon='19.77597' lat='48.40667'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000004' lon='19.78947' lat='48.40681'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000005' lon='19.73568' lat='48.39724'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000006' lon='19.74919' lat='48.39738'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000007' lon='19.76269' lat='48.39753'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000008' lon='19.77619' lat='48.39768'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000009' lon='19.78969' lat='48.39782'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000010' lon='19.73591' lat='48.38825'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000011' lon='19.74940' lat='48.38840'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000012' lon='19.76290' lat='48.38854'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000013' lon='19.77640' lat='48.38869'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000014' lon='19.78990' lat='48.38883'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000015' lon='19.73613' lat='48.37926'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000016' lon='19.74963' lat='48.37940'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000017' lon='19.76312' lat='48.37955'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000018' lon='19.77662' lat='48.37969'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+<node id='-10000019' lon='19.79011' lat='48.37984'>
+<tag k='source:name' v='skgeodesy.sk'/><tag k='import_ref' v='Záväzné názvoslovie vrchov'/><tag k='natural' v='peak'/><tag k='name' v='Dlhý briežok'/><tag k='ele' v='272'/></node>
+</osm>
